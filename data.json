@@ -15932,5 +15932,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489860&idx=1&sn=a10a66519fd9c578f8c2792f582bdf19": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507841&idx=1&sn=cfa2847a732b4051019158b1f166e27f": "泛微E-cology9 前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489375&idx=1&sn=b195a66251f8d745a9b694d84fc322ca": "滥用 Windows、.NET 特性和 Unicode 规范化漏洞攻击 DNN (DotNetNuke)",
-    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526752&idx=1&sn=323ade965e504a92cfa97f8cd939be3b": "契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526752&idx=1&sn=323ade965e504a92cfa97f8cd939be3b": "契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908542&idx=1&sn=83623032b333f88591df7b0a6e59b3b9": "十年博弈 - ViewState RCE的前世今生",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=3&sn=a328e0d32ba8414355872528a04b0823": "Linux内核NFT子系统曝高危\"双重释放\"漏洞可致本地提权",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=2&sn=04a84283c9d2100a95736c652525dcd8": "开源项目mcp-remote 中存在严重漏洞可导致RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492149&idx=1&sn=0049b56198aaeb2be7adf60b3a8a13f4": "某制造业公司：30 分钟速通 2025 高危漏洞排查 + 推修实战",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490470&idx=1&sn=76647e3cbc939582e3fa73101fc442f4": "【已复现】契约锁电子签章系统存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547154&idx=1&sn=ed18dc2a48d5baf054db84d47279fb1b": "【新！】CNNVD通报微软多个安全漏洞"
 }
