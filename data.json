@@ -15917,5 +15917,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489367&idx=1&sn=084efb7db8b14482e6e9abdf2072363b": "CVE-2025-1729 - 使用 TPQMAssistant.exe 进行权限提升",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463249&idx=1&sn=37c15dcc38445d804dd90e07aa94db96": "CNNVD关于微软多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324737&idx=1&sn=8f0843cf1d51ac50bd1eae4a5f0e4c87": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488444&idx=1&sn=5b0a8866a42e54f258089ecfd7d729f3": "项目推荐 | WebGoat8.X代码审计大全，全文均可复现，适合刚学完JAVASE准备开始代码审计的师傅"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488444&idx=1&sn=5b0a8866a42e54f258089ecfd7d729f3": "项目推荐 | WebGoat8.X代码审计大全，全文均可复现，适合刚学完JAVASE准备开始代码审计的师傅",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488265&idx=1&sn=5d4f61665320ae84e621d43683817245": "高危警报！mcp-remote漏洞可完全控制你的电脑，43万次下载受影响",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490408&idx=1&sn=e246a7cc4126803185f77f25ef5eab14": "【高危漏洞预警】Git远程代码执行漏洞(CVE-2025-48384)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484056&idx=1&sn=a9e16c53606bd1cea08b46898a9fd5e2": "逻辑漏洞之皇帝的新衣",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545194&idx=1&sn=f6a13541555121a7cef45a689b02e08d": "清华大学招聘漏洞挖掘工程师（清华大学正式合同）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493681&idx=3&sn=71864d3dda485948b5ca497a40f94e12": "漏洞预警 | 东胜物流软件任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795684&idx=3&sn=af7946160c8fdf6d2793640386d7a4a4": "BlueSDK 蓝牙堆栈存在严重漏洞，可能允许在汽车系统上执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500953&idx=1&sn=616ebafdcd78c30f209b3f5ed9a2a080": "用友U9 DynamaticExport任意文件读取漏洞"
 }
