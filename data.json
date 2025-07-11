@@ -15927,5 +15927,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500953&idx=1&sn=616ebafdcd78c30f209b3f5ed9a2a080": "用友U9 DynamaticExport任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493681&idx=2&sn=d49ffc0a79a9d40fdd6d3805e5cfee49": "漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493241&idx=1&sn=0f2c4d9cbd033f0a5a9761c270351162": "最新Nessus2025.7.10版本主机漏洞扫描∕探测工具Windows∕Linux下载",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117073&idx=1&sn=8abdeb5423f80a892f9830ac759cca49": "西门子、施耐德、菲尼克斯电气修复漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117073&idx=1&sn=8abdeb5423f80a892f9830ac759cca49": "西门子、施耐德、菲尼克斯电气修复漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497185&idx=1&sn=5c7e29e397956f997d6e19486e1be0fc": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489860&idx=1&sn=a10a66519fd9c578f8c2792f582bdf19": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507841&idx=1&sn=cfa2847a732b4051019158b1f166e27f": "泛微E-cology9 前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489375&idx=1&sn=b195a66251f8d745a9b694d84fc322ca": "滥用 Windows、.NET 特性和 Unicode 规范化漏洞攻击 DNN (DotNetNuke)",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526752&idx=1&sn=323ade965e504a92cfa97f8cd939be3b": "契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
 }
