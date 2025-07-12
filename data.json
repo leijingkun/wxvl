@@ -15959,5 +15959,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547158&idx=2&sn=6590b74b0b9a26bac77f815dfde586e6": "半导体巨头AMD新型漏洞影响多款CPU，计时攻击可导致数据泄露",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497974&idx=2&sn=ed4f47f1e5616b011ef2b5371b1c1566": "你的服务器在裸奔吗？高危漏洞、端口和弱口令，哪个才是压死骆驼的最后一根稻草？",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247521456&idx=1&sn=205c24044197361741632e9f3e4f57e4": "JS扫描与漏洞挖掘利器推荐—Rotor Goddess",
-    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491912&idx=1&sn=17f6f3f0b90b29e022a81ea8c8b28cdb": "如何在日常渗透中实现通杀漏洞挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491912&idx=1&sn=17f6f3f0b90b29e022a81ea8c8b28cdb": "如何在日常渗透中实现通杀漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486552&idx=1&sn=41c4e4a40fd104f53e22f5a7143c88ad": "记一次企业src漏洞挖掘连爆七个漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493023&idx=1&sn=33bd188ed20d88bbe2bf0b5dc2b834dd": "某211高校从一个文档到十八万条sfz泄露和命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168678&idx=1&sn=ca4103b2ea097dfda3fc23c85d5c9f5e": "Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489423&idx=1&sn=f3712506893025290c1cd8f1459d5d32": "Win32k 的漏洞利用 - CVE-2023-29336 详细分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490620&idx=1&sn=24772cd1ce3d8e6c26f1f7468208eb76": "2025-7-11日漏洞情报汇总"
 }
