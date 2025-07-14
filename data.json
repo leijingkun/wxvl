@@ -15991,5 +15991,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490169&idx=1&sn=1c03eca279db12aecea40a2a46eafd9a": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487647&idx=1&sn=0568c440e430ad84c661d9862760d84d": "漏洞利用 | 用友NC IMetaWebService4BqCloud数据源SQL注入",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487511&idx=2&sn=8d2f6557da638b43fa93a032bbb453a8": "众测实战 | 一次正负叠加导致的支付漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655286633&idx=1&sn=00bc865514cb320914e0d3d577c2cacf": "渗透测试：漏洞类型、原理、危害、检测思路和利用方式"
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655286633&idx=1&sn=00bc865514cb320914e0d3d577c2cacf": "渗透测试：漏洞类型、原理、危害、检测思路和利用方式",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=1&sn=79828c12688c4daf8723f32f2877dc05": "CVE-2025-5777｜Citrix NetScaler ADC和NetScaler Gateway内存泄漏漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493700&idx=2&sn=7a27ce9d8f9c38ab8ded8423985240d6": "漏洞预警 | Git远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488291&idx=1&sn=c43fdc1546c3145467292ca96f853d05": "HW（2025-7-14）上网护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTU3MjA3OQ==&mid=2247485148&idx=1&sn=280d1d4f4a5c5819b526819228c350bf": "这是微信XSS漏洞吗？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjIzODI3Mw==&mid=2247493065&idx=1&sn=a81d56cc98a5e170e167459c7a00a7fa": "仲夏狂欢！指定类型漏洞翻倍奖励、加成奖励buff叠满！"
 }
