@@ -15996,5 +15996,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493700&idx=2&sn=7a27ce9d8f9c38ab8ded8423985240d6": "漏洞预警 | Git远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488291&idx=1&sn=c43fdc1546c3145467292ca96f853d05": "HW（2025-7-14）上网护网漏洞信息收集汇总",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTU3MjA3OQ==&mid=2247485148&idx=1&sn=280d1d4f4a5c5819b526819228c350bf": "这是微信XSS漏洞吗？",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MjIzODI3Mw==&mid=2247493065&idx=1&sn=a81d56cc98a5e170e167459c7a00a7fa": "仲夏狂欢！指定类型漏洞翻倍奖励、加成奖励buff叠满！"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjIzODI3Mw==&mid=2247493065&idx=1&sn=a81d56cc98a5e170e167459c7a00a7fa": "仲夏狂欢！指定类型漏洞翻倍奖励、加成奖励buff叠满！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486601&idx=1&sn=c46a906e9e767159a1953d41fbf8e368": "某项目后台RCE漏洞审计分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795697&idx=1&sn=d95257c858f5e767abdabe510f3bac8d": "黑客正在利用 Wing FTP 服务器中的关键 RCE 漏洞(CVE-2025-47812)",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486533&idx=1&sn=12d91dccb932998fec348e17760ef684": "工作中遇到的几个常见场景下的xss漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492236&idx=1&sn=8d8564b4b92621d0ce1783198a801077": "手把手教你如何挖洞：CVE-2025-25257 Fortinet FortiWeb 匿名 SQL 注入漏洞动态调试实战",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492614&idx=1&sn=2d05e9cc7f905932ff7bd4632366746b": "关于打高版本java,cc6复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDkyMjUxMA==&mid=2247483689&idx=1&sn=0aa653b5743553d1825b5947385aed22": "一个面板的RCE方式",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494731&idx=1&sn=e8b10030b95eeeb908be3ace5b5a2b04": "xxl-job漏洞综合利用工具"
 }
