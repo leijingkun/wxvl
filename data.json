@@ -16041,5 +16041,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651733722&idx=1&sn=2a5cc95ac03a82d96334bb722b65da1f": "攻防演练利器：启明星辰天镜漏扫精准狙击高危漏洞！",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324846&idx=3&sn=7a22c6935abca7bdf46bf166aa5bb5d8": "技嘉UEFI固件SMM漏洞使系统面临固件植入和持久控制风险",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=1&sn=aedd535f601272923435b2dcbc06a9f0": "【已复现】Fortinet FortiWeb存在SQL注入漏洞（CVE-2025-25257）",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324943&idx=1&sn=93d35c2bec5a8151f80c28ab1ae8258c": "20年历史漏洞可让黑客远程控制列车制动系统"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324943&idx=1&sn=93d35c2bec5a8151f80c28ab1ae8258c": "20年历史漏洞可让黑客远程控制列车制动系统",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493293&idx=1&sn=3ab43e73480497e2f567c4f022e8754c": "【SRC】分享某单位众测中的一次高危——逻辑漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=2&sn=b8f964af67c9b2e67292e2498926bc29": "【已复现】用友U9 Cloud远程代码执行漏洞"
 }
