@@ -16050,5 +16050,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=2&sn=72f9ba58728459766a57f577c2d117bb": "【已复现】用友U9 Cloud存在远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555471&idx=1&sn=70206928fcf4dcff0f7d8c7eb7aa9e46": "浅谈代码审计+漏洞批量一把梭哈思路",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070668&idx=2&sn=ce0182339a28bea5592baa50de5cc5e7": "【安全圈】起亚车机系统曝安全漏洞！黑客竟能远程操控",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494758&idx=1&sn=799938b39cc81cae7a6738f86eb77758": "Yscan 是一款集 Web 资产扫描、图形化 Nuclei POC 管理、漏洞验证与数据整理于一体的实战型安全工具。"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494758&idx=1&sn=799938b39cc81cae7a6738f86eb77758": "Yscan 是一款集 Web 资产扫描、图形化 Nuclei POC 管理、漏洞验证与数据整理于一体的实战型安全工具。",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=1&sn=3a91fb3c0b5f85fce1d7dbffc4e55ff9": "【已复现】存在20年的Windows虚拟硬盘权限提升漏洞(CVE-2025-49689)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489561&idx=1&sn=38afd7424219c9e5561316f486e4cc9f": "Out of Band Exploitation (OOB) 利用技术速查表",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=2&sn=a02c958b20179cf6beb420d4491d6a11": "【风险提示】VMware多个高危漏洞安全风险通告"
 }
