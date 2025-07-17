@@ -16071,5 +16071,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526818&idx=1&sn=94387d1e5ab9647a7dd70aa9f62aa3f0": "VMware ESXi、Workstation、Fusion及Tools多个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581312&idx=1&sn=16b534f5f8dc330cce051c4c5e419a78": "独家 | 360联合清华大学发布全球首份智能体安全报告，曝光20+漏洞！",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489680&idx=1&sn=37eee459a55b76471119db69d6b93f58": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503624&idx=1&sn=efb918e1db57c9ad9b7deb875cb26da5": "【已复现】LaRecipe 服务器端模板注入漏洞(CVE-2025-53833)安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503624&idx=1&sn=efb918e1db57c9ad9b7deb875cb26da5": "【已复现】LaRecipe 服务器端模板注入漏洞(CVE-2025-53833)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496130&idx=1&sn=f9bf39ffb23c2b16744cffcc11b43ccd": "关于Google Chrome V8存在类型混淆漏洞的安全公告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483901&idx=1&sn=584c0ed15e48cd1b6b2844170a747f22": "【CVE-2024–31317】提权漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490661&idx=1&sn=bdb612384cfb0e926f9418a23abe4ea4": "2025-7-17日漏洞情报汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501334&idx=2&sn=c11ce042dbc5e02e25cdeaa2e8f4c5df": "【漏洞通告】VMware VMXNET3整数溢出漏洞(CVE-2025-41236)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486562&idx=1&sn=a00c80480f832a5f80b14fafdaa68a42": "代码审计-Java项目-组件RCE代码执行漏洞审计",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519526&idx=1&sn=37208f0ff625ea825f473f210671c887": "几个常见场景下的xss漏洞案例",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488062&idx=1&sn=459cb7ef4a17d8e49db48010e6c6badf": "漏洞预警 | Linux sudo本地提权漏洞（CVE-2025-32462、CVE-2025-32463）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485014&idx=1&sn=b1a1d176fc53260b695a2462ac585079": "【吃瓜】内推\"红队\"当内鬼 | 网传wps漏洞为Nday | HV奖励吃大粪",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=3&sn=2ffef8173d9075cd1afc387bf35860d1": "谷歌 AI Big Sleep 立大功！成功阻止 SQLite 零日漏洞攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650278663&idx=1&sn=913f8c22fe39ceb1c95a3181faf1b602": "安全自检，快人一步！—— 近期攻防演练热点漏洞合集",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490457&idx=1&sn=65722e141134d410b44b7a3bb6536ff5": "【高危漏洞预警】Oracle WebLogic Server 未授权访问漏洞(CVE-2025-30762)"
 }
