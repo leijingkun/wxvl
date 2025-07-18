@@ -16094,5 +16094,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583863&idx=1&sn=247a5ef8a5281ed71aa75625259ef035": "黑客正在利用Wing FTP服务器的关键RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325085&idx=3&sn=3fdc985551c6f7ef9efd22161d1894bc": "Windows Server 2025黄金dMSA漏洞使攻击者永久获取访问权限",
     "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526106&idx=1&sn=9781b8699615f28887ac43f49d7bc1a7": "微信安全漏洞复现：无感执行远程代码",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070714&idx=3&sn=bbdd11d7e9a7fce59dacff4dec6304db": "【安全圈】230万次下载面临威胁：LaRecipe漏洞可能让服务器被完全接管"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070714&idx=3&sn=bbdd11d7e9a7fce59dacff4dec6304db": "【安全圈】230万次下载面临威胁：LaRecipe漏洞可能让服务器被完全接管",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488477&idx=1&sn=bfde8c4971f0b8b052a8eb97550e957a": "Hutool路径遍历漏洞（CVE-2018-17297）分析报告",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTAxMjA5Mg==&mid=2247484495&idx=1&sn=4f565a89e230b4cfbbfb7df78fa9706a": "CVE-2025-23267挖掘报告: GPU容器逃逸再现",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900981&idx=1&sn=7193267d6a1eda3a431e9274ea71b2ad": "一个字符引发的血案：Wing FTP服务器漏洞(CVE-2025-47812)正被全球利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484497&idx=1&sn=e16cdc5c6ab692d33c57e2a5ae01e722": "某信RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247485298&idx=1&sn=3d314c96442d84fd8ec632d9e5fa0288": "微信3.9 RCE - 补档",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574036&idx=1&sn=d5ebf7d79a401f316d47e289ace1f87f": "【SRC实战】支付逻辑漏洞挖掘"
 }
