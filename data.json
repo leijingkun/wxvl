@@ -16120,5 +16120,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MzUxNDQwNg==&mid=2247483998&idx=1&sn=1fc9a29ab6682685a8fa8f63c3c5fe97": "手把手教你学会代码审计之命令注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486091&idx=1&sn=556ca88745998628df79a141223c15f3": "CVE-2025-25257｜Fortinet FortiWeb SQL注入漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491976&idx=1&sn=f20af65d96b6110fb508b76ef107652e": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=1&sn=ce2b54456146391c0e5277a33022645d": "漏洞预警 | 金和OA SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=1&sn=ce2b54456146391c0e5277a33022645d": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184321&idx=1&sn=8e7db09c9c1be0781a68a45bef949c91": "微信3.9版本RCE漏洞，OneSEC紧急缓解、检测方法",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487834&idx=1&sn=ab354dd326ae72b7c8f31e4dc3c183e7": "新手练习向——基于文件上传漏洞获得网站shell权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTUyMzUwOQ==&mid=2247483842&idx=1&sn=69c0b569ec4687a0bf953ab0268817eb": "微信 3.9 版本RCE漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651134417&idx=1&sn=1c647891bc2a1a3fc76593fb82274590": "美国铁路关基系统曝漏洞，英国零售商650万数据遭窃取|一周特辑",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325149&idx=4&sn=def91ead440f78d348db5fd03eb51f18": "SonicWall SMA设备零日RCE漏洞遭利用，部署OVERSTEP勒索软件",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524382&idx=1&sn=b3949b61e1b5f733191292af2213769c": "OSWE = 白盒审计 + 漏洞武器化",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485850&idx=1&sn=f495ab99b95b02c18a410789c7a25244": "nacos漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485300&idx=1&sn=12af35651ea2aa886ca0cb33d243f0b1": "【LYSRC漏洞挖掘大赛】夏日攻坚行动，双倍积分+现金奖励等你拿！"
 }
