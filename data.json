@@ -16164,5 +16164,16 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=3&sn=da164a902b33bab2a35b77a492bae665": "7-Zip曝出两个可致内存损坏和拒绝服务的漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494434&idx=1&sn=f85a9125e3a2b4c7eb1bf4c737ee71d2": "契约锁pdfverifier RCE攻防绕过史",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096406&idx=1&sn=37ee7dab851324ca4ecb1e2e32c41326": "Sophos Intercept X for Windows 支持任意代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498183&idx=4&sn=c6af42bb31bf4a81149823c3a900f7f1": "微软服务器软件被曝严重安全漏洞 黑客借此在全球发起攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498183&idx=4&sn=c6af42bb31bf4a81149823c3a900f7f1": "微软服务器软件被曝严重安全漏洞 黑客借此在全球发起攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247487287&idx=1&sn=342b33e6f39c88a34c3500ee4986c9c9": "【漏洞速报】联想管家RCE？速速关机下班",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252247&idx=1&sn=bf74fd5e8745a26a605f4c8df984203f": "火绒安全：微信 Windows客户端3.9及以下版本存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495401&idx=1&sn=47e2b01157d168775fb74106c8f7523c": "安全测试效率翻倍！自动化资产测绘+漏洞扫描",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493415&idx=1&sn=0a6c89c645cd322031111cb9ac6001f8": "若依系统前台+后台漏洞总结：RuoYi框架九大高危漏洞攻防指南|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484960&idx=1&sn=ad43cab8df06b479660c3c71137eb642": "【漏洞复现】大华智能物联网综合管理平台 receive 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484302&idx=1&sn=42e0113f5e72ddc92f84826671500353": "【JAVA安全笔记】ClassPathXmlApplicationContext利用链 有参构造对象RCE打法",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493794&idx=1&sn=23458646401be62b9d63135180ab883d": "漏洞预警 | LaRecipe服务器端模板注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486588&idx=1&sn=4c73c6313fbabb62e51901d399c7a8e6": "WAF绕过-漏洞利用篇-sql注入+文件上传-过狗",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070764&idx=2&sn=d05638243e08a279721358efe3e21bb0": "【安全圈】英伟达漏洞致AI与机器人平台面临远程代码执行和数据泄露风险",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492737&idx=1&sn=491604d0f55fcdd1d0f55633eaad86d2": "若依前台漏洞总结",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=1&sn=34418dc2e46f79efadfa931f71df0600": "CVE-2023-4069：Maglev图建立阶段的一个漏洞"
 }
