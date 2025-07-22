@@ -1,10 +1,10 @@
 #  7-Zip曝出两个可致内存损坏和拒绝服务的漏洞  
- FreeBuf   2025-07-21 10:03  
+ 黑白之道   2025-07-22 02:07  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR385xfQfOZT3FGrBQUN2aE64NWH4tcpeHp17nYSpuMHxYADqGjVTS7baQIlJJGMpGXHBXfPljwia0dQ/640?wx_fmt=other&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR385xfQfOZT3FGrBQUN2aE64NWH4tcpeHp17nYSpuMHxYADqGjVTS7baQIlJJGMpGXHBXfPljwia0dQ/640?wx_fmt=other&from=appmsg&randomid=owlsksxl&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 研究人员在全球使用最广泛的开源文件压缩软件7-Zip中新发现两个漏洞（CVE-2025-53816和CVE-2025-53817）。这两个漏洞影响7-Zip 25.0.0之前的所有版本，虽然不能实现远程代码执行，但可能引发内存损坏和拒绝服务（Denial of Service，DoS）风险。  
@@ -40,28 +40,15 @@ CVE描述指出："在7-Zip 25.0.0之前版本中，RAR5处理器在堆缓冲区
 7-Zip已在最新发布的25.0.0版本中修复这两个漏洞。安全专家强烈建议用户立即升级，确保安全处理压缩文件——特别是来自不可信或未知来源的压缩包。  
   
   
-**参考来源：**  
-  
-Two Vulnerabilities in 7-Zip Could Trigger Denial of Service  
-  
-https://securityonline.info/two-vulnerabilities-in-7-zip-could-trigger-denial-of-service/  
-  
-  
-###   
-###   
-###   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324992&idx=1&sn=8303e67651ddba23a73497aeb18955fa&scene=21#wechat_redirect)  
-  
-### 电台讨论  
-  
-****  
+> **文章来源：freebuf**  
   
   
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
   
-   
+如侵权请私聊我们删文  
+  
+  
+**END**  
+  
   
