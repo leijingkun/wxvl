@@ -202,6 +202,8 @@ def main():
             urls = list(set(get_chainreactors_url() + get_BruceFeIix_url() + get_doonsec_url()))
         else:
             urls = get_issue_url()
+        current_date = datetime.datetime.now().strftime("%Y-%m-%d")
+        write_json(f"./url/{current_date}.json",urls)
         for url in urls:
             if url in data:
                 continue
