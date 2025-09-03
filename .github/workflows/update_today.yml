@@ -35,5 +35,5 @@ jobs:
         git add .
         MESSAGE=$(cat /tmp/update.log)
         COMMIT_MESSAGE="$MESSAGE"
-        git diff-index --quiet HEAD || git commit -m "$(echo -e "$COMMIT_MESSAGE")"
+        git diff-index --quiet HEAD || git commit -m "add url.json"
         git push
