@@ -16222,5 +16222,15 @@
     "https://mp.weixin.qq.com/s/9Fi2WawMDNR48P0rmDs3zA": "CVE-2026-21440 – AdonisJS 高级检测概念验证",
     "https://mp.weixin.qq.com/s/ZSUItIm5nopWZcmOVTl9dQ": "JAVA代码审计-XXOA 上传0day挖掘",
     "https://mp.weixin.qq.com/s/Fy_RRF4nm0Cvtd1vNytQbA": "【论文分享】从噪声到信号：如何在千万级软件包中精准定位漏洞影响?",
-    "https://mp.weixin.qq.com/s/OAbMbfwecclbLUKizAHJdw": "edu漏洞挖掘：某985证书站挖掘&通杀任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s/OAbMbfwecclbLUKizAHJdw": "edu漏洞挖掘：某985证书站挖掘&通杀任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/nzCUuMAkdgfcDgtEelAtsg": "AdonisJS 9.2 框架存在严重漏洞，可导致任意文件写入和RCE",
+    "https://mp.weixin.qq.com/s/253yXeH8FmulA8ay2UI_yg": "【漏洞通告】jsPDF 本地文件包含与路径遍历漏洞(CVE-2025-68428)",
+    "https://mp.weixin.qq.com/s/8bv5hyDFkN4SV6F2lHnJnQ": "周六开课！OSCE³ 之 OSED 漏洞利用实战，错过再等半年",
+    "https://mp.weixin.qq.com/s/I1_2E9OyxySwWy0KqQdJXg": "ComfyUI-Manager 远程代码执行漏洞通告",
+    "https://mp.weixin.qq.com/s/ckKhjpaay-QY1BZlLMTLSQ": "CISA KEV 清单共收录1048个已遭利用漏洞，2025年增长20%",
+    "https://mp.weixin.qq.com/s/r8QzXm8XsAEsVtK3pnsz5w": "【已复现】jsPDF 本地文件包含∕路径遍历 (CVE-2025-68428)",
+    "https://mp.weixin.qq.com/s/7-OzLX5aYHzcriDXh-LTuw": "邀测&直播|安全知识智能体应用与AI 漏洞猎人更新",
+    "https://mp.weixin.qq.com/s/cBCBE3Y1HEL_EutIEWwT0Q": "盘点 2025 年度重大安全漏洞",
+    "https://mp.weixin.qq.com/s/32RDUxdOPp30dZXjbfN4OQ": "盘点 2025 年度重大安全漏洞",
+    "https://mp.weixin.qq.com/s/OJ1d5fhiQglTYSOXxbRxbw": "【已复现】Apache Kyuubi存在目录遍历漏洞（CVE-2025-66518）"
 }
