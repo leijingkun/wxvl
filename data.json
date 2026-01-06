@@ -16240,5 +16240,6 @@
     "https://mp.weixin.qq.com/s/NywdadLoz5K_vCrAuuadBQ": "自证安全，聊聊 Spring Framework 鸡肋漏洞 CVE-2024-38816∕CVE-2024-38819 的破局之道",
     "https://mp.weixin.qq.com/s/i98edy4KN8qXhAXyTnhSxQ": "【接口漏洞第三章第二节】解锁API漏洞宝藏：从请求方法与内容类型切入",
     "https://mp.weixin.qq.com/s/IQ4tVm7C4retnqGZG_CrVQ": "【复现】GNU Wget2 目录穿越漏洞（CVE-2025-69194）",
-    "https://mp.weixin.qq.com/s/5hFAYMoPZmJgEd8BqBP41w": "【安全圈】WhatsApp 漏洞泄露用户元数据，包含设备操作系统信息"
+    "https://mp.weixin.qq.com/s/5hFAYMoPZmJgEd8BqBP41w": "【安全圈】WhatsApp 漏洞泄露用户元数据，包含设备操作系统信息",
+    "https://mp.weixin.qq.com/s/xY5WyLnusFNipKEglJdKww": "0113.Java 应用程序中的 ZIP 滑移导致远程命令执行"
 }
