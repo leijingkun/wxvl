@@ -16232,5 +16232,13 @@
     "https://mp.weixin.qq.com/s/7-OzLX5aYHzcriDXh-LTuw": "邀测&直播|安全知识智能体应用与AI 漏洞猎人更新",
     "https://mp.weixin.qq.com/s/cBCBE3Y1HEL_EutIEWwT0Q": "盘点 2025 年度重大安全漏洞",
     "https://mp.weixin.qq.com/s/32RDUxdOPp30dZXjbfN4OQ": "盘点 2025 年度重大安全漏洞",
-    "https://mp.weixin.qq.com/s/OJ1d5fhiQglTYSOXxbRxbw": "【已复现】Apache Kyuubi存在目录遍历漏洞（CVE-2025-66518）"
+    "https://mp.weixin.qq.com/s/OJ1d5fhiQglTYSOXxbRxbw": "【已复现】Apache Kyuubi存在目录遍历漏洞（CVE-2025-66518）",
+    "https://mp.weixin.qq.com/s/_Q8-EcMrlMFC6oz4o3K4aw": "【安全圈】威胁行为者声称泄露 NordVPN Salesforce 数据库及源代码",
+    "https://mp.weixin.qq.com/s/0zrePFJB2PcKMC9k2AstYA": "edu漏洞挖掘：任意密码重置管理员账户&getshell",
+    "https://mp.weixin.qq.com/s/LNNSpvpz2n8rcGcOKazrSg": "无法修补的漏洞：PS5 BootROM密钥遭泄露，索尼安全防线崩塌",
+    "https://mp.weixin.qq.com/s/sA007cm0KmkfpinrXvjXPg": "攻击者利用FortiWeb漏洞部署Sliver C2进行长期访问",
+    "https://mp.weixin.qq.com/s/NywdadLoz5K_vCrAuuadBQ": "自证安全，聊聊 Spring Framework 鸡肋漏洞 CVE-2024-38816∕CVE-2024-38819 的破局之道",
+    "https://mp.weixin.qq.com/s/i98edy4KN8qXhAXyTnhSxQ": "【接口漏洞第三章第二节】解锁API漏洞宝藏：从请求方法与内容类型切入",
+    "https://mp.weixin.qq.com/s/IQ4tVm7C4retnqGZG_CrVQ": "【复现】GNU Wget2 目录穿越漏洞（CVE-2025-69194）",
+    "https://mp.weixin.qq.com/s/5hFAYMoPZmJgEd8BqBP41w": "【安全圈】WhatsApp 漏洞泄露用户元数据，包含设备操作系统信息"
 }
