@@ -16212,5 +16212,10 @@
     "https://mp.weixin.qq.com/s/wh3DzY9jEZIuor4AUNl-NQ": "【高危漏洞预警】Dify API密钥明文暴露漏洞CVE-2025-67732",
     "https://mp.weixin.qq.com/s/NHyWqcCC9CENaU3rUBnhrA": "CTF Pwn模块系列分享（三）：溢出基础与ret2text漏洞利用",
     "https://mp.weixin.qq.com/s/R6mb4g1jwcUDZFvju-GEPg": "Shiro漏洞利用工具 -- ShiroEXP（1月4日更新）",
-    "https://mp.weixin.qq.com/s/1Tn8oNvlozv9ebsoZbelbQ": "漏洞挖掘实战系列（第2期）：Web专项（上） 注入类+文件类漏洞，吃透60%分值"
+    "https://mp.weixin.qq.com/s/1Tn8oNvlozv9ebsoZbelbQ": "漏洞挖掘实战系列（第2期）：Web专项（上） 注入类+文件类漏洞，吃透60%分值",
+    "https://mp.weixin.qq.com/s/n2b-fMLDoy_mQE0WvnY3aA": "SQL Server数据库，漏洞利用与数据勒索风险急剧增加",
+    "https://mp.weixin.qq.com/s/2AkHznQlN5LfMmQKos561w": "【已复现】jsPDF 曝高危漏洞：可窃取服务器密钥及配置文件 (CVE-2025-68428)",
+    "https://mp.weixin.qq.com/s/hPnr3ktQtL4VHZ8zAOrHyA": "帆软bi反序列漏洞利用工具",
+    "https://mp.weixin.qq.com/s/j9Z-OCPlBxwK0vv_DD_42w": "vCenter图形化漏洞利用工具",
+    "https://mp.weixin.qq.com/s/WK1WhqDW7BtGF8y2p0S25g": "Yakit复现fastjson漏洞"
 }
