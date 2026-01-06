@@ -16241,5 +16241,8 @@
     "https://mp.weixin.qq.com/s/i98edy4KN8qXhAXyTnhSxQ": "【接口漏洞第三章第二节】解锁API漏洞宝藏：从请求方法与内容类型切入",
     "https://mp.weixin.qq.com/s/IQ4tVm7C4retnqGZG_CrVQ": "【复现】GNU Wget2 目录穿越漏洞（CVE-2025-69194）",
     "https://mp.weixin.qq.com/s/5hFAYMoPZmJgEd8BqBP41w": "【安全圈】WhatsApp 漏洞泄露用户元数据，包含设备操作系统信息",
-    "https://mp.weixin.qq.com/s/xY5WyLnusFNipKEglJdKww": "0113.Java 应用程序中的 ZIP 滑移导致远程命令执行"
+    "https://mp.weixin.qq.com/s/xY5WyLnusFNipKEglJdKww": "0113.Java 应用程序中的 ZIP 滑移导致远程命令执行",
+    "https://mp.weixin.qq.com/s/BqANmEaByskImgF74an8vg": "赛普EAP企业适配管理平台Download.aspx任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/4_BbRVq7jC-cOrfuaCsTlQ": "Shiro漏洞利用工具，更新V0.2！",
+    "https://mp.weixin.qq.com/s/3wevJhBoQDRSvtq778Ig1Q": "JNPF快速开发平台存在任意文件读取漏洞 附POC"
 }
