@@ -16217,5 +16217,10 @@
     "https://mp.weixin.qq.com/s/2AkHznQlN5LfMmQKos561w": "【已复现】jsPDF 曝高危漏洞：可窃取服务器密钥及配置文件 (CVE-2025-68428)",
     "https://mp.weixin.qq.com/s/hPnr3ktQtL4VHZ8zAOrHyA": "帆软bi反序列漏洞利用工具",
     "https://mp.weixin.qq.com/s/j9Z-OCPlBxwK0vv_DD_42w": "vCenter图形化漏洞利用工具",
-    "https://mp.weixin.qq.com/s/WK1WhqDW7BtGF8y2p0S25g": "Yakit复现fastjson漏洞"
+    "https://mp.weixin.qq.com/s/WK1WhqDW7BtGF8y2p0S25g": "Yakit复现fastjson漏洞",
+    "https://mp.weixin.qq.com/s/7s5OxEG3oBQIsmrlD0_ZKQ": "信息安全漏洞月报（2025年12月）",
+    "https://mp.weixin.qq.com/s/9Fi2WawMDNR48P0rmDs3zA": "CVE-2026-21440 – AdonisJS 高级检测概念验证",
+    "https://mp.weixin.qq.com/s/ZSUItIm5nopWZcmOVTl9dQ": "JAVA代码审计-XXOA 上传0day挖掘",
+    "https://mp.weixin.qq.com/s/Fy_RRF4nm0Cvtd1vNytQbA": "【论文分享】从噪声到信号：如何在千万级软件包中精准定位漏洞影响?",
+    "https://mp.weixin.qq.com/s/OAbMbfwecclbLUKizAHJdw": "edu漏洞挖掘：某985证书站挖掘&通杀任意文件读取漏洞"
 }
