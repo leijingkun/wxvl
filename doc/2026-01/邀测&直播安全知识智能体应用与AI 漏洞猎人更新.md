@@ -1,5 +1,5 @@
 #  邀测&直播|安全知识智能体应用与AI 漏洞猎人更新  
-原创 AI赋能安全实践者  云起无垠   2026-01-06 09:09  
+ 安全极客   2026-01-06 23:35  
   
 ![](https://mmbiz.qpic.cn/mmbiz_gif/4vD467VsKgIyZ1VBWSEZ5D9CyVs2zCHdLWiaMbScsTP8jMicqnXH6icLycxZot7Q1CTPogdBQ0CduHPiaR62fe4I2g/640?wx_fmt=gif "")  
   
@@ -12,6 +12,8 @@
 1月9日（本周五）上午10:00 举办  
 线上直播，重点分享安全知识场景的核心能力与应用案例，并介绍漏洞挖掘场景的最新功能迭代与思路演进。  
   
+  
+预约参与线上直播  
   
 1  
   
@@ -145,13 +147,13 @@
   
 期待本周五与您在直播间相见，共同探索AI赋能安全的未来！  
   
-安全极客是一个致力于信息安全知识共享与交流的专业社区平台，主要围绕**GPTSecurity、智能模糊测试、软件供应链安全、红蓝攻防**  
-四大主题构建内容分享生态。云起无垠作为联合发起方，欢迎广大安全专家的加入，共同探讨前沿安全技术，促进行业内的知识分享与合作。  
+-End-  
+  
+[](https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247495405&idx=1&sn=67249648d5c312b5c178b23b077d28f3&scene=21#wechat_redirect)  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/vWuBpewLia8R7Rm0KL55HCcIiasO8JJ7IibXzYxx3losWVb2eddxdClACzWxWtQLwl0wkAl1ZLibcESVWvx5dCeibtQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=2 "")  
   
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/D9wGKNiaQYpx7bvaHqVZibq0ogu5pckjQMepnZgmhgM01uFQsoFz5QDDE0iapRkuUumSGfk8Dz7mjnbvibwPk7jISg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=4 "")  
-  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/4vD467VsKgJvXxhxgI0uwSegpw30knZ4fxL8lMEsgcQVdu4O39iceakUhyYUjOdoVCOBlJ88xNGhpOKhVYibkgZA/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp#imgIndex=5 "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/vWuBpewLia8QRqLMRicZIN6VJg0ue41W1HVSmDpDqkj86j5SNicNE3X5KkPgcdv1ZmxM7FXrFUdkBes8dpos7d27w/640?wx_fmt=other&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=4 "")  
   
   
