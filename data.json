@@ -16265,5 +16265,17 @@
     "https://mp.weixin.qq.com/s/B4zmWyT2OG_VCL22QWoscw": "一次“简单的信息收集”如何挖出了一个微软高危漏洞，并获得 MSRC 漏洞奖金",
     "https://mp.weixin.qq.com/s/zoQ2buJoOD-GnsaODbiLqw": "高危漏洞威胁情报合集 (2026-01-05~2026-01-07）",
     "https://mp.weixin.qq.com/s/1FZadgK2TOsHh7KknZgqGw": "PHP数组漏洞实战",
-    "https://mp.weixin.qq.com/s/fOHrg6yFudYwGUAaH6WhKw": "【已复现】n8n Pyodide 命令执行漏洞(CVE-2025-68668)"
+    "https://mp.weixin.qq.com/s/fOHrg6yFudYwGUAaH6WhKw": "【已复现】n8n Pyodide 命令执行漏洞(CVE-2025-68668)",
+    "https://mp.weixin.qq.com/s/5oXvc-2_RZ8D1iNjP4GV4g": "全球首例！AI智能体自主发现满级评分RCE漏洞",
+    "https://mp.weixin.qq.com/s/Arbdt-3erdFjj2-dcGxQvw": "攻击面大迁移：从网络漏洞到身份漏洞的变化",
+    "https://mp.weixin.qq.com/s/RQPNqUdLF3_7OlbjS86WEA": "携手护程 感恩有你 | 携程SRC 2025年度漏洞贡献值排行榜奖励揭晓",
+    "https://mp.weixin.qq.com/s/1Uehdvvgni1_AyF6mlj-nw": "苹果新型TCC绕过漏洞，macOS面临自动化攻击风险",
+    "https://mp.weixin.qq.com/s/YW_Mqx_QepBTFMWMjCSEsQ": "D-Link：遗留 DSL 路由器中存在已遭利用漏洞，速修复",
+    "https://mp.weixin.qq.com/s/z1NfdvfyHk0xilT7n1mkiw": "【免费领】新手必备！Web安全漏洞挖掘实战入门教程",
+    "https://mp.weixin.qq.com/s/8iMo3jDtX2BHpdeY7fY9-w": "CVE-2025-6389 — WordPress 严重零日漏洞（远程代码执行）",
+    "https://mp.weixin.qq.com/s/_R_8SRppwuKjsTU2w4xFDQ": "零人工干预！全球首例 AI 智能体锁定 CVSS10 分高危 RCE 漏洞",
+    "https://mp.weixin.qq.com/s/Pz5CsfFzKMp7S5pgt_FBJQ": "安卓音频解码组件曝高危漏洞，可致恶意代码执行，谷歌紧急发布补丁",
+    "https://mp.weixin.qq.com/s/Irh0jVBK_sHmpnRSTLIIMg": "自动化漏洞探测工具 -- MCP-GraphQL（1月5日更新）",
+    "https://mp.weixin.qq.com/s/NBEo3GMKdGBxWjeK0oYPDg": "jsPDF 本地文件包含∕目录遍历 (CVE-2025-68428)",
+    "https://mp.weixin.qq.com/s/obVVDvYaLdOL_s29SHoLbg": "【漏洞通告】Apache Kyuubi 目录访问控制绕过漏洞(CVE-2025-66518)"
 }
