@@ -16301,5 +16301,12 @@
     "https://mp.weixin.qq.com/s/_vYf3RjwlWDXRfklmFXx3w": "漏洞预警 | 金和OA SQL注入漏洞",
     "https://mp.weixin.qq.com/s/MZ6mO1t439N2OM5vbKTUAQ": "漏洞预警 | PublicCMS命令注入漏洞",
     "https://mp.weixin.qq.com/s/6U78YnlP7S8oacRS7bELQg": "漏洞复现 | 东方通TongWeb upload接口存在任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s/dvh7HGKH_6FVmn03LEQoMg": "「攻防演练」某采购系统1day任意文件下载到RCE"
+    "https://mp.weixin.qq.com/s/dvh7HGKH_6FVmn03LEQoMg": "「攻防演练」某采购系统1day任意文件下载到RCE",
+    "https://mp.weixin.qq.com/s/hfJGax9hV3BG9dOKIQOqtQ": "D-Link老款DSL路由器被曝在野利用漏洞",
+    "https://mp.weixin.qq.com/s/gCVLDBcv3A6cHnm62pdyTg": "驰骋BPM低代码开发平台 RichUploadFile 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/mJtd8lPrU15Pt-aBvmX1UQ": "京东云路由器曝严重漏洞，黑客可直接获取 root 权限",
+    "https://mp.weixin.qq.com/s/yeH3xhTDwP-s1NzxnUJjkg": "【高危漏洞预警】n8n远程代码执行漏洞CVE-2026-21877",
+    "https://mp.weixin.qq.com/s/Vufw1SzvJNa9ArLecqnlAQ": "漏洞挖掘实战系列（第 4 期）：Pwn 专项（上）——从看懂到 getshell",
+    "https://mp.weixin.qq.com/s/gRI-G36OS3FbAffFnkvCTw": "Veeam 修复备份恢复软件中的一个9分高危RCE漏洞",
+    "https://mp.weixin.qq.com/s/PFAwt0BJGitiV6j5Rojk7w": "未授权漏洞渗透技巧总结分享（十）"
 }
