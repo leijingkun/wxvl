@@ -16319,5 +16319,18 @@
     "https://mp.weixin.qq.com/s/Q2siDO0_xGYbvwPzbOaP_Q": "蓝凌OA漏洞利用总结",
     "https://mp.weixin.qq.com/s/ezMAgrMG82zFRfm1E-MO5Q": "【风险提示】MongoDB高危漏洞爆发！速查！！！",
     "https://mp.weixin.qq.com/s/8n4fLjpA7BydcLjPA_bjtA": "【已复现】n8n 远程代码执行漏洞(CVE-2026-21858)安全风险通告",
-    "https://mp.weixin.qq.com/s/QGJOtU2xDxIG8UZuzdFpsw": "CVE-2026-21877：n8n 存在认证远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s/QGJOtU2xDxIG8UZuzdFpsw": "CVE-2026-21877：n8n 存在认证远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/5GRQbN_ZqpiiOGKib41FsA": "【论文速读】| 用于软件供应链安全自主防御的Agentic AI：从溯源到漏洞缓解",
+    "https://mp.weixin.qq.com/s/pJUqfDpIlO2W_EjpsoS0FQ": "指纹识别+精准化 POC 攻击",
+    "https://mp.weixin.qq.com/s/bDfdME5ie6Nmwz2S7Ao_dg": "【附POC及复现环境】n8n双CVE漏洞利用链可致远程代码执行漏洞（CVE-2026-21858+CVE-2025-68613）",
+    "https://mp.weixin.qq.com/s/cJ_wE479L1ASzLrW9ojZWA": "高危漏洞威胁情报合集 (2026-01-08）",
+    "https://mp.weixin.qq.com/s/uc2NAhKIHqc5XHfcy4U5dg": "【高危预警】Veeam备份软件曝出 CVSS 9.0 远程代码执行漏洞，勒索软件可利用其破坏备份数据",
+    "https://mp.weixin.qq.com/s/M3euwAuL5jBaPTPTc8RBYg": "【漏洞通告】n8n Webhook 请求处理不当导致未经身份验证的文件访问漏洞(CVE-2026-21858)",
+    "https://mp.weixin.qq.com/s/u5lm3LJFVihrD5LjZy1ASw": "【漏洞通告】n8n 远程代码执行漏洞(CVE-2026-21877)",
+    "https://mp.weixin.qq.com/s/SDB4K0KqBlLAU9XKa45LJQ": "2025年12月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s/9cJkv84S0QsPngqElYpr3Q": "Veeam 修复备份服务器中的RCE漏洞",
+    "https://mp.weixin.qq.com/s/c5B5ZoxefiBiXe508mJUig": "RuoYi-4.6.0代码审计之SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/C0Uy2ebKB7IyGoDQfoTlzg": "Nacos 漏洞利用总结",
+    "https://mp.weixin.qq.com/s/SW0lK1tkMKy4kZp75QCOQg": "自动化平台n8n曝高危漏洞CVE-2026-21858，10万服务器面临接管风险",
+    "https://mp.weixin.qq.com/s/ZH8WqVbJkrbJdGvD5E_rSQ": "2025年12月企业必修安全漏洞清单"
 }
