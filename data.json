@@ -16292,5 +16292,14 @@
     "https://mp.weixin.qq.com/s/6Y2Q9oZ9IS9mWTC9iEOQRw": "昂捷CRM系统存在任意文件读取漏洞 附POC",
     "https://mp.weixin.qq.com/s/9fBFQxdUxFoRMJNDe-l2Lw": "安全测试效率翻倍！自动化资产测绘+漏洞扫描",
     "https://mp.weixin.qq.com/s/7muIh50w79vyXwXT2W02jg": "【高危漏洞预警】ComfyUI-Manager远程代码执行漏洞CVE-2025-67303",
-    "https://mp.weixin.qq.com/s/-nghD_fOJ0cQX6Q4UVOAIA": "【高危漏洞预警】jsPDF本地文件包含漏洞CVE-2025-68428"
+    "https://mp.weixin.qq.com/s/-nghD_fOJ0cQX6Q4UVOAIA": "【高危漏洞预警】jsPDF本地文件包含漏洞CVE-2025-68428",
+    "https://mp.weixin.qq.com/s/oLifiaCiKhBqRT3YQS4N8g": "某次漏洞排查引起的漏洞",
+    "https://mp.weixin.qq.com/s/RgAsNu94e-QIFmRh-GbnlA": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/0ODnsyttQICtXtzakj7DYw": "CVE-2025-60262：H3C无线设备严重配置错误，黑客可控制该设备",
+    "https://mp.weixin.qq.com/s/J5iqZMu3rYfDynpIKO6QFw": "Ni8mare高危漏洞曝光：n8n自动化平台面临未授权全面接管风险",
+    "https://mp.weixin.qq.com/s/LgAI6Ccnk0ZWzecEDzSSJQ": "国内用户需警惕黑客正积极利用老款D-Link DSL路由器中的关键远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/_vYf3RjwlWDXRfklmFXx3w": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/MZ6mO1t439N2OM5vbKTUAQ": "漏洞预警 | PublicCMS命令注入漏洞",
+    "https://mp.weixin.qq.com/s/6U78YnlP7S8oacRS7bELQg": "漏洞复现 | 东方通TongWeb upload接口存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/dvh7HGKH_6FVmn03LEQoMg": "「攻防演练」某采购系统1day任意文件下载到RCE"
 }

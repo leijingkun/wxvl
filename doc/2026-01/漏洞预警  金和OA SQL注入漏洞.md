@@ -1,5 +1,5 @@
 #  漏洞预警 | 金和OA SQL注入漏洞  
-浅安  浅安安全   2026-01-07 00:00  
+浅安  浅安安全   2026-01-08 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -24,7 +24,7 @@ SQL注入
   
 **简述：**  
 金和OA协同办公管理系统C6软件的  
-/c6/JHSoft.Web.CostControl/CostManagement/TravelBasicSetting/Budget_RegionType.aspx/和/c6/JHSoft.Web.CostControl/CostManagement/TravelExpenses/Budget_TravelFeeItem.aspx/  
+/c6/JHSoft.Web.CostU8/EAI/EatHandler.ashx  
 接口存在SQL注入漏洞，  
 未经身份验证的  
 攻击者可以通过该漏洞执行任意SQL语句，从而获取数据库敏感信息。  
