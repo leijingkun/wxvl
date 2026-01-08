@@ -16345,5 +16345,6 @@
     "https://mp.weixin.qq.com/s/xtGFMRLNafQ27jLNRRDPeA": "DLL 劫持复现记录（显式加载）",
     "https://mp.weixin.qq.com/s/AU9RXBp44RhMTV904AcRKA": "【安全圈】安卓 ∕ Linux 内核高危漏洞 CVE-2025-38352 验证性利用代码已公开",
     "https://mp.weixin.qq.com/s/RkoaOPT2SHSLU1qLHgO-tg": "黑客利用0Day漏洞工具包在野攻击VMware ESXi实例",
-    "https://mp.weixin.qq.com/s/4Y3mPSZ0hBmlLyni7xjVKQ": "【已复现】ComfyUI-Manager存在远程代码执行（CVE-2025-67303）"
+    "https://mp.weixin.qq.com/s/4Y3mPSZ0hBmlLyni7xjVKQ": "【已复现】ComfyUI-Manager存在远程代码执行（CVE-2025-67303）",
+    "https://mp.weixin.qq.com/s/VC9B3Jg5EKFQWV4RhTk3PQ": "JeecgBoot积木报表getDataSourceByPage接口存在敏感信息泄露漏洞 附POC"
 }
