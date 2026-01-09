@@ -16380,5 +16380,19 @@
     "https://mp.weixin.qq.com/s/VoJOaP_A909qRPBO1Z0s_g": "JWT安全解析：从设计哲学到致命漏洞",
     "https://mp.weixin.qq.com/s/1MKJ7rDMWKrjjQmTJ7w-hQ": "【玄域靶场】漏洞报告里挖思路，玄域靶场中练实操-实战漏洞报告板块已上线！",
     "https://mp.weixin.qq.com/s/f5bLH6n9V_-oSedvH_QvSA": "攻防场景Cursor实战化挖掘漏洞--从2天到20分钟",
-    "https://mp.weixin.qq.com/s/ZAqKEmc_j1VurL4d-DM1xA": "海湖庄园的秘密：委内瑞拉行动中的国家安全漏洞"
+    "https://mp.weixin.qq.com/s/ZAqKEmc_j1VurL4d-DM1xA": "海湖庄园的秘密：委内瑞拉行动中的国家安全漏洞",
+    "https://mp.weixin.qq.com/s/gI-FeyGB6lqjwl_oxCVd8A": "【漏洞通告】n8n 远程代码执行漏洞(CVE-2026-21858)",
+    "https://mp.weixin.qq.com/s/XKaWRWSjITR_gAmEicCXNg": "警惕跨境暗雷！韩国漏洞微基站遭改装，悄然流入中国窃隐私",
+    "https://mp.weixin.qq.com/s/CiMdkibcYiyYrQ5P_dCBPQ": "某赛通Nday漏洞分析",
+    "https://mp.weixin.qq.com/s/a_2doPRjkA4aB6dsXmRA6g": "【已复现】SmarterMail存在文件上传漏洞（CVE-2025-52691）",
+    "https://mp.weixin.qq.com/s/h2G0STVzVlsv43n_Nw1s7w": "【已复现】ComfyUI-Manager 远程代码执行漏洞(QVD-2026-2759)安全风险通告",
+    "https://mp.weixin.qq.com/s/g0mfL12GusM5L-9dkmcGLQ": "周日20点直播 | FART14秒脱海外加固厂商dexprotector加壳app",
+    "https://mp.weixin.qq.com/s/zKxDRzdWGHHbSWlW1yVfNg": "【附POC及复现环境】SmarterMail未授权任意命令执行漏洞复现（CVE-2025-52691）",
+    "https://mp.weixin.qq.com/s/Rp8EFclSWfusZB_oz6111g": "[漏洞复现]ComfyUI-Manager(CVE-2025-67303)",
+    "https://mp.weixin.qq.com/s/7fPL8gnvt4X0loaJ1qzPgA": "RuoYi 后台SQL注入漏洞系列2",
+    "https://mp.weixin.qq.com/s/xPDUHApz5a82Cq9OmM4JVA": "漏洞通告｜n8n远程代码执行漏洞（CVE-2026-21858)",
+    "https://mp.weixin.qq.com/s/RBfSscMqiQh4_HsAFrvLXg": "通用 | 春节第三趴，提交几个漏洞能拿万元奖励金∕大疆运动相机？（文末抽奖）",
+    "https://mp.weixin.qq.com/s/T2aLxuN0qYCmEOzvA3kX1Q": "【安服水洞系列】Dify API密钥明文暴露漏洞",
+    "https://mp.weixin.qq.com/s/47eKj7vlfpUnzO3-9j5wvw": "【0day预警】ComfyUI-Manager CRLF注入导致远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/G8_DI-HJqe8GuB0zTLDnGg": "Webpack打包js.map泄露导致的通杀0day"
 }
