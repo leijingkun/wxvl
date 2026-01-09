@@ -16367,5 +16367,16 @@
     "https://mp.weixin.qq.com/s/5GqRvclnjNh67egnYibZGQ": "Linux脏牛提权漏洞复现",
     "https://mp.weixin.qq.com/s/CMgG-lUg4xwBCsuSbBAyYQ": "漏洞复现 | Samsung MagicINFO 9 Server 路径遍历导致任意文件写入漏洞（CVE-2025-4632）",
     "https://mp.weixin.qq.com/s/ImWkdpZqw_g1FA3HG5k2WA": "【首发POC】n8n Python代码节点沙箱绕过导致系统命令执行 (CVE-2025-68668)",
-    "https://mp.weixin.qq.com/s/AApuS7Q0rehhB0tBYYfTyw": "【已复现】n8n 前台远程代码执行漏洞（CVE-2026-21858）"
+    "https://mp.weixin.qq.com/s/AApuS7Q0rehhB0tBYYfTyw": "【已复现】n8n 前台远程代码执行漏洞（CVE-2026-21858）",
+    "https://mp.weixin.qq.com/s/n9452S8b-YHHXDgY8BmXQA": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（1207-1220）",
+    "https://mp.weixin.qq.com/s/ic_1TCloI5b8hdGh5zD1Ng": "n8n RCE 101：CVE-2025–68613 漏洞分析",
+    "https://mp.weixin.qq.com/s/5U_K1OWuKj1ufS3s_7pdZA": "LogPoint SIEM∕SOAR 平台预认证RCE漏洞链分析:从路由配置到代码执行的完整攻击路径",
+    "https://mp.weixin.qq.com/s/4SngbeUncM3lZ31vbXnt3A": "【一马当先，洞见金甲】微众银行SRC新春专享漏洞挖掘激励计划",
+    "https://mp.weixin.qq.com/s/kR7hgM6g1hXU2CS0MtMuMw": "【已复现】SmarterMail 邮件服务器任意文件上传漏洞(CVE-2025-52691)安全风险通告",
+    "https://mp.weixin.qq.com/s/ykj0VHboXDzXlWdwF0EeRQ": "在线资源全攻略：漏洞复现、CVE 追踪、实战提升一条龙",
+    "https://mp.weixin.qq.com/s/3N-2AyhPAUa3zckkXXMKGA": "【在野利用】Cursor命令执行漏洞",
+    "https://mp.weixin.qq.com/s/EXELryA94CS-dLb1j8JD1Q": "漏洞挖掘实战系列（第5期）：Pwn专项（下） Canary绕过 + UAF堆漏洞，把Pwn从中等题打到稳定得分",
+    "https://mp.weixin.qq.com/s/shTMNLrCeSsSopiXlr0gpg": "【已复现】SmarterMail 路径遍历漏洞可导致未授权远程代码执行，EXP 已公开（CVE-2025-52691）",
+    "https://mp.weixin.qq.com/s/VoJOaP_A909qRPBO1Z0s_g": "JWT安全解析：从设计哲学到致命漏洞",
+    "https://mp.weixin.qq.com/s/1MKJ7rDMWKrjjQmTJ7w-hQ": "【玄域靶场】漏洞报告里挖思路，玄域靶场中练实操-实战漏洞报告板块已上线！"
 }
