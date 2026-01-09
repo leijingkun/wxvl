@@ -16346,5 +16346,12 @@
     "https://mp.weixin.qq.com/s/AU9RXBp44RhMTV904AcRKA": "【安全圈】安卓 ∕ Linux 内核高危漏洞 CVE-2025-38352 验证性利用代码已公开",
     "https://mp.weixin.qq.com/s/RkoaOPT2SHSLU1qLHgO-tg": "黑客利用0Day漏洞工具包在野攻击VMware ESXi实例",
     "https://mp.weixin.qq.com/s/4Y3mPSZ0hBmlLyni7xjVKQ": "【已复现】ComfyUI-Manager存在远程代码执行（CVE-2025-67303）",
-    "https://mp.weixin.qq.com/s/VC9B3Jg5EKFQWV4RhTk3PQ": "JeecgBoot积木报表getDataSourceByPage接口存在敏感信息泄露漏洞 附POC"
+    "https://mp.weixin.qq.com/s/VC9B3Jg5EKFQWV4RhTk3PQ": "JeecgBoot积木报表getDataSourceByPage接口存在敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/XjIhvLLOTEtWmVeKBMqkYg": "2025年十大高风险漏洞及其在实际攻击中的应用",
+    "https://mp.weixin.qq.com/s/bPbE8xXw4URxpDUIQiNE0Q": "MongoDB高危漏洞已被积极利用",
+    "https://mp.weixin.qq.com/s/It_8VnOhiNNAYzesd46gdw": "Apt_t00ls：Java 开发的OA设备高危漏洞集成利用工具",
+    "https://mp.weixin.qq.com/s/dWmRxao4XEsljlnAy9CTvg": "最新Nessus2026.1.8版本主机漏洞扫描∕探测工具Windows∕Linux下载",
+    "https://mp.weixin.qq.com/s/Np_-ztLJOq__mGmJjygvRA": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)",
+    "https://mp.weixin.qq.com/s/BOVBEHDQRESrN7W4UWcCbw": "详析 n8n 超危漏洞（CVE-2026-21858）如何从文件上传一路打到服务器沦陷",
+    "https://mp.weixin.qq.com/s/GPFRhF3sg7RbC8DrGl_uGA": "本地电脑没有PIN密码也可以实现文件窃取? Windows11WinRE权限控制绕过漏洞演示"
 }
