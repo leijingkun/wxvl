@@ -1,5 +1,5 @@
 #  漏洞预警 | 天锐绿盾审批系统fastjson反序列化漏洞  
-浅安  浅安安全   2026-01-07 00:00  
+浅安  浅安安全   2026-01-08 23:50  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -22,9 +22,7 @@ Fastjson反序列化
 执行任意代码****  
   
 **简述：**  
-天锐绿盾审批系统的  
-/trwfe/login.jsp/.%2e/rest/ext/app/fileopen/record和/trwfe/login.jsp/.%2e/ext/app/fileopen/list  
-接口存在Fastjson反序列化漏洞，  
+天锐绿盾审批系统的/trwfe/ws/taskCommon/endCallback接口存在Fastjson反序列化漏洞，  
 未经授权的  
 攻击者可以通过构造恶意的JSON数据包，利用Fastjson库在处理数据时存在的反序列化缺陷，在服务器端执行任意代码。  
   

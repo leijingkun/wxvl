@@ -16353,5 +16353,19 @@
     "https://mp.weixin.qq.com/s/dWmRxao4XEsljlnAy9CTvg": "最新Nessus2026.1.8版本主机漏洞扫描∕探测工具Windows∕Linux下载",
     "https://mp.weixin.qq.com/s/Np_-ztLJOq__mGmJjygvRA": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)",
     "https://mp.weixin.qq.com/s/BOVBEHDQRESrN7W4UWcCbw": "详析 n8n 超危漏洞（CVE-2026-21858）如何从文件上传一路打到服务器沦陷",
-    "https://mp.weixin.qq.com/s/GPFRhF3sg7RbC8DrGl_uGA": "本地电脑没有PIN密码也可以实现文件窃取? Windows11WinRE权限控制绕过漏洞演示"
+    "https://mp.weixin.qq.com/s/GPFRhF3sg7RbC8DrGl_uGA": "本地电脑没有PIN密码也可以实现文件窃取? Windows11WinRE权限控制绕过漏洞演示",
+    "https://mp.weixin.qq.com/s/p38IHTQNF-8KP2Efb7sLJw": "漏洞预警 | Zimbra本地文件包含漏洞",
+    "https://mp.weixin.qq.com/s/Q2Rdiwgz2bxGEZwtA_HxCg": "东胜物流软件 FileExport.aspx 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/jsKOyPq22TGjnSlAb-KvJQ": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)",
+    "https://mp.weixin.qq.com/s/448_eq5z7NCC6E08ORpRBA": "如何挖掘SRC中的支付漏洞",
+    "https://mp.weixin.qq.com/s/8sOwQ3_-XWC84JOoRQjCuw": "Linux电池实用程序漏洞允许绕过身份验证和篡改系统",
+    "https://mp.weixin.qq.com/s/SmuxnPtTdB96ts4DzHYE0A": "黑客利用0DAY漏洞利用工具包攻击 VMware ESXi 实例",
+    "https://mp.weixin.qq.com/s/iMW2TJ6EBiYZWbh-ryjwqw": "漏洞预警 | 天锐绿盾审批系统fastjson反序列化漏洞",
+    "https://mp.weixin.qq.com/s/Ki-fPXPBNUFWxqQgAD-qcQ": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+    "https://mp.weixin.qq.com/s/E-Y5ggi63OBlL9-dQ2YgNQ": "网安实验干货每日分享IIS6.0文件解析漏洞特殊符号\"∕\"–0109",
+    "https://mp.weixin.qq.com/s/k8iNMmUY3uVpe-yW0Ns1fw": "最高级别的 n8n 漏洞允许随机用户接管服务器",
+    "https://mp.weixin.qq.com/s/5GqRvclnjNh67egnYibZGQ": "Linux脏牛提权漏洞复现",
+    "https://mp.weixin.qq.com/s/CMgG-lUg4xwBCsuSbBAyYQ": "漏洞复现 | Samsung MagicINFO 9 Server 路径遍历导致任意文件写入漏洞（CVE-2025-4632）",
+    "https://mp.weixin.qq.com/s/ImWkdpZqw_g1FA3HG5k2WA": "【首发POC】n8n Python代码节点沙箱绕过导致系统命令执行 (CVE-2025-68668)",
+    "https://mp.weixin.qq.com/s/AApuS7Q0rehhB0tBYYfTyw": "【已复现】n8n 前台远程代码执行漏洞（CVE-2026-21858）"
 }
