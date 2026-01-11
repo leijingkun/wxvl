@@ -16430,5 +16430,13 @@
     "https://mp.weixin.qq.com/s/L0yYNvi0E2o45Q4WGwCSiQ": "复现pgAdmin4 <= 9.10(CVE-2025-13780)漏洞利用",
     "https://mp.weixin.qq.com/s/YnS9HNox5fCx8O-4MPCCrw": "GitLab 代码仓库平台中的 XSS 漏洞分析 $35,000",
     "https://mp.weixin.qq.com/s/2QiGOOH1Szw6YT3cl1qFcA": "Ruoyi单应用版本漏洞合集",
-    "https://mp.weixin.qq.com/s/lpcWYaMZCRQCIoCU_D_1gw": "一个价值7万美刀的谷歌漏洞"
+    "https://mp.weixin.qq.com/s/lpcWYaMZCRQCIoCU_D_1gw": "一个价值7万美刀的谷歌漏洞",
+    "https://mp.weixin.qq.com/s/ahBCyjs25I6W5KqNaLEYCw": "【黑客】App如何抓包？玄域App漏洞靶场实操演示",
+    "https://mp.weixin.qq.com/s/r1spDPzYcMvyE6yvUfNIbg": "【接口漏洞第四章第二节】隐藏参数挖不动？可能是你的 Param Miner 没配置对",
+    "https://mp.weixin.qq.com/s/hIMFJhm7vCIoAxMatILLEg": "CVE-2025-54068｜Livewire组件远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s/9D-6Lg91Mb1rx0mGGbhlPA": "CVE-2026-21440｜AdonisJS远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s/kp7S_tLBtyWhwJTpWOnuxQ": "2025年微軟Windows系統最為嚴重的十大漏洞回顧",
+    "https://mp.weixin.qq.com/s/8DHGJbxxLlReA4LND_7_Rw": "揭秘 SmarterMail 沉寂三个月后才公开的“满分”RCE 漏洞",
+    "https://mp.weixin.qq.com/s/sWeCFIPxGL-J6QutTF46dQ": "漏洞挖掘实战系列（第 7 期）：跨场景移动端与物联网漏洞挖掘",
+    "https://mp.weixin.qq.com/s/4chQzbF0T_9ta9jiCnWmLQ": "漏洞复现 | 汉王e脸通综合管理平台 uploadMapFile.do 任意文件上传漏洞"
 }
