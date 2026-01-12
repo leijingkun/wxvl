@@ -16475,5 +16475,8 @@
     "https://mp.weixin.qq.com/s/6ASsRbXNEWaJZ1NaBHXQyQ": "溯源实例-从OA到某信源RCE攻击",
     "https://mp.weixin.qq.com/s/WtRrCRISddbHiKLu8PZvkw": "Ruoyi单应用版本漏洞合集2",
     "https://mp.weixin.qq.com/s/0ay3PYjDHDDGYN3o7IXgGQ": "GGML_GGUF 文件格式漏洞深度解读与挖掘思路",
-    "https://mp.weixin.qq.com/s/0XcRHVwK1zZ2Auo0mYvGfw": "HackerOne 报告 #3124517 技术解读与漏洞赏金分析 Bounty$10,000"
+    "https://mp.weixin.qq.com/s/0XcRHVwK1zZ2Auo0mYvGfw": "HackerOne 报告 #3124517 技术解读与漏洞赏金分析 Bounty$10,000",
+    "https://mp.weixin.qq.com/s/-WuhwU3UumBOz7YiW80wgQ": "2644 万美元被盗背后：Truebit Protocol 合约漏洞分析",
+    "https://mp.weixin.qq.com/s/EFjLvjF7nPW7ioMDCkEYWg": "一次基础漏洞复现：布尔值篡改与业务参数校验缺失分析",
+    "https://mp.weixin.qq.com/s/V7HC4tki8NGSGgYTOIpGIw": "Ni8mare高危漏洞来袭 黑客可远程劫持n8n服务器"
 }
