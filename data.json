@@ -16504,5 +16504,6 @@
     "https://mp.weixin.qq.com/s/wB3uv8vnBUcRnlVYTSj_Og": "【敬请期待】记下来会更新几期常见的人性漏洞有哪些",
     "https://mp.weixin.qq.com/s/mKW4_gwhOW4aOphOFmwUeQ": "趋势科技：速修复这个严重的 Apex Central RCE漏洞",
     "https://mp.weixin.qq.com/s/EV0ozNPsX5GBNBYp-TtNEA": "CVE-2026-22184 (CVSS 9.3)：zlib 严重漏洞导致全局缓冲区溢出",
-    "https://mp.weixin.qq.com/s/-KHeodmYpguuA34OstX4kw": "CVE-2025-68428_PoC"
+    "https://mp.weixin.qq.com/s/-KHeodmYpguuA34OstX4kw": "CVE-2025-68428_PoC",
+    "https://mp.weixin.qq.com/s/_3rgR74lYIoxdgu-RbMuRw": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)"
 }
