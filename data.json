@@ -16505,5 +16505,15 @@
     "https://mp.weixin.qq.com/s/mKW4_gwhOW4aOphOFmwUeQ": "趋势科技：速修复这个严重的 Apex Central RCE漏洞",
     "https://mp.weixin.qq.com/s/EV0ozNPsX5GBNBYp-TtNEA": "CVE-2026-22184 (CVSS 9.3)：zlib 严重漏洞导致全局缓冲区溢出",
     "https://mp.weixin.qq.com/s/-KHeodmYpguuA34OstX4kw": "CVE-2025-68428_PoC",
-    "https://mp.weixin.qq.com/s/_3rgR74lYIoxdgu-RbMuRw": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)"
+    "https://mp.weixin.qq.com/s/_3rgR74lYIoxdgu-RbMuRw": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)",
+    "https://mp.weixin.qq.com/s/TDfAcmrHqRDY5aKBJLW8Cg": "黑客利用0Day漏洞工具包在野攻击VMware ESXi实例",
+    "https://mp.weixin.qq.com/s/i7fdsk7xfQz7QEqMGK6TEw": "千万罚款预警！AI安全纳入法治监管，ZoomEye Pro助力企事业单位识别AI资产和漏洞！",
+    "https://mp.weixin.qq.com/s/dR-8ycJ3Ws-b9tKgJprNnQ": "漏洞预警 | AdonisJS路径遍历漏洞",
+    "https://mp.weixin.qq.com/s/PJzyTgExzP10ox6NTRKviA": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/7kAJRKLVmiONrSCjVZF2vg": "【好靶场】存在逻辑漏洞-导致评论区消失且用户无法评论",
+    "https://mp.weixin.qq.com/s/xfUsH8kbI17P6gfzMbpPyg": "ComfyUI-Manager RCE链组合拳",
+    "https://mp.weixin.qq.com/s/gI2wDmhiQCv0XJkyBVvz5g": "低成本玩转SDN：实测OpenDaylight资源消耗仅1.1GB，完美纳管华为设备，开源方案真香！",
+    "https://mp.weixin.qq.com/s/1qTDnP6CcY3sud0d0pGJnQ": "Apache Struts 2严重漏洞可能让攻击者窃取敏感数据",
+    "https://mp.weixin.qq.com/s/JQ2OOqsz2jZThLgO0B--vg": "CVE-2025-52694 (CVSS 10)：研华 SQL 注入漏洞严重，物联网设备面临风险",
+    "https://mp.weixin.qq.com/s/0FDgQC5oRj_aakIGDBIsBA": "漏洞预警 | 天锐绿盾审批系统fastjson反序列化漏洞"
 }

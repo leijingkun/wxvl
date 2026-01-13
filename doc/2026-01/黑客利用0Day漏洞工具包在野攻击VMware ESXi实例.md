@@ -1,8 +1,7 @@
 #  黑客利用0Day漏洞工具包在野攻击VMware ESXi实例  
- FreeBuf   2026-01-08 10:31  
+ 黑白之道   2026-01-13 01:19  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
   
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR394NmBBpZoDqlukekR6EWdYcXo4hNciaIyBg31cpMrrzcblIia2uLK9S8iahH8LYopAMdx0P5LcDAY7A/640?wx_fmt=jpeg&from=appmsg "")  
@@ -59,7 +58,6 @@ PDB路径显示该工具包在简体中文环境中开发，如"全版本逃逸-
   
   
 防御建议：  
-  
 - 及时为ESXi打补丁，已停止支持的版本无法获得修复  
   
 - 使用"lsof -a"命令监控ESXi主机的VSOCK进程  
@@ -82,21 +80,15 @@ Hackers Exploiting VMware ESXi Instances in the Wild Using zero-day Exploit Tool
 https://cybersecuritynews.com/vmware-esxi-exploited-toolkit/  
   
   
-###   
-###   
-###   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333596&idx=1&sn=a5f1d8decaf400a24f3b9e74a3a357e1&scene=21#wechat_redirect)  
-###   
-### 电台讨论  
-  
-****  
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibvNluUKZ6RPy7h2fbYibRbLQDHPFqj89KkFsXBRibx5YTLiaTUfFOy9PKicps3l56iazUPNQrwdhkZ7jA/640?wx_fmt=png&from=appmsg "")  
-  
-****  
+> **文章来源：FreeBuf**  
   
   
+  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
+  
+  
+**END**  
   
   
