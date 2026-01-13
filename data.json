@@ -16533,5 +16533,12 @@
     "https://mp.weixin.qq.com/s/XlUofotbXqt9pIhEKLtwFg": "jeecgBoot漏洞利用工具",
     "https://mp.weixin.qq.com/s/ZtY6gaTvAl2h3zkOjKrg5w": "Apache Struts 2 严重 XXE 漏洞可用于窃取敏感数据",
     "https://mp.weixin.qq.com/s/sZMuNfSZ0Tvhrl4zPTODRg": "成果分享 | 智能体漏洞检测 [ASE'25, Security'25∕26, BlackHat EU]",
-    "https://mp.weixin.qq.com/s/ha6RN_TS-0JGq2V_tE2RdQ": "【已复现】深信服运维安全管理系统 protocol_session 远程代码执行"
+    "https://mp.weixin.qq.com/s/ha6RN_TS-0JGq2V_tE2RdQ": "【已复现】深信服运维安全管理系统 protocol_session 远程代码执行",
+    "https://mp.weixin.qq.com/s/cIm3JQiCYfHysKIYRSRNjA": "【漏洞通告】Apache Struts外部实体(XXE)注入漏洞S2-069（CVE-2025-68493）",
+    "https://mp.weixin.qq.com/s/QNnlrSZ8jLheyN8jxQ4FWQ": "DudeSuite 漏洞播报 全网漏洞早知道 20260113",
+    "https://mp.weixin.qq.com/s/pFEbUmXwcnh08IwNVxP16g": "智能电表远程抄表设备命令注⼊漏洞逆向分析",
+    "https://mp.weixin.qq.com/s/tPZg2oQe7OpOP0Iw28tVbQ": "帆软 excel SQL注入漏洞复现",
+    "https://mp.weixin.qq.com/s/jyEEtCvDxbruvBrcg2k7GQ": "雷神众测漏洞周报2026.1.5-2026.1.11",
+    "https://mp.weixin.qq.com/s/Xz_VUYIhYGQSu5QTi7MMGA": "【漏洞预警】Sangfor运维管理系统文件上传漏洞",
+    "https://mp.weixin.qq.com/s/oiySAV0HRvnuVXkSsEyMRg": "Telegram 的一个漏洞即使使用代理也能泄露您的 IP 地址"
 }
