@@ -16583,5 +16583,8 @@
     "https://mp.weixin.qq.com/s/0ED1GHRtViNjD_7FoiLLTQ": "Fidelity充电桩AI量化理财系统存在前台任意文件上传漏洞",
     "https://mp.weixin.qq.com/s/NESkaHThfNlTmA-zV2vgfQ": "深入DirtyPipe（CVE-2022-0847）：从内核到利用全解析",
     "https://mp.weixin.qq.com/s/4wpHbE28_Y2APBgmByXZJA": "【edu实战】记⼀次⼩程序泄露16 W+敏感信息，接管18000+账号的漏洞挖掘",
-    "https://mp.weixin.qq.com/s/-b-jZJ0FjhdGLc7DwC27iw": "基于代码相似性的软件漏洞检测研究进展"
+    "https://mp.weixin.qq.com/s/-b-jZJ0FjhdGLc7DwC27iw": "基于代码相似性的软件漏洞检测研究进展",
+    "https://mp.weixin.qq.com/s/ldpVaQBuEvmu9wqtJ79xLA": "Struts2 XXE漏洞（CVE-2025-68493）分析及复现",
+    "https://mp.weixin.qq.com/s/rzaFtbF5rfwwFrAAJYQF7g": "山石安全能力中心｜微软1月份漏洞补丁日安全通告",
+    "https://mp.weixin.qq.com/s/6gsTRGJNV0Cz1JSMF_u4_Q": "利用不安全的模板格式化在 LangSmith Playground 中实现远程代码执行"
 }
