@@ -16571,5 +16571,17 @@
     "https://mp.weixin.qq.com/s/Qa2ZUsXdbhKPWY7Ynsfy5A": "一款集成各大漏洞检测的burp插件",
     "https://mp.weixin.qq.com/s/9LbweukWUB_FJ1WNRukY8Q": "云存储桶漏洞检测浏览器扩展",
     "https://mp.weixin.qq.com/s/6BxQCqsuHm7XrmRaFGc9nA": "漏洞预警 | n8n沙箱绕过、请求处理不当和远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/1VV5prc9RuR50vofXJm-CA": "【已复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493)"
+    "https://mp.weixin.qq.com/s/1VV5prc9RuR50vofXJm-CA": "【已复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493)",
+    "https://mp.weixin.qq.com/s/kIfa5d6r-MUXJOClfUMBGw": "成果分享 | 智能体漏洞检测 [ASE'25, Security'25∕26, BlackHat EU]",
+    "https://mp.weixin.qq.com/s/q8UrZb82gmCQn7F3njNcxA": "Fidelity充电桩AI量化理财系统存在前台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/HJRgndF4AQea8RhYWvXT2g": "漏洞挖掘实战系列（第10期）：网络安全实战工具包 10款高频工具从入门到进阶用法全解析",
+    "https://mp.weixin.qq.com/s/tiEV8NdyhAY5Z_Pf-Jod5w": "东胜物流软件 DsWebService.asmx sql注入漏洞",
+    "https://mp.weixin.qq.com/s/zsXdExrrBN4wJeJd2vNrUg": "关于防范MongoDB数据库内存泄露高危漏洞的风险提示",
+    "https://mp.weixin.qq.com/s/4S6_d2xWMTLZ9FIp2X6j2A": "微软1月补丁日多个产品安全漏洞风险通告：1个在野利用、8个紧急漏洞",
+    "https://mp.weixin.qq.com/s/lo78rWLUs2Q0sJNONpOUSg": "漏洞复现 | Sangfor 运维管理系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/ykM-IfNtefsG1ECL2Inw_Q": "SBSCAN是一款专注于spring框架漏洞扫描与验证的综合利用工具。",
+    "https://mp.weixin.qq.com/s/0ED1GHRtViNjD_7FoiLLTQ": "Fidelity充电桩AI量化理财系统存在前台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/NESkaHThfNlTmA-zV2vgfQ": "深入DirtyPipe（CVE-2022-0847）：从内核到利用全解析",
+    "https://mp.weixin.qq.com/s/4wpHbE28_Y2APBgmByXZJA": "【edu实战】记⼀次⼩程序泄露16 W+敏感信息，接管18000+账号的漏洞挖掘",
+    "https://mp.weixin.qq.com/s/-b-jZJ0FjhdGLc7DwC27iw": "基于代码相似性的软件漏洞检测研究进展"
 }
