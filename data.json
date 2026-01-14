@@ -16563,5 +16563,13 @@
     "https://mp.weixin.qq.com/s/GbmIyGNB3Gd16n9RCCyPCg": "大华智能物联管理平台evo-apigw∕evo-arsm∕1.0.0∕ars∕list接口存在SQL注入漏洞 附POC",
     "https://mp.weixin.qq.com/s/9bN76uwbuVx6Eubt0eJ4ag": "【安全工具】从底层突破WAF：自动化发现协议级漏洞，绕过Web防火墙",
     "https://mp.weixin.qq.com/s/T3EB0nqxrR-GjClrTOVjhQ": "工具推荐 | 开源Shiro图形化漏洞综合利用工具",
-    "https://mp.weixin.qq.com/s/x0IfVdTtl1MR0mtui-U7Hw": "SpringBoot-Scan：针对Spring Boot的漏洞扫描和渗透工具"
+    "https://mp.weixin.qq.com/s/x0IfVdTtl1MR0mtui-U7Hw": "SpringBoot-Scan：针对Spring Boot的漏洞扫描和渗透工具",
+    "https://mp.weixin.qq.com/s/WPqyRdw6Vt1kN9UYyFw00w": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/ILYftCZzycAe4wW0NFZbdg": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/lsolNeaCSoJSBIKjj-RhlA": "黑客利用浏览器内嵌漏洞劫持Facebook账号",
+    "https://mp.weixin.qq.com/s/LvHrdh2Qn-oM99O6hzwjCA": "CVE-2026-22718：已停止维护的 Spring CLI 工具（适用于 VS Code）被发现存在命令注入漏洞",
+    "https://mp.weixin.qq.com/s/Qa2ZUsXdbhKPWY7Ynsfy5A": "一款集成各大漏洞检测的burp插件",
+    "https://mp.weixin.qq.com/s/9LbweukWUB_FJ1WNRukY8Q": "云存储桶漏洞检测浏览器扩展",
+    "https://mp.weixin.qq.com/s/6BxQCqsuHm7XrmRaFGc9nA": "漏洞预警 | n8n沙箱绕过、请求处理不当和远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/1VV5prc9RuR50vofXJm-CA": "【已复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493)"
 }
