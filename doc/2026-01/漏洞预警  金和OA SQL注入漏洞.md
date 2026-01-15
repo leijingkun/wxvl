@@ -23,7 +23,7 @@ SQL注入
 获取敏感信息  
   
 **简述：**  
-金和OA协同办公管理系统C6软件的/c6/Jhsoft.Web.dossier/DelSelectSummaryIndicators.aspx/接口存在SQL注入漏洞，  
+金和OA协同办公管理系统C6软件的/c6/JHSoft.Web.Departments/GetTreeDate.aspx/接口存在SQL注入漏洞，  
 未经身份验证的  
 攻击者可以通过该漏洞执行任意SQL语句，从而获取数据库敏感信息。  
   
