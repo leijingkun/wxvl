@@ -1,4 +1,4 @@
-#  企业SRC赏金漏洞挖掘实战-多个奖励条件绕过漏洞  
+#  Edusrc 垂直越权通杀漏洞实战 & 985证书站实战案例  
 原创 猎洞时刻  猎洞时刻   2026-01-15 00:01  
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9evFcNH31Pjh0f83GEqsibSQsGS8uUrBPLU6VJbjw8CTibOgsYYOhqqKpaQHb9BicrJcCOYhZG0tYOg/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
@@ -18,265 +18,376 @@
 本公众号保留随时修改或补充免责声明的权利，而不需事先通知。
 ```  
   
-一、挖掘站点一：  
+通杀站点 一：  
   
-1.1 领取非预期内的奖励漏洞  
   
+漏洞介绍：这是一个通杀漏洞  
+，第一、第二、第三  
+都是同款漏洞，该系统对外可以可以注册，但是注册的是普通权限，然后通过js提取到admin路径，拼接访问，使用普通权限可以  
+垂直越权  
+使用admin功能，从而操控整个前台新闻展示页面。  
   
-某小说APP存在任务领取非预期GET，通过该参数利用，用户每天可多领取书币，用于付费书籍阅读——  
   
-启动模拟环境：  
+1.1 未授权+垂直越权-证书站  
   
-抓取该页面的数据包接口：  
+该站点是一个985证书站。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjEgfdm2qPexibEJQEtgmlyvUibXYRE9RtlplsSW7ULO2mZr1RKyjQVwhg/640?wx_fmt=png&from=appmsg "")  
   
+http://www.xxxx.edu.cn/Center/?topOrgld=1#/home/HomePage  
   
-每个task任务对应相应参数值：  
+这里通过注册：使用->注册功能进入系统，验证亦可使用已经注册好的账号121xxxx/123456Ff  
   
-比如首次开通会员任务的  
-ID  
-值为1000028  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWdPuLibVfPzTekG7CCZTNLiagQOLzLdRwia6nLKicVIOHibVh5ib3DzzevQdg/640?wx_fmt=png&from=appmsg "")  
   
-新人签到福利的  
-ID  
-值为1000031  
   
-读小说新人奖励ID为 1000032  
+进入后台，因为注册的是普通用户，因此无任何有效信息；  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjSx6MkUpsaTibmQXYEtaFYDRKRLGAEicUfNgCwFhy4ia2UE6YvjH0VlEEA/640?wx_fmt=png&from=appmsg "")  
+于是进行查看f12，找一找js，有没有其他信息。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjsGuiaRpr8biaNGaydvww8yr1eeRvEpich4ycuNz5eCJMc9nlXT4yDRK5g/640?wx_fmt=png&from=appmsg "")  
+通过  
   
+JS-在:http://www.xxxx.edu.cn/Center/js/app.6aa1f718.js下包含  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjtTarRYdibBBPHs75xqDeicMnzkqbmKibRZk4S6NJUDSh39tqbHAdUaxkw/640?wx_fmt=png&from=appmsg "")  
+有大量路径:  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxW4UXNVLicOjeJILrymYGCV7QTBJu6NTrElYpibKHI3ekBe91V8ZkwVb7w/640?wx_fmt=png&from=appmsg "")  
   
   
+Config：  
   
-这里找到一个某接口数据包中不曾有的参数： {"task_id":1000029}，请求——  
   
-这个id值在自己的任务栏目中并不存在，属于是额外的任务id。  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWlSb8sKyAQg4HpOLL7DeBQqibpykylCyv7ialtpgBjv0icolLrc70BSHIA/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLj95X6yRmAibAvJMpFMMiayCbSxk2icg4m7MMvPXCBhVWlk3x6t9Ve3j4yg/640?wx_fmt=png&from=appmsg "")  
   
   
-然后使用该id，在新人签到福利里面进行领取的时候抓包，进行id替换为1000029这个额外id，于是成功领取了id为1000029的任务福利。  
+所有配置信息一览无余，基本没做任何过滤处理-尝试拼接，使用普通用户身份成功未授权访问了admin的页面：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjjBaRn5Jiapvooz3KKcLOUFT8TGkkiaQGq1U3STuIw7RTuJZWa4ib3foibQ/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjzHzOKHyuOicqPkUFYfJpbSEDhzbBibaEyOZc7QbSuI0Slj9Wa1MIdSbw/640?wx_fmt=png&from=appmsg "")  
+但是这种页面未授权，不代表存在危害，  
+还要看这里的功能、api能否操控。  
   
+http://www.xxxx.edu.cn/AdminIndex.jsp  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWrs4sYGMSMeEfmj7ypI1dW8FTcOxx0YyDSag2wWyQwQ53oD07R3mP1g/640?wx_fmt=png&from=appmsg "")  
   
   
-随着对该产品进行了深层次研究，发现通过POST   
   
-/xxxx/xxxx/redcandle/task/done接口回传的数组，可以构造任意满足阅读任务的请求及  
-不在阅读任务清单中的任务请求  
-，完成书币无条件利用——  
+继续拼接完整的地址：  
   
+http://www.xxxx.edu.cn/Center/#/admin/HomeConfigPage  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWHcMF0ggKibbhkodCbvicNEqrxetYxWwcIiaEa2fEkiciccHUiavpmM56j5Hw/640?wx_fmt=png&from=appmsg "")  
   
-其次该漏洞，除了在历史数据包中去发现额外的任务id，然后拼接id去领取之外，还可以进行id的爆破便利领取。  
   
+点击中心动态：  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxW6RcRgKTdxQXOWryk7bh9ibcK6Go9y9xZOrAtKeTe4UCXcQKiafPox9iaw/640?wx_fmt=png&from=appmsg "")  
   
-1.2 修改time时间强行完成任务，领取奖励漏洞  
   
-观察——  
+越权成功，给前端新闻页面添加一个新的栏目：  
   
-发现这些任务id，还有对应的领取时间，需要完成阅读时间，才能领取对应的奖励。  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxW456pYNGogicXLFPicq4PhCLUanaRQWUbKtNA3rCxv6mx3h3sicgdDtzDQ/640?wx_fmt=png&from=appmsg "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjIibFzoXuEBgnxKlYDssJPSV0QKzw3l74wlAvwjCXooypTjVqCjSRiclw/640?wx_fmt=png&from=appmsg "")  
+其他浏览器访问，成功增加一个新的栏目“中心动态动态”，证明后台可以控制这个前台页面。  
   
   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWMt3INNPmjrSg5wicl25SIt9WTdrNtOXRSI5qJIJaEJgSLoOuxXZNp6g/640?wx_fmt=png&from=appmsg "")  
   
-这个其实就是【福利中心】任务二请求，但是通过构造：  
   
-POST   
-/xxxx/xxxx/  
-redcandle/task/done?redcandle_read_time=  
+下面这个接口可以编辑网站文章：  
   
-即可绕过校验，也就是把这里传到前端的json拿来用即可：  
+http://www.xxxx.edu.cn/Center/#/admin/ArticlePage/:id  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjQ60vMtw48MfyMH8iaM7YreWnWwCPf6QwOsaqhcUQsJpr0xgdz3F6sgQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWTYxbBias1HzR2I6jyjnMw1W7iaiaibG4O2RO6YCZjk9ES3TKXITdqYg4Wg/640?wx_fmt=png&from=appmsg "")  
   
   
-领取书币，这里有个计算公式：  
   
-redcandle_read_time=60，  
+admin【添加文章】，被恶意操作会造成舆论影响。  
   
-就是1分钟，通过计算  
+访问:http://www.xxxx.edu.cn/Center/#/applicationCenter/Manager，创建课程：  
   
-redcandle_read_time=60*180=10800，  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWuibHMemNvqcu6T8pEpZQkqANux0eb94Sp34icb8ccalW3cR5ImOG8libw/640?wx_fmt=png&from=appmsg "")  
   
-即redcandle_read_time>=10800即可GET到任务中所有书币{250个}，这是预期任务内的利用：  
   
+下面这个是评价中心配置接口：  
   
-于是计算到时间为10800，就足够领取全部奖励，然后在进行抓包，在下面api接口，直接修改原本的时间，修改为10800，然后发包。  
+http://www.xxx.edu.cn/Center/#/config/QuestionnaireConfigPage  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWKYdR3jT9QB2UtXJRaianNUBQqOYkaTC4sEGJFYQm6iaIpMdgkRUXZPPw/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjqAVB0LA4h8Ejek0PiaBjM6QBicqUxry6vnRrkL7iccvQk1yOzw1icuw54g/640?wx_fmt=png&from=appmsg "")  
   
+演示了修改轮播图：  
   
-成功领取全部奖励。  
+/dataCenter/#/admin/ConfigPage/:id  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLj2fnuU0GcMNYqSB5lnRicBwTZb0KQxsyFU14BRfjn2mq6h7hFaKBw58A/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWld6QGuPwyGzhlayFFibPtWTPzjLRlJrLXqVrQuDqQZh7VlZ8X719aSA/640?wx_fmt=png&from=appmsg "")  
   
   
+访问站点，页面主页成功被修改为绿色面具图片：  
   
-任务条被拉满，奖励随便领取：  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxW1A5lKyjaicq5zIXibicTYiaaOagrLSjqcvC3eUibiaBURE5g9vPIr99OZ2Bg/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjOrc13g9LHkXoWZF7r5VoClibx9icn8KMPP0anLuPPDI6iaA78XUSribNwg/640?wx_fmt=png&from=appmsg "")  
   
+该漏洞因为可以直接修改官网前台页面，可以直接造成恶劣影响，因此证明漏洞存在后，给予恢复一切正常，随后提交漏洞。  
   
   
-1.3 强行修改阅读数量，领取奖励  
+通杀站点 二 ：  
   
+2.1 未授权敏感信息泄露  
   
-非产品设计内的利用：参数遍历到这个：  
+https://xxx.edu.cn/Center/?topOrgld=1#/cmsHomePage  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjaaT96P5TnjHRCcFibFuuoX5uxxOm2ftFN7eyiaw3LxLNLkX1ZCZhrcpQ/640?wx_fmt=png&from=appmsg "")  
   
+和上面那个一样，也是一个经典的前台主页。  
   
-这个是书籍数量的任务埋点，但如果笔者阅读完以下，会提示已读完：  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWicnONORaYeCo5Y6qIZKvMmIeyI8xVB67P3YqBoUURrobA2NBoCvL8Iw/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjPghBzYICiclwqYSXWmuZ4fFrYTUFcpRPtw3qbIFx0PCv6lfodHggSfw/640?wx_fmt=png&from=appmsg "")  
   
   
-并没有弹窗发放书币，并且在任务说明里也是没有这一项的，  
-说明是开发预留设计，至少是暂未上线的活动任务  
-，这里利用构造API为：  
+然后使用js提取插件跑出这些接口：  
   
-POST   
-/xxxx/xxxx/  
-/redcandle/task/done?redcandle_read_count=6   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWnhd9UtY1xpUHyQ0Ts8dP3sgK52L8cno1xBk3Eum9vfqN4I0auQFNyQ/640?wx_fmt=png&from=appmsg "")  
   
-对比，这里的6，就是完成阅读6本书籍。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjxf4ACOh5rUXCUWsD4qNicib296nUjsgPxNzCuc2iacjun9ibxibdicS1lEKQ/640?wx_fmt=png&from=appmsg "")  
   
+对路径进行拼接，可以看到系统管理员看到的，得到配置信息以及操作和上面一样，但是后面发现下面接口是有敏感信息的——  
   
+访问  
   
-刷新——  
+https:/xxxx.edu.cn/Center/?Orgld=1#/approval/AccountApprovalPage 通过抓取返回包可以看到成员的身份证信息：  
   
-成功完成阅读全部6个书籍，回到奖励页面，  
-可以直接领取阅读完成奖励。  
+包含个人姓名、学校、身份证号、手机号等敏感信息。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjv1Smczd99ibrA1slzwiaKb0dicAOfYuNGh8t4CiaPabzx52jucvDXRm11Q/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWj7HDRz6RXNoicPtsZWpoiakxkTLbsaYpFDAQQicEmKB7xWI8ezoYuqzibw/640?wx_fmt=png&from=appmsg "")  
   
   
-突出危害点：  
   
-书币使用条件和充值口的是等价的——  
+通杀站点 三：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjOl6bcEiaiarj3T50deicmMbibmfBduTYrluSyIehqL8tzn5iaQn1ZTGbJjg/640?wx_fmt=png&from=appmsg "")  
+3.1 未授权+垂直越权  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjibGePO987fSZjNL0nnf2icFxf4ryxiaACPsHTDnAmH2IAXTEED7GyPjYQ/640?wx_fmt=png&from=appmsg "")  
+http://xxxx.com/Center/?topOrgId=1#/home/HomePage  
   
+一样的方法，访问某个学校的前台新闻主页。  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWGUrjQKJyFlKIW8NxnIHabGtZN3Lck25GbSF1If0kwfgP1FxyGFAbbQ/640?wx_fmt=png&from=appmsg "")  
   
-这个漏洞关键点在于可以利用遍历的参数回显的key进行构造，只要满足数值大于回显里的要求就能直接获取奖励。  
   
+https://xxxx.com/Center/js/app.0109cfd8.js  
   
-二、挖掘站点二：  
   
+可控管理员操作路径包含但不限于以下：  
   
-XX某应用存在三个接口越权-  
+https://xxxx.com/Center/#/admin/HomeConfigPage  
   
-【第一个接口是创建预测，用别人的清单id发起预测，干扰别人的预测缓存，攻击者能通过响应成功与否来探测哪些清单id是有效的】  
+依旧尝试修改栏目，比如添加“中心概貌111”、“实验教学111”  
   
-【第二个接口获取别人预测结果】  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWnWP6RjxZ6Dia1Y6K7DjwrNUZlGeZJHURUqB2xic4HHcUYYUy7cvM0oXw/640?wx_fmt=png&from=appmsg "")  
   
-【第三个接口，直接返回基于别人清单推荐的达人列表，而且带着完整的报价细节】——  
   
+刷新前台页面：  
   
-https://xxxx.cn/ad/creator/user/author-lists/detail?id=7584237899622498342  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWQLYvib8F6cvdsp256YWczqIics8TeHxI4avpQYfqc0ydY3hUknDSF7Xg/640?wx_fmt=png&from=appmsg "")  
   
-这是帐号一的id  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjPbt718dIuAnR4O2LNaCRrX4ImjibBvSX0VhwDOhdAyUSKedf7DPicZCQ/640?wx_fmt=png&from=appmsg "")  
   
   
+继续：https://xxxx.com/Center/?topOrgId=1#/home/HomePage  
   
-然后账号二，创建了另一个清单ID： 7584254656496255027  
+进行垂直越权和未授权添加广告模块  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjbJ3BFmYJeXf0oxfl5BPdCgPQBXY69mVuMA0DQbOQCH4eq4xj7VtwzQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWNibMFZPdjTYcFvbgmTLd4k1QlW8QbarbUCyHBTOC2HLOKIjOs30Z70g/640?wx_fmt=png&from=appmsg "")  
   
   
+可对网站文章进行编辑，删除等操作，  
   
-在以下API中替换为第一个达人清单ID进行越权，  
-用别人的清单id发起预测  
-：  
+访问：  
   
+https://xxxx.com/Center/#/admin/ArticlePage/:id；  
   
-POST /xxx/api/gsearch/recommend_for_star_authors  
+访问：  
   
-{"page":1,"limit":20,"platform_channel":1,"recommend_strategy":10,"extra_info":{"author_list_id":"7584237899622498342"}}  
+https://xxxx.com/Center/#/config/EvaluationQuestionnaireConfigPage  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWvvlgpFBff6DwicnrytRBIVZ4voTa1deNgTiby8fPTxJ0HdnwGOILPpKg/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjGP9qgtcBsaNVEO6vWS0AMRia46MFxicR4Uq7ibNZ4wpJ8wrMtuYApribPw/640?wx_fmt=png&from=appmsg "")  
   
+演示轮播图修改——Center/#/admin/SwiperConfigPage/:id：  
   
-自己的达人清单数据：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjrszwqUShtwRrhx9LdG6XSxu16AUKZYRVoKCneKaAdl3GaWiaQTicnXRw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWiayKvd5J0DVibhxKrZpjT2p9lyw2rgkKM4LrmFX4Be8a5iaGfyUzIeH0w/640?wx_fmt=png&from=appmsg "")  
   
   
-这里后面发现可以请求这个page：  
+于是页面主页成功变成了随便找的图片  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjiaCKOkDq2H3SkF2eIEiayh8YZvEfEugOXU3mQdAvFbNbTl6JZuetX9WQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWwmwb3v6nLx9FhzyDbuicJI8b837ZmGw7iblxL9d88ma5K1GVWuuQfVZA/640?wx_fmt=png&from=appmsg "")  
   
   
-但是其他api接口向服务端发起请求，判断完才可主动发起请求，所以直接去访问page是得不到的。  
+挖掘四 小程序：  
   
+4.1 逻辑漏洞权限提升登陆  
   
-清单ID不存在时：  
+某教育厅管辖的小程序：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjibk4ewCrr4Mia2YcZbIeWFvUVUhswU3qRxsfD9Cp1DKsGSCptWbqM9zA/640?wx_fmt=png&from=appmsg "")  
+进入小程序：  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWsmTPp8OIhRshaCNtd2NWO8x8BbMLgM0CgRbpGgukks7hjzGqeVj9BQ/640?wx_fmt=png&from=appmsg "")  
   
   
-证明存在IDOR，api2：  
+这里需要微信code授权，填好基本信息：  
   
-GET/xxx/api/gauthor/demander_get_latest_author_list_predict?list_id=7584237899622498342 HTTP/2——  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxW0YwtaZibOlHelekQDoXURU0x5NpWuonTMDNia8PMBugzHfFZoxFUic7lw/640?wx_fmt=png&from=appmsg "")  
   
-获取别人预测结果  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjrt8niaaTZjeLdzOHeRNd81DZUbia9BjChsJed8P9RC3f5whvvHyElSVg/640?wx_fmt=png&from=appmsg "")  
+可以看到“我的”主页没有配置任何明显权限操作。  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWzYEJsKFlenr3Ob72tQwkGsUYvkYwpJt3XIRcLnBnLQFWSrGDXI82Xg/640?wx_fmt=png&from=appmsg "")  
   
-攻击者利用他人的list_id反复发起预测请求-可能污染该清单相关的预测模型数据，影响清单所有者在后续获取预测结果的准确性，而list_id与uid相关联，高频调用可导致其他用户账号异常封禁（审核可自测）。清单id不存在时：证明存在IDOR。 api3：   
   
+启动BP拦包，点击刷新登录，修改返回包如下：  
   
-POST /xxx/api/gauthor/demander_create_author_list_predict  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWOB4uZ4yWpaNytzD79Xibta7pdeTDMlmjia71NXO0e7Z3yDwic8R5MZiarQ/640?wx_fmt=png&from=appmsg "")  
   
-{"list_id":"7584237899622498342","first_industry_id":0,"first_category":20,"top_rate":50}  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjUymgok4LPEG3M9ff4JdYZY53GC7UMe9kT5ZhUoFdR2XKsAeVTKniaUQ/640?wx_fmt=png&from=appmsg "")  
+HTTP/1.1 200 OK  
   
+Server:JSP3/2.0.14  
   
-操作别人清单里的预测动作，证明存在IDOR：  
+Date: Wed, 01 May 2024 16:53:56 GMT  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLj2Jrc01XlrkFsp7Udxfbn1oc7IAx32HF90I5ZFoDGa3Mo4FFOn0sH8w/640?wx_fmt=png&from=appmsg "")  
+Content-Type: text/html; charset=utf-8  
+  
+Content-Length:280  
+  
+Connection: close  
+  
+Cache-Control: private  
+  
+X-AspNet-Version: 0  
+  
+X-Powered-By: WAF/2.0  
+  
+Ohc-Cache-HIT: km4cm76 [1], csix76 [1]  
+  
+Ohc-File-Size:280  
+  
+X-Cache-Status: MSS  
+  
+  
+{“admin”:”0”}  
+  
+  
+  
+经测试发现:admin = 0/1/2/3/4 分别对应不同等级:  
+  
+有查看一般教师但无明显管理权限/校级/县级/市级权限。  
+  
+admin=4级别最高。  
+  
+  
+然后我们把返回包的0改成4，重新进入后发现页面完全不同的，可以操控各种东西。  
+  
+比如以下页面。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWMyRicSIuZVGFq4gYCSloibfc6ZKSxxOYqvQFkt9gDwTiccibYad3ericmPg/640?wx_fmt=png&from=appmsg "")  
+  
+  
+  
+  
+  
+可以随意查看教师管理  
+  
+  
+再点击管理员：  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWKyT2RIBng6MCHYeL2M7hvg2ibWvwpia2pd5saycqVN2aXoy0y5dEv55g/640?wx_fmt=png&from=appmsg "")  
+  
+  
+  
+抓这个包。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxW71S7wmF4hzlJbeeaA56yHTqPpGTOkmkvRyajn9gpyH9gAhVyrjBeFw/640?wx_fmt=png&from=appmsg "")  
+  
+在重放器内还可以看到所有人的注册信息，包含各种权限的帐号。一次性泄漏所有人信息。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWWljzCMY0Z8O771xgjObRVMqJqa4RRw4US6DRKP7XMHjnibv1I1YZLHg/640?wx_fmt=png&from=appmsg "")  
+  
+  
+  
+  
+挖掘五 公众号：  
+  
+  
+5.1 任意密码修改  
+  
+点公众号这个业务办理：  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxWrD7OKxTNwfp4zAYOZMuk1RV4Qyj77ybxiaolxCxwzZ5g2bz1xyLqPbQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+  
+在进行密码修改的时候。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxW6Kw7ibvEGrhNMTBKs7PDAzQchpqLFrGawNGeIvCILWS4rjRa6mSyTxw/640?wx_fmt=png&from=appmsg "")  
+  
+  
+  
+抓包发现这个接口：  
+  
+POST /htwx/updatePwd HTTP/2  
+  
+Host:   
+  
+Cookie: JSESSIONID=36PcPHdjD4Ksk9d7YDJwgqelT;ISESSIONID=36PcPH47dyv3rCrwH6j2Dmw9l3YA29YDJwgqellT  
+  
+Content-Length: 45  
+  
+Accept: /  
+  
+X-Requested-With: XMLHttpRequestUser-Agent: Mozilla/5.1(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like GeckoChrome/107.0.0.0 Safari/528.20 NetType/WlFl MicroMessenger/7.0.20.1781(0x6700143B)WindowsWechat(0x6309092b)XWEB/8555 FlueContent-Type: application/json;charset=UTF-8  
+  
+Sec-Fetch-Site: same-origin  
+  
+Sec-Fetch-Mode: cors  
+  
+Sec-Fetch-Dest: empty  
+  
+Accept-Encoding: gzip, deflate  
+  
+Accept-Language:zh-CN,zh;q=0.9  
+  
+  
+{'newpsd":"123456Aa","yhbh":"0xxxx0022",”captcha”:”yojv”}  
+  
+  
+很明显是关于用户密码修改的api，并且它都没有鉴别原来的  
+oldpassword旧密码  
+参数，也是直接出洞  
+  
+  
   
   
   
 如果需要挖洞实战src培训(含一对一技术和入职解答)和安全考证，欢迎看下面介绍嗷～  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibib9dGhbbLFuSBu3FTFItLjkFIFUztsDV4ScIgzQib6K04suXJ9hENmNPvpT5oMicoqYVChzT3045vg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicIRaIcZLWwicfRNtX2EtKxW1XoXamveu5Mexh52X2rPm7tEjhdoXOicTkbE7SbTUlPclGGulD4mnkA/640?wx_fmt=png&from=appmsg "")  
   
   
 ## 《往期内容》开局一个登陆口渗透二十多种方式-公开课  
 ## 竟然还有搞网络安全的学生不了解校招？真要以后后悔莫及？  
   
 ## Webpack打包js.map泄露导致的通杀0day  
+  
+  
+## API Fuzz结合AI实战获取数据库密码漏洞-实战证书站案例  
+  
+  
+## 【edu实战】记⼀次⼩程序泄露16 W+敏感信息，接管18000+账号的 漏洞挖掘  
   
 ## 某次攻防突破打点和内网刷分  
 ## SRC | 一次路径可控造成0click的账号接管  

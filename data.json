@@ -16621,5 +16621,21 @@
     "https://mp.weixin.qq.com/s/OuRt_afnVoQ21XrCIabGYQ": "高危漏洞威胁情报合集 (2026-01-14）",
     "https://mp.weixin.qq.com/s/urblBuPWzhxefl75bq_Cpw": "【接口漏洞第六章第一节】你以为前端参数可控就安全了？聊聊服务器端参数污染",
     "https://mp.weixin.qq.com/s/6IlwHMux-32N_F-zk-pc4A": "致命的波塞冬核漏洞",
-    "https://mp.weixin.qq.com/s/38xOy1EufX7O3hyaPnYpcw": "恶意数据被“合法保存”的那一刻，漏洞已经注定：二次 SQL 注入实战解析"
+    "https://mp.weixin.qq.com/s/38xOy1EufX7O3hyaPnYpcw": "恶意数据被“合法保存”的那一刻，漏洞已经注定：二次 SQL 注入实战解析",
+    "https://mp.weixin.qq.com/s/JxRtiE-sFNOEXTVr2o4ynw": "漏洞预警 | 东胜物流软件文件删除漏洞",
+    "https://mp.weixin.qq.com/s/TMW0L3YuO0zn41uJjcI8ng": "企业SRC赏金漏洞挖掘实战-多个奖励条件绕过漏洞",
+    "https://mp.weixin.qq.com/s/_mydGg7gIcMOzo0sCTAmzg": "Struts2 XXE漏洞（CVE-2025-68493）分析及复现",
+    "https://mp.weixin.qq.com/s/pFh0cr075M0AfeYlbEkAYQ": "记一次SRC支付漏洞实战",
+    "https://mp.weixin.qq.com/s/XQQk-7TPy-CcbFdreanKRw": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/xHuk0jOWdU8x_0Tk6hVO5w": "Letta 代码执行漏洞 (CVE-2025-51482)",
+    "https://mp.weixin.qq.com/s/Dpxr8JtdfDxf70JF528Hww": "关于 VulnHunter -AI 漏洞猎人v6.0 版本发布推迟",
+    "https://mp.weixin.qq.com/s/O25H79ucdyy02eK-c_Qg9w": "漏洞预警 | jsPDF路径遍历漏洞",
+    "https://mp.weixin.qq.com/s/yUzINvq_nFsWHmkDDNcJcA": "1day | Apache Struts XML外部实体注入漏洞(CVE-2025-68493)",
+    "https://mp.weixin.qq.com/s/DqbvIy7T2ta_He_iujhk_Q": "漏洞预警 | 天锐绿盾审批系统信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/m7oXfnmFDXr5LQQ0PLjtDQ": "Edusrc 垂直越权通杀漏洞实战 & 985证书站实战案例",
+    "https://mp.weixin.qq.com/s/eS-FvpSFjOHKXe3N3f1XOw": "命令注入警报：LoadMaster 和 MOVEit WAF 存在高危漏洞",
+    "https://mp.weixin.qq.com/s/3d0a67AFBIlhNvHPlA8aKA": "微软桌面窗口管理器零日漏洞已被利用",
+    "https://mp.weixin.qq.com/s/lkj2G5HhYyv7-vTiq4A-pA": "【成功复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493)",
+    "https://mp.weixin.qq.com/s/hnKUnmJfbbmtbzeNKPAw2A": "漏洞预警 | Langflow身份验证缺失漏洞",
+    "https://mp.weixin.qq.com/s/vSN5ZYJ6fmravzD3_-kX_Q": "Edusrc 垂直越权通杀漏洞实战 & 985证书站实战案例"
 }
