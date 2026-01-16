@@ -16698,5 +16698,14 @@
     "https://mp.weixin.qq.com/s/zorOAGoejzYgGjbkQ6oEkA": "shiro反序列化漏洞综合利用,包含（回显执行命令注入内存马）",
     "https://mp.weixin.qq.com/s/rkbZdimyIlDEXVVKQiEiPg": "HPE Aruba漏洞致敏感信息遭未授权访问",
     "https://mp.weixin.qq.com/s/uub9l6ACfdQ8qSYF6Nz0DA": "CVE-2026-20824漏洞：Windows远程协助存在安全功能绕过风险",
-    "https://mp.weixin.qq.com/s/-LnxpwYw6Lz4ayZ1yywn1A": "致远OA wpsAssistServlet 任意文件上传漏洞(CVE-2025-34040)"
+    "https://mp.weixin.qq.com/s/-LnxpwYw6Lz4ayZ1yywn1A": "致远OA wpsAssistServlet 任意文件上传漏洞(CVE-2025-34040)",
+    "https://mp.weixin.qq.com/s/PZ8ZvUO4_Zee84flXO3v6Q": "【已复现】全程云OA QCHMS.asmx SQL Injection",
+    "https://mp.weixin.qq.com/s/ETpsLUR_6oj9Tfo5BDAjfg": "【已复现】FortiClientEMS SQL 注入漏洞可导致远程代码执行(CVE-2025-59922)",
+    "https://mp.weixin.qq.com/s/dgwBqMrpBt1VcDjS_r_lxQ": "网安实验干货每日分享XSS跨站脚本-DOM型XSS漏洞挖掘1-0116",
+    "https://mp.weixin.qq.com/s/xWhzRjzUYmoCUZyawBlE3w": "【漏洞复现】致远OA wpsAssistServlet 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/5dSPARFn1uwmuD8s-t_Z-A": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s/3PMdID0xfTN7iyYRYF9Eug": "OA渗透测试的思维盲区：从漏洞猎人到系统拆解师",
+    "https://mp.weixin.qq.com/s/brVPs4QPTMNF4RWtr6ROaQ": "信息安全漏洞周报【第056期】",
+    "https://mp.weixin.qq.com/s/lVfChUZIiaiW82dSJhh3KA": "你想拥有一个自己开发的漏洞靶场吗？",
+    "https://mp.weixin.qq.com/s/yE0DPZQkxpMrn-dY1IwROQ": "Apache Struts XWork XML漏洞CVE-2025-68493 poc及脚本"
 }
