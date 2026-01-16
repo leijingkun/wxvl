@@ -16707,5 +16707,12 @@
     "https://mp.weixin.qq.com/s/3PMdID0xfTN7iyYRYF9Eug": "OA渗透测试的思维盲区：从漏洞猎人到系统拆解师",
     "https://mp.weixin.qq.com/s/brVPs4QPTMNF4RWtr6ROaQ": "信息安全漏洞周报【第056期】",
     "https://mp.weixin.qq.com/s/lVfChUZIiaiW82dSJhh3KA": "你想拥有一个自己开发的漏洞靶场吗？",
-    "https://mp.weixin.qq.com/s/yE0DPZQkxpMrn-dY1IwROQ": "Apache Struts XWork XML漏洞CVE-2025-68493 poc及脚本"
+    "https://mp.weixin.qq.com/s/yE0DPZQkxpMrn-dY1IwROQ": "Apache Struts XWork XML漏洞CVE-2025-68493 poc及脚本",
+    "https://mp.weixin.qq.com/s/Onp-0m-Z47peRh7zz_OGhg": "漏洞挖掘实战系列（第12期）：业务逻辑漏洞挖掘 从“会技术”到“能挖真实漏洞”的关键一步",
+    "https://mp.weixin.qq.com/s/M-R_ZaDuPCirHuX2Q7XVGQ": "【漏洞通告】opencode-ai 未认证 HTTP 服务导致任意命令执行漏洞(CVE-2026-22812)",
+    "https://mp.weixin.qq.com/s/PD1mfrZ9G5VBKJA3MtsLyQ": "今晚20点直播 | 想挖IoT漏洞？这个Tenda 0day案例你不能错过",
+    "https://mp.weixin.qq.com/s/5j6wHqjHmWvrEh888ybYjQ": "外卖平台惨遭黑手！系 Salesforce 系统数据泄露蝴蝶效应",
+    "https://mp.weixin.qq.com/s/Kyl7XigvyllXXe5qcu4jbg": "安全热点周报：微软修复 2026 年 DWM 中首个信息泄露零日漏洞",
+    "https://mp.weixin.qq.com/s/P3sWlLs3xrR_bVkO24Kreg": "【附POC及复现环境】Appsmith任意用户密码重置漏洞（CVE-2026-22794）",
+    "https://mp.weixin.qq.com/s/R6Z77S_ZfQDVuiKc28ODqA": "从 XSS 到 RCE：Electron 应用中的真实攻击链"
 }
