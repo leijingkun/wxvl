@@ -16695,5 +16695,8 @@
     "https://mp.weixin.qq.com/s/3QOLtuqu0jX5YbmiAFRSPA": "SOC342 — CVE-2025-53770 SharePoint ToolShell 身份绕过与远程代码执行",
     "https://mp.weixin.qq.com/s/PiYjB2IBUgLYwCVHs5M99w": "2026高危端口漏洞",
     "https://mp.weixin.qq.com/s/bLbQxfopQOWPcYWK1-u_Mg": "用友NC存在反序列漏洞",
-    "https://mp.weixin.qq.com/s/zorOAGoejzYgGjbkQ6oEkA": "shiro反序列化漏洞综合利用,包含（回显执行命令注入内存马）"
+    "https://mp.weixin.qq.com/s/zorOAGoejzYgGjbkQ6oEkA": "shiro反序列化漏洞综合利用,包含（回显执行命令注入内存马）",
+    "https://mp.weixin.qq.com/s/rkbZdimyIlDEXVVKQiEiPg": "HPE Aruba漏洞致敏感信息遭未授权访问",
+    "https://mp.weixin.qq.com/s/uub9l6ACfdQ8qSYF6Nz0DA": "CVE-2026-20824漏洞：Windows远程协助存在安全功能绕过风险",
+    "https://mp.weixin.qq.com/s/-LnxpwYw6Lz4ayZ1yywn1A": "致远OA wpsAssistServlet 任意文件上传漏洞(CVE-2025-34040)"
 }
