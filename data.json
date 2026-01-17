@@ -16735,5 +16735,7 @@
     "https://mp.weixin.qq.com/s/cnaokGTQ0-W0jUZmni8cCg": "漏洞挖掘实战系列（第13期）：业务逻辑漏洞实战 登录∕支付∕密码重置全解析",
     "https://mp.weixin.qq.com/s/gc6jKK2QuKkiTzHMXsTVTw": "实战中XSS漏洞的挖掘与利用",
     "https://mp.weixin.qq.com/s/NpYdCE1VqK3Zi25a6RmmMg": "【2】CVE-2025-38352 – 在不打内核补丁的情况下扩展竞争窗口",
-    "https://mp.weixin.qq.com/s/pNQkwcoOj_dfd22yFJF6lg": "Strix AI驱动的漏洞动态验证能力分析"
+    "https://mp.weixin.qq.com/s/pNQkwcoOj_dfd22yFJF6lg": "Strix AI驱动的漏洞动态验证能力分析",
+    "https://mp.weixin.qq.com/s/FvjY4VXy2RnktgEzPnrw1A": "通过 AppleKeyStore 引发的 SEP 固件崩溃 - iOS∕macOS 26.x 内核漏洞",
+    "https://mp.weixin.qq.com/s/vgqgGHdxw62OlYArhXhB5Q": "RondoDox 僵尸网络在攻击浪潮中针对 HPE OneView 漏洞"
 }
