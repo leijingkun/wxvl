@@ -16737,5 +16737,7 @@
     "https://mp.weixin.qq.com/s/NpYdCE1VqK3Zi25a6RmmMg": "【2】CVE-2025-38352 – 在不打内核补丁的情况下扩展竞争窗口",
     "https://mp.weixin.qq.com/s/pNQkwcoOj_dfd22yFJF6lg": "Strix AI驱动的漏洞动态验证能力分析",
     "https://mp.weixin.qq.com/s/FvjY4VXy2RnktgEzPnrw1A": "通过 AppleKeyStore 引发的 SEP 固件崩溃 - iOS∕macOS 26.x 内核漏洞",
-    "https://mp.weixin.qq.com/s/vgqgGHdxw62OlYArhXhB5Q": "RondoDox 僵尸网络在攻击浪潮中针对 HPE OneView 漏洞"
+    "https://mp.weixin.qq.com/s/vgqgGHdxw62OlYArhXhB5Q": "RondoDox 僵尸网络在攻击浪潮中针对 HPE OneView 漏洞",
+    "https://mp.weixin.qq.com/s/2uPMY1aXcPbL3m4AH9VtfQ": "CNNVD | 人工智能重要漏洞通报（2026年第一期）",
+    "https://mp.weixin.qq.com/s/lO-S_Z5Ih_18k1bR7AUbGw": "CNNVD | 关于微软多个安全漏洞的通报"
 }
