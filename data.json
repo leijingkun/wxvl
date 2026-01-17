@@ -16740,5 +16740,9 @@
     "https://mp.weixin.qq.com/s/vgqgGHdxw62OlYArhXhB5Q": "RondoDox 僵尸网络在攻击浪潮中针对 HPE OneView 漏洞",
     "https://mp.weixin.qq.com/s/2uPMY1aXcPbL3m4AH9VtfQ": "CNNVD | 人工智能重要漏洞通报（2026年第一期）",
     "https://mp.weixin.qq.com/s/lO-S_Z5Ih_18k1bR7AUbGw": "CNNVD | 关于微软多个安全漏洞的通报",
-    "https://mp.weixin.qq.com/s/3XKSfJTB5yR4XVMLDtw4vg": "渗透测试利器・供应链组件投毒隐患：DNSLog 与 Webhook 平台盘点（无回显漏洞数据外带指南）"
+    "https://mp.weixin.qq.com/s/3XKSfJTB5yR4XVMLDtw4vg": "渗透测试利器・供应链组件投毒隐患：DNSLog 与 Webhook 平台盘点（无回显漏洞数据外带指南）",
+    "https://mp.weixin.qq.com/s/OiGevLf5PhkUGZcrDq0ekQ": "【安全圈】AMD Zen 1~5全系CPU曝出StackWarp漏洞",
+    "https://mp.weixin.qq.com/s/0WmG2ZUgx8ffmH9g9m_bqA": "【安全圈】男子利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑",
+    "https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ": "Firefox 147发布时修复了16个允许任意代码执行的漏洞",
+    "https://mp.weixin.qq.com/s/11LMAoJ_Vp6swU0esKDMNg": "【接口漏洞第六章第四节】绕过前端限制：浅析REST路径中的服务器端参数污染漏洞"
 }
