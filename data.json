@@ -16746,5 +16746,8 @@
     "https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ": "Firefox 147发布时修复了16个允许任意代码执行的漏洞",
     "https://mp.weixin.qq.com/s/11LMAoJ_Vp6swU0esKDMNg": "【接口漏洞第六章第四节】绕过前端限制：浅析REST路径中的服务器端参数污染漏洞",
     "https://mp.weixin.qq.com/s/mIRWVqNzCk7yoY2bIkLsdQ": "漏洞科普——React Server Components 拒绝服务漏洞（CVE-2025-67779）",
-    "https://mp.weixin.qq.com/s/1LiBtZ-aiY8MLknS81AWRA": "【转载】复盘2025：在WAF的缝隙里开出花来（附EDU通杀0DayPOC）"
+    "https://mp.weixin.qq.com/s/1LiBtZ-aiY8MLknS81AWRA": "【转载】复盘2025：在WAF的缝隙里开出花来（附EDU通杀0DayPOC）",
+    "https://mp.weixin.qq.com/s/9vO2mNzI0F2qonYIsnGV7w": "【代码审计】CVE-2025-46836",
+    "https://mp.weixin.qq.com/s/PlmmAvhgmIgFQbdcKkbnrQ": "一次从0到1的逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s/7oGpjbtH1DhNqt70HwO5PQ": "漏洞复现 | 用友U8Cloud IPFxxFileService 任意文件上传漏洞"
 }
