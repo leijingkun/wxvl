@@ -16797,5 +16797,7 @@
     "https://mp.weixin.qq.com/s/vQt85_4s_eBTGnm8MbAEnA": "XSS 漏洞练习靶场，覆盖反射型、存储型、DOM 型、SVG、CSP、框架注入、协议绕过等多种场景",
     "https://mp.weixin.qq.com/s/hU8C_YDpfO86apIrWCYrnA": "漏洞预警 | 东胜物流软件信息泄露漏洞",
     "https://mp.weixin.qq.com/s/QjfNm80kRR-sFebRhPUI8g": "漏洞预警 | 金和OA SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/ddILckBmvEjbFRB5U5TvRA": "虚假 Malwarebytes 活动利用 DLL 侧载漏洞植入信息窃取程序"
+    "https://mp.weixin.qq.com/s/ddILckBmvEjbFRB5U5TvRA": "虚假 Malwarebytes 活动利用 DLL 侧载漏洞植入信息窃取程序",
+    "https://mp.weixin.qq.com/s/LVr7_70UBsTxjb67hlS6yw": "短信发送功能点漏洞挖掘",
+    "https://mp.weixin.qq.com/s/FyzAVvP2d4GqQY0HovzXKA": "森鑫炬水务企业综合运营平台 Instance∕Get 任意文件读取漏洞"
 }
