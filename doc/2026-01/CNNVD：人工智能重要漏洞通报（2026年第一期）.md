@@ -1,19 +1,11 @@
 #  CNNVD：人工智能重要漏洞通报（2026年第一期）  
- 网络安全和信息化   2026-01-19 09:31  
+ 网安百色   2026-01-19 11:44  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/co91jb4rYkMS1aiczeI7fQZYc15QnPeBz1j3OtrKGiaC4J55k4F2ReSvgXZn9hHt7UAnoPP38HXxrsiaPQugN4UIw/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/co91jb4rYkMS1aiczeI7fQZYc15QnPeBz1j3OtrKGiaC4J55k4F2ReSvgXZn9hHt7UAnoPP38HXxrsiaPQugN4UIw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0 "")  
   
 来源：CNNVD  
   
--  
-END  
--  
+本公众号所载文章为本公众号原创或根据网络搜索下载编辑整理，文章版权归原作者所有，仅供读者学习、参考，禁止用于商业用途。因转载众多，无法找到真正来源，如标错来源，或对于文中所使用的图片、文字、链接中所包含的软件/资料等，如有侵权，请跟我们联系删除，谢谢！  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/co91jb4rYkM8O2Vk1NMvSibBxaP5NSgRL1CpLoy06mLBVffNPZvoS2J6QNQnu0ybyprZ4UicZ4X7icgo5M3YWndwg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1&randomid=t4omqpdm&retryload=1&tp=webp#imgIndex=0 "")  
-  
-  
-**2026年杂志订阅开始啦~**  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/co91jb4rYkPhgRZr1jWNOHQc9dEtv4BIGOFRFibVXKHzKTk6m6HnTzJgDtDDRaVV7Xt04ZW3Inm7SEovRKDo6gw/640?wx_fmt=jpeg&from=appmsg&wxfrom=5&wx_lazy=1&retryload=1&tp=webp#imgIndex=4 "")  
-  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/1QIbxKfhZo5lNbibXUkeIxDGJmD2Md5vKicbNtIkdNvibicL87FjAOqGicuxcgBuRjjolLcGDOnfhMdykXibWuH6DV1g/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&randomid=p6hk1x4r&tp=webp#imgIndex=1 "")  
   
