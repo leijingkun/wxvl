@@ -16799,5 +16799,21 @@
     "https://mp.weixin.qq.com/s/QjfNm80kRR-sFebRhPUI8g": "漏洞预警 | 金和OA SQL注入漏洞",
     "https://mp.weixin.qq.com/s/ddILckBmvEjbFRB5U5TvRA": "虚假 Malwarebytes 活动利用 DLL 侧载漏洞植入信息窃取程序",
     "https://mp.weixin.qq.com/s/LVr7_70UBsTxjb67hlS6yw": "短信发送功能点漏洞挖掘",
-    "https://mp.weixin.qq.com/s/FyzAVvP2d4GqQY0HovzXKA": "森鑫炬水务企业综合运营平台 Instance∕Get 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s/FyzAVvP2d4GqQY0HovzXKA": "森鑫炬水务企业综合运营平台 Instance∕Get 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/sf5k0lXTB3opsp-acSnp8A": "0day漏洞利用合集",
+    "https://mp.weixin.qq.com/s/AYAqm-EsqYeR8l20S4ndPg": "苹果督促用户更新 iPhone 至 iOS 26.2，以修复遭黑客利用的 WebKit 安全漏洞",
+    "https://mp.weixin.qq.com/s/vHyPpvfDS2fnXcF-n7z-qw": "横跨数十年的漏洞与新型堆破坏：glibc 重大安全缺陷曝光",
+    "https://mp.weixin.qq.com/s/cwNoi8Ad_rCeOuNyD9_VrA": "【漏洞通告】n8n Python 任务执行器沙箱逃逸导致任意代码执行漏洞(CVE-2026-0863)",
+    "https://mp.weixin.qq.com/s/4xs9nkJAsy4HXQ3jCnUZDA": "【高危漏洞预警】Windows电话服务权限提升漏洞CVE-2026-20931",
+    "https://mp.weixin.qq.com/s/5G4ZzkBBqgNghbSdO6udhg": "工信部网络安全威胁和漏洞信息共享平台发布高危漏洞风险提示",
+    "https://mp.weixin.qq.com/s/7T6A0ZDwpu5GfVkvYUPPuw": "【已复现】n8n 沙箱逃逸导致远程代码执行漏洞(CVE-2026-0863)",
+    "https://mp.weixin.qq.com/s/gdwjni_xpqT1VPO9xmPr-A": "CNVD漏洞周报2026年第2期",
+    "https://mp.weixin.qq.com/s/T3vtmueTfcA52xyb5GfI6A": "近期0day+POC|Windows RCE 0day漏洞利用|最后一个宣称通杀Android12–16",
+    "https://mp.weixin.qq.com/s/ILs6qgUtG55kwOuN5LwYOA": "xxl-job 越权漏洞",
+    "https://mp.weixin.qq.com/s/REXQt-uAdwXPzL12TSu_zw": "上周关注度较高的产品安全漏洞(20260112-20260118)",
+    "https://mp.weixin.qq.com/s/Fd3WRAO6All-iKD-kHZZLA": "CNNVD：人工智能重要漏洞通报（2026年第一期）",
+    "https://mp.weixin.qq.com/s/MSOPSB2DZ06wA26_u6EvYg": "【玄域】web∕app靶场-新增加验证码缺陷&密码重置靶场 | 新增3份实战漏洞报告",
+    "https://mp.weixin.qq.com/s/IXC4ipNSzJ9A-hZCluGBYA": "浙江宇视视频管理系统setNatConfig命令执行漏洞",
+    "https://mp.weixin.qq.com/s/NOQTXLMpKN92wMrcHjteMQ": "【安全资讯】谷歌 Project Zero 披露 Pixel 9 严重 0-click 漏洞利用链！发送音频文件无需交互即可内核提权控制手机",
+    "https://mp.weixin.qq.com/s/irc5ZXTDoJvkAbBURKMwAw": "【接口漏洞第七章第二节】服务器端参数污染漏洞综述：从原理、检测到手动验证指南"
 }
