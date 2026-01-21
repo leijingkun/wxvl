@@ -16959,5 +16959,6 @@
     "https://mp.weixin.qq.com/s/TgnsahDlk47F73-kVEg0-w": "Anthropic MCP Git 服务器漏洞可用于访问文件和执行代码",
     "https://mp.weixin.qq.com/s/6qGhmaD7lpwa1c9xJq66GA": "Cloudflare 0Day漏洞可绕过防护直接访问任意主机服务器",
     "https://mp.weixin.qq.com/s/olUhcDJP3u5yK85_jZN02w": "百款AI应用集体“裸奔”：云端漏洞引发数据灾难",
-    "https://mp.weixin.qq.com/s/cdWpY8JO9e1cYQ3r-RIVpg": "Redis 远程代码执行漏洞曝光：官方容器现“老式”栈溢出高危风险"
+    "https://mp.weixin.qq.com/s/cdWpY8JO9e1cYQ3r-RIVpg": "Redis 远程代码执行漏洞曝光：官方容器现“老式”栈溢出高危风险",
+    "https://mp.weixin.qq.com/s/ZORMIVuNYgYPFZbxshGw7Q": "Cloudflare WAF 零日漏洞：可访问全球任何主机"
 }
