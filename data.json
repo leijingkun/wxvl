@@ -16943,5 +16943,9 @@
     "https://mp.weixin.qq.com/s/mk6LGeOENGoO9jn1iyPdlQ": "zero-day点击远程漏洞攻击链 - 可绕过 iOS 加密信任（已在 iOS 18.4.1 中修复）",
     "https://mp.weixin.qq.com/s/_igxxjZSKKPSR5u-qqZ4IQ": "智能⻔锁蓝⽛通信模块整数溢出漏洞分析",
     "https://mp.weixin.qq.com/s/HP-e-6eddmzEtr6U3EnaMA": "分享多个EDUSRC&企业SRC中、高危漏洞（已修复）",
-    "https://mp.weixin.qq.com/s/j1U3OQOI2SatYWq-DZ7qvQ": "UC浏览器一键内存损坏漏洞：利用V8补丁间隙漏洞窃取您的数据"
+    "https://mp.weixin.qq.com/s/j1U3OQOI2SatYWq-DZ7qvQ": "UC浏览器一键内存损坏漏洞：利用V8补丁间隙漏洞窃取您的数据",
+    "https://mp.weixin.qq.com/s/Do2tOGIiFqA3vpNX6jwG6A": "Windows SMB客户端漏洞可导致攻击者掌控Active Directory环境",
+    "https://mp.weixin.qq.com/s/kkLsRsc_IrP8gkmfUe-BBg": "【已复现】GNU InetUtils telnetd 远程身份认证绕过漏洞(QVD-2026-4408)安全风险通告",
+    "https://mp.weixin.qq.com/s/t4F-x2ojV5-ZhTTH_UoHgQ": "记某edusrc的任意用户密码重置漏洞挖掘",
+    "https://mp.weixin.qq.com/s/4F2tY7AP-Qyi5Tak7lPVeg": "未来已来：漏洞挖掘智能体VulnAgent 发现两个Suricata 高危漏洞，并获官方致谢!"
 }
