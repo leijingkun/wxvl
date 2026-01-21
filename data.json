@@ -16960,5 +16960,10 @@
     "https://mp.weixin.qq.com/s/6qGhmaD7lpwa1c9xJq66GA": "Cloudflare 0Day漏洞可绕过防护直接访问任意主机服务器",
     "https://mp.weixin.qq.com/s/olUhcDJP3u5yK85_jZN02w": "百款AI应用集体“裸奔”：云端漏洞引发数据灾难",
     "https://mp.weixin.qq.com/s/cdWpY8JO9e1cYQ3r-RIVpg": "Redis 远程代码执行漏洞曝光：官方容器现“老式”栈溢出高危风险",
-    "https://mp.weixin.qq.com/s/ZORMIVuNYgYPFZbxshGw7Q": "Cloudflare WAF 零日漏洞：可访问全球任何主机"
+    "https://mp.weixin.qq.com/s/ZORMIVuNYgYPFZbxshGw7Q": "Cloudflare WAF 零日漏洞：可访问全球任何主机",
+    "https://mp.weixin.qq.com/s/cRPHl0FEL3kDkyQZ7GYo7g": "攻防技巧|快速高效挖掘.net系统漏洞",
+    "https://mp.weixin.qq.com/s/hVSCK-VKXjF3gexImuTLjA": "最新高危漏洞威胁情报合集 (2026-01-21）",
+    "https://mp.weixin.qq.com/s/-fxvgoVz5GQU6mOzozYG6w": "缓解Web应用程序漏洞从了解OWASP Top 10开始",
+    "https://mp.weixin.qq.com/s/678gSaJ-b3f2AgKK1A813Q": "【高危漏洞预警】GNU InetUtils telnetd远程认证绕过漏洞CVE-2026-24061",
+    "https://mp.weixin.qq.com/s/BMcWmEx-eOHcnxLR7adA9g": "常见OAuth 漏洞：未验证token"
 }
