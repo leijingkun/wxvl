@@ -17001,5 +17001,11 @@
     "https://mp.weixin.qq.com/s/-MlKa1FijrrsMwoCU5ujBQ": "【红队】Shiro反序列化漏洞一站式综合利用工具",
     "https://mp.weixin.qq.com/s/Wb6D_-pHQZVjemZti3QGsQ": "安全小知识-第二十期_Redis未授权访问漏洞利用与修复",
     "https://mp.weixin.qq.com/s/hWf6CRlpsZFru7wrdbguaA": "智监・精防・速处——企业漏洞智能防护中枢",
-    "https://mp.weixin.qq.com/s/l1PQ1YDcUezaMVT1-unQ7Q": "大洞，速修！！！Linux Telnetd 远程代码执行！"
+    "https://mp.weixin.qq.com/s/l1PQ1YDcUezaMVT1-unQ7Q": "大洞，速修！！！Linux Telnetd 远程代码执行！",
+    "https://mp.weixin.qq.com/s/WPd5yUTgPSP3isO2DyepNw": "附排查方法！GNU InetUtils Telnetd 远程认证绕过漏洞（CVE-2026-24061）",
+    "https://mp.weixin.qq.com/s/r4s3jD2XpSHYZG5h5e8I8Q": "巨洞 CVE-2026-24061 Linux Telnetd 远程代码执行",
+    "https://mp.weixin.qq.com/s/K78zZTgQCkGPLt7YbyRwaQ": "针对若依系统nday的常见各种姿势利用",
+    "https://mp.weixin.qq.com/s/L8SuzCB00EypG8XKPT5ALw": "【火速排查】Linux Telnet 远程代码执行！",
+    "https://mp.weixin.qq.com/s/ozPG8_QVHRBvKPU8aSozfQ": "大洞，必看！Linux Telnet 远程代码执行！",
+    "https://mp.weixin.qq.com/s/iueFrUg7geKBaMprqyyfQg": "GNU InetUtils telnetd 远程认证绕过漏洞（CVE-2026-24061）"
 }
