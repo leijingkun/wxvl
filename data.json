@@ -16988,5 +16988,18 @@
     "https://mp.weixin.qq.com/s/9_TUGRuTHWbjWV4Iy6reTA": "Webpack打包js.map泄露导致的通杀0day",
     "https://mp.weixin.qq.com/s/q81u9yaeC0rPr8MkS8hkBw": "【已复现】GNU InetUtils telnetd 远程身份认证绕过漏洞(QVD-2026-4408)",
     "https://mp.weixin.qq.com/s/hNfyByebe8NhUzgEPwAWgg": "普华PMS OfficeService存在任意文件读取漏洞【已复现】",
-    "https://mp.weixin.qq.com/s/Wai-Tb7B3CReHRw3BUPYJw": "【红队】一款专业的多协议漏洞利用与攻击模拟平台"
+    "https://mp.weixin.qq.com/s/Wai-Tb7B3CReHRw3BUPYJw": "【红队】一款专业的多协议漏洞利用与攻击模拟平台",
+    "https://mp.weixin.qq.com/s/bXIqI7_iO0QfN0Ok48epQQ": "【已复现】易宝OA StockTakeIsPartNumber存在SQL注入",
+    "https://mp.weixin.qq.com/s/IR1bJGUKWK-edwRF1znjAw": "细一点 你说的没有含金量了从爬虫到特权：SRC路径遍历漏洞的全链路狩猎",
+    "https://mp.weixin.qq.com/s/HETieO2Ts06x3SzcKf-fjw": "Spring Boot Actuator未授权访问漏洞",
+    "https://mp.weixin.qq.com/s/3xdkVXVdfX7dazQ32PUUZQ": "Shiro反序列化漏洞一站式综合利用工具 -- ShiroExploit（1月21日更新）",
+    "https://mp.weixin.qq.com/s/ilgelT0vc-_eXKW7ydl5pA": "StealC木马源码泄露后续：安全研究员教你如何通过控制台漏洞反向溯源",
+    "https://mp.weixin.qq.com/s/n6iYKFOJaqDgAGEXGH3YAQ": "网安实验干货每日分享反射型XSS漏洞挖掘-0122",
+    "https://mp.weixin.qq.com/s/ZYIzxnSoCnDyseN12txeDA": "天锐绿盾审批系统 uploadWxFile.do 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/s-PvYADfibYQTpjdSG_x_Q": "CNNVD关于Oracle多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s/HTOhttfT0eDCcvFaTpVhYg": "Oracle 2026年1月多产品高危漏洞风险警告",
+    "https://mp.weixin.qq.com/s/-MlKa1FijrrsMwoCU5ujBQ": "【红队】Shiro反序列化漏洞一站式综合利用工具",
+    "https://mp.weixin.qq.com/s/Wb6D_-pHQZVjemZti3QGsQ": "安全小知识-第二十期_Redis未授权访问漏洞利用与修复",
+    "https://mp.weixin.qq.com/s/hWf6CRlpsZFru7wrdbguaA": "智监・精防・速处——企业漏洞智能防护中枢",
+    "https://mp.weixin.qq.com/s/l1PQ1YDcUezaMVT1-unQ7Q": "大洞，速修！！！Linux Telnetd 远程代码执行！"
 }
