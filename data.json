@@ -17022,5 +17022,9 @@
     "https://mp.weixin.qq.com/s/7a6T5BzJjQOwa3cx_eEw6A": "【漏洞通告】vLLM auto_map 动态模块远程代码执行漏洞 (CVE-2026-22807)",
     "https://mp.weixin.qq.com/s/DlItFJYQPLPsypCrYMHB_g": "【556】【有靶场】CVE-2026-24061 GNU Inetutils telnetd 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/6mm-VK2MRNfk61dVXkTSjQ": "【在野利用】SmarterMail 管理员密码重置认证绕过漏洞",
-    "https://mp.weixin.qq.com/s/waGpfH8zdgwFBDtumlfBGA": "GNU InetUtils telnetd 远程认证绕过漏洞(CVE-2026-24061)"
+    "https://mp.weixin.qq.com/s/waGpfH8zdgwFBDtumlfBGA": "GNU InetUtils telnetd 远程认证绕过漏洞(CVE-2026-24061)",
+    "https://mp.weixin.qq.com/s/XU2KLWLeqT9JE3NtoJ9s2w": "漏洞挖掘实战系列（第18期）：高级Pwn技巧 ROP进阶+堆风水+格式化字符串漏洞",
+    "https://mp.weixin.qq.com/s/8eCk0AGCaoM4GCyRDhFb1w": "【漏洞通告】GNU InetUtils Telnetd远程身份验证绕过漏洞（CVE-2026-24061）",
+    "https://mp.weixin.qq.com/s/WhtAkCYQ1-hj7tI4weoUxw": "【WordPress专题08】全网首发POC及漏洞分析 CVE-2025-15403权限提升漏洞",
+    "https://mp.weixin.qq.com/s/bNbMgMLMKYnQf8IqhgTuPQ": "【论文速读】|大语言模型在代码漏洞分析中的应用：一项概念验证研究"
 }
