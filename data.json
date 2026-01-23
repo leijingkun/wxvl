@@ -17087,5 +17087,22 @@
     "https://mp.weixin.qq.com/s/VVpBm5KbFa38kndt0Ghr1A": "【逻辑漏洞】【有靶场】某校*派出现优惠卷无限领取漏洞",
     "https://mp.weixin.qq.com/s/KAqtymxTi4bZEsO-bZ_l4g": "【已复现】CVE-2026-24061 GNU Inetutils telnetd 远程认证绕过漏洞复现与分析",
     "https://mp.weixin.qq.com/s/U1GMcISBNQJFY_kn0yPwLA": "SmarterMail 认证绕过新漏洞被用于劫持管理员账号",
-    "https://mp.weixin.qq.com/s/dXZvXPjSErLav_6B1ybQgA": "首尔特辑 | 白泽PoC 2025 参会小记"
+    "https://mp.weixin.qq.com/s/dXZvXPjSErLav_6B1ybQgA": "首尔特辑 | 白泽PoC 2025 参会小记",
+    "https://mp.weixin.qq.com/s/eKC2GH7qNRWHD9z_xEkqCw": "利用 WAF 窃取 Salesforce OAuth 令牌",
+    "https://mp.weixin.qq.com/s/vXPKjS4NYl5BzCVZNEWgFA": "谁在线上？利用 Windows Telephony Service 服务器模式漏洞：从任意文件写入到 RCE",
+    "https://mp.weixin.qq.com/s/vngnc3t2mZfVMflpOhYaYw": "Fortinet 确认 FortiCloud SSO 身份验证绕过漏洞正被积极利用",
+    "https://mp.weixin.qq.com/s/6CAy2RS8H9K8b5bnhXxSWg": "XML外部实体注入漏洞（XXE）",
+    "https://mp.weixin.qq.com/s/CDpIwGzYg0ErzbqRBNiG8w": "​原来有人靠「找漏洞」每月多赚几万",
+    "https://mp.weixin.qq.com/s/G28LqtWBDN9uQEC8rLLlxg": "谷歌Gemini漏洞敲响警钟！AI提示词攻击或成企业致命隐患",
+    "https://mp.weixin.qq.com/s/wuJbkzB1I9thygskKbQIGg": "Redis官方容器曝出RCE漏洞，研究人员详解\"简单\"栈溢出利用链",
+    "https://mp.weixin.qq.com/s/NVEOSga_kTIV5gkvOFBMYQ": "【漏洞通告】Oracle WebLogic Server Proxy Plug-in身份认证绕过漏洞(CVE-2026-21962)",
+    "https://mp.weixin.qq.com/s/t5YYmUlrraGIMGyGisfB1A": "漏洞速递 | CVE-2026-21858 RCE漏洞",
+    "https://mp.weixin.qq.com/s/uMBJv-A77DDCrG35woXwAg": "什么是闪电贷攻击? 3月区块链安全公开课，拆解DeFi协议的10大经典漏洞",
+    "https://mp.weixin.qq.com/s/Qi7ikyen7LqwrdBCwY41_g": "【高危漏洞预警】Azure ARM权限提升漏洞CVE-2026-24304",
+    "https://mp.weixin.qq.com/s/bkfkXy-jRgLyml3PLgNFSA": "【2026漏洞挑战专项第一期V1.0】白帽子集结令！火力全开",
+    "https://mp.weixin.qq.com/s/Tn0rMkHBvS73dmj9tRSuZQ": "【已复现】漏洞预警 | GNU InetUtils Telnetd远程认证绕过漏洞（CVE-2026-24061）",
+    "https://mp.weixin.qq.com/s/raMZ9uzpZFh_hKwtFh9onA": "【AI安全】DeepAudit 降临！Multi-Agent 协作击穿代码漏洞防线",
+    "https://mp.weixin.qq.com/s/wV547T3xTfYvtTyjjLrvXg": "CVE-2026-22200：osTicket工单直通系统Shell的漏洞剖析",
+    "https://mp.weixin.qq.com/s/r3h_R4OAXVuWGz2ddQZCuA": "【已复现】telnet远程认证绕过漏洞（CVE-2026-24061 ）",
+    "https://mp.weixin.qq.com/s/DND4mvouRPfdwAJtiQSGNg": "【接口漏洞第八章第四节】GraphQL漏洞挖掘实战：找不到参数？用“内省”透视API底层"
 }
