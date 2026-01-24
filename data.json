@@ -17127,5 +17127,6 @@
     "https://mp.weixin.qq.com/s/lsC9ppKpI8Jqcx3WoWHxMg": "高危漏洞威胁情报合集 (2026-01-22~2026-01-23）",
     "https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA": "从工单到Shell:利用PHP过滤器和CNEXT攻击osTicket(CVE-2026-22200)",
     "https://mp.weixin.qq.com/s/nbPsxTqg3jG3G8fqqglLbg": "注意：Github上这个CVE-2025-8088工具实为木马下载器",
-    "https://mp.weixin.qq.com/s/pHYh2DSyTyVVn-Mh8pE38w": "Web篇 | 密码重置漏洞挖掘指南：从原理到实战的完整路径"
+    "https://mp.weixin.qq.com/s/pHYh2DSyTyVVn-Mh8pE38w": "Web篇 | 密码重置漏洞挖掘指南：从原理到实战的完整路径",
+    "https://mp.weixin.qq.com/s/7SinEMKajtsgs7biytJ_1Q": "Linux Telnetd 远程代码执行！靶场镜像"
 }
