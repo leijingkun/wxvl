@@ -17154,5 +17154,8 @@
     "https://mp.weixin.qq.com/s/j5fn1sxYaHavYHqNIMAwQA": "CVE-2025-8088复现学习",
     "https://mp.weixin.qq.com/s/R__xiTDK5srXHzgYjuK92g": "畅捷通 mailinactive.php sql注入漏洞",
     "https://mp.weixin.qq.com/s/qnOLR3S50FQRiIpkpJeV3w": "【接口漏洞第八章第五节】GraphQL内省探测全流程：从探测、查询到可视化与工具利用",
-    "https://mp.weixin.qq.com/s/vMpoqAR6A-5cMMxPx28c7Q": "复现（CVE-2026-21440）@adonisjs∕bodyparser路径遍历漏洞利用"
+    "https://mp.weixin.qq.com/s/vMpoqAR6A-5cMMxPx28c7Q": "复现（CVE-2026-21440）@adonisjs∕bodyparser路径遍历漏洞利用",
+    "https://mp.weixin.qq.com/s/K2exIbQDTxCZMQJ1MRwloQ": "黑客在 Pwn2Own Automotive 2026 大会上利用 76 个零日漏洞获得 1,047,000 美元奖金",
+    "https://mp.weixin.qq.com/s/5xJHAkUPkVRozgbRVbpsMg": "工具推荐 | 一款Shiro反序列化漏洞一站式综合利用工具",
+    "https://mp.weixin.qq.com/s/48IEzA6K-P407HlKJURCIA": "Laravel Reverb严重漏洞预警：CVSS 9.8高危反序列化RCE深度解析"
 }
