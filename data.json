@@ -17183,5 +17183,8 @@
     "https://mp.weixin.qq.com/s/GE5AXK2ut_OfelGAqpUJxQ": "Android APP客户端漏洞挖掘思路（【补天白帽黑客城市沙龙-长沙站】）",
     "https://mp.weixin.qq.com/s/QeTajwMfx-Ql-bY5-dR-dg": "CVE-2025-38352 Part 2 - 无需内核补丁延长竞争窗口",
     "https://mp.weixin.qq.com/s/ZYvKrB7yBnETCiGzmkZiQA": "CVE-2025-38352 Part 3 - 揭开 Chronomaly：从竞态窗口到 Root 提权",
-    "https://mp.weixin.qq.com/s/QyGJPErsLR9L-ErekZ4IfQ": "VMware vCenter Server 远程代码执行漏洞安全预警（CVE-2024-37079）"
+    "https://mp.weixin.qq.com/s/QyGJPErsLR9L-ErekZ4IfQ": "VMware vCenter Server 远程代码执行漏洞安全预警（CVE-2024-37079）",
+    "https://mp.weixin.qq.com/s/Ddpnhu8gyF1wuCya6Jq8hg": "CVE-2026-22686：AI代理沙箱的完美逃逸",
+    "https://mp.weixin.qq.com/s/p_bjUbHdQoIkQDWrbH_5FA": "DudeSuite 漏洞播报 全网漏洞早知道【20260126】",
+    "https://mp.weixin.qq.com/s/x4WQc2bc9ARgA_QT7ZI27w": "星图实验室接棒玄武实验室，完成底层密码学库漏洞的最终修复"
 }
