@@ -17180,5 +17180,8 @@
     "https://mp.weixin.qq.com/s/1H2uL8OG_droMBMRnxVa4Q": "CVE-2025-38352 Part 1 - 在野利用的 Android Kernel 竞争 UAF 分析与 PoC",
     "https://mp.weixin.qq.com/s/QBEuBgLtMEHw4lhqh_Z1tw": "新中大ERP企业管理软件 NGInterface SQL注入漏洞",
     "https://mp.weixin.qq.com/s/jnwCqKJ6acqBE84fVc5JqA": "大华ICC智能物联综合管理平台敏感信息泄露漏洞 附POC",
-    "https://mp.weixin.qq.com/s/GE5AXK2ut_OfelGAqpUJxQ": "Android APP客户端漏洞挖掘思路（【补天白帽黑客城市沙龙-长沙站】）"
+    "https://mp.weixin.qq.com/s/GE5AXK2ut_OfelGAqpUJxQ": "Android APP客户端漏洞挖掘思路（【补天白帽黑客城市沙龙-长沙站】）",
+    "https://mp.weixin.qq.com/s/QeTajwMfx-Ql-bY5-dR-dg": "CVE-2025-38352 Part 2 - 无需内核补丁延长竞争窗口",
+    "https://mp.weixin.qq.com/s/ZYvKrB7yBnETCiGzmkZiQA": "CVE-2025-38352 Part 3 - 揭开 Chronomaly：从竞态窗口到 Root 提权",
+    "https://mp.weixin.qq.com/s/QyGJPErsLR9L-ErekZ4IfQ": "VMware vCenter Server 远程代码执行漏洞安全预警（CVE-2024-37079）"
 }
