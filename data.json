@@ -17201,5 +17201,6 @@
     "https://mp.weixin.qq.com/s/sfuwtfWCtBygkIBiAFzm4g": "CVE-2026-20931 Windows 电话服务漏洞分析",
     "https://mp.weixin.qq.com/s/a9mtTzTNbgRrlR40Hc_aFA": "[安全启动链破坏][EL3级任意代码执行]记一次对Nothing Phone手机的漏洞利用链的研究",
     "https://mp.weixin.qq.com/s/Xf5HoteQwbma5sPGXnBjIw": "黑客利用微软 SharePoint 漏洞，绕过多因素验证窃取能源公司员工凭据",
-    "https://mp.weixin.qq.com/s/7GLhmogxiYwVSx0Nj2fGGw": "VMware vCenter关键RCE漏洞已遭攻击利用"
+    "https://mp.weixin.qq.com/s/7GLhmogxiYwVSx0Nj2fGGw": "VMware vCenter关键RCE漏洞已遭攻击利用",
+    "https://mp.weixin.qq.com/s/wS-RF_RWWok9W-tjcTcjSA": "CVE-2025-55182 的 POC，可在 Next.js 16.0.6 上运行"
 }
