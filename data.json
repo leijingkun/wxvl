@@ -17226,5 +17226,16 @@
     "https://mp.weixin.qq.com/s/GC-qHMR2Ku5AJA1cXUZBmg": "Instagram 漏洞，私密帖子可被任意访问",
     "https://mp.weixin.qq.com/s/N4-XpqfwKXAs8bbMrVEU-Q": "门禁系统“全面失守”：研究揭示高端门控系统存在一系列致命漏洞",
     "https://mp.weixin.qq.com/s/HZGqpH9DaUnxCB_Xjhvzew": "攻击者利用 Mjobtime 应用程序漏洞，通过 MSSQL 和 IIS POST 请求攻击建筑公司",
-    "https://mp.weixin.qq.com/s/4PkH2XvT5kbzvXEaAOhg2g": "东胜物流软件信息泄露漏洞"
+    "https://mp.weixin.qq.com/s/4PkH2XvT5kbzvXEaAOhg2g": "东胜物流软件信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/ioW4o8AQANnvDFXWY-arPQ": "CVE-2026-20045 高危漏洞曝光，Cisco 语音系统存在未授权远程执行风险",
+    "https://mp.weixin.qq.com/s/oyu-CHhmGZzmyzC3Ms8QvA": "CNVD漏洞周报2026年第3期",
+    "https://mp.weixin.qq.com/s/jb1rLB5oi5IQJKUnwjnihA": "常见信息泄露漏洞总结",
+    "https://mp.weixin.qq.com/s/wn1wktQwNZnJycplqyQ2rA": "一款集成了H3C,致远，泛微，万户，帆软，海康威视，金蝶云星空，畅捷通，Struts等多个RCE漏洞利用工具",
+    "https://mp.weixin.qq.com/s/ZPG8ZNXQnVUYDlMBdPzLRg": "Pwn2Own 2026首日，研究人员凭借37个独特0Day漏洞斩获51.65万美元",
+    "https://mp.weixin.qq.com/s/Oe2f4itq3-cL9MKIeeNY1A": "React 服务器组件爆出“核弹级”漏洞：CVE-2025-55182 到底有多严重？",
+    "https://mp.weixin.qq.com/s/HVaMyw8Gadxk7MPLsuVV3A": "IM即时通讯系统 preview.php 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/nAoM_yBliO48aLUgfPOSBA": "腾达路由器敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/Gyy6BL5Z7pdSSwMnjA3k7A": "【紧急补丁】Microsoft Office OLE 缓解绕过漏洞 (CVE-2026-21509) 已发现在野利用",
+    "https://mp.weixin.qq.com/s/tYIeaVmmXwbzGN_xfu67MQ": "【活动】通用漏洞全年3倍奖励，百万奖金持续悬赏！！！",
+    "https://mp.weixin.qq.com/s/Hjm6RE5h0OjW3rTJdiUgAg": "网安靶场实战指南（第2期）：DVWA靶场从零到精通——环境搭建+基础漏洞全突破"
 }
