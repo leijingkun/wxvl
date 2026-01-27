@@ -17237,5 +17237,8 @@
     "https://mp.weixin.qq.com/s/nAoM_yBliO48aLUgfPOSBA": "腾达路由器敏感信息泄露漏洞 附POC",
     "https://mp.weixin.qq.com/s/Gyy6BL5Z7pdSSwMnjA3k7A": "【紧急补丁】Microsoft Office OLE 缓解绕过漏洞 (CVE-2026-21509) 已发现在野利用",
     "https://mp.weixin.qq.com/s/tYIeaVmmXwbzGN_xfu67MQ": "【活动】通用漏洞全年3倍奖励，百万奖金持续悬赏！！！",
-    "https://mp.weixin.qq.com/s/Hjm6RE5h0OjW3rTJdiUgAg": "网安靶场实战指南（第2期）：DVWA靶场从零到精通——环境搭建+基础漏洞全突破"
+    "https://mp.weixin.qq.com/s/Hjm6RE5h0OjW3rTJdiUgAg": "网安靶场实战指南（第2期）：DVWA靶场从零到精通——环境搭建+基础漏洞全突破",
+    "https://mp.weixin.qq.com/s/y7cJ6Aq28kQ1Fg-qlpcdFg": "Chrome V8 CVE-2026-0902 内存读取漏洞简析 & POC纪要",
+    "https://mp.weixin.qq.com/s/GyN4XIH5dxuA_496pD-Vbw": "【在野利用】Microsoft Office 安全功能绕过漏洞(CVE-2026-21509)安全风险通告",
+    "https://mp.weixin.qq.com/s/uUmqvBKRLeTHnb4YCgUAkA": "一款定制 LLM 应用的自动提示注入扫描器(自动找出50+种提示词注入漏洞)"
 }
