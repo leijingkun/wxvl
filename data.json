@@ -17330,5 +17330,10 @@
     "https://mp.weixin.qq.com/s/bFcBGQbBXe0lxFTaPXsotw": "安全通告丨网络安全漏洞通告（2026年1月）",
     "https://mp.weixin.qq.com/s/23f7itDcmeDixxIF9ZTtsQ": "注册功能漏洞检查清单",
     "https://mp.weixin.qq.com/s/EUhJqOlATFvX8EabSTtF9Q": "【漏洞预警】Fortinet多款产品身份认证绕过漏洞(CVE-2026-24858)",
-    "https://mp.weixin.qq.com/s/lnXRMkzdzkUBL25g9HWxjg": "Cloudflare曝零日漏洞：利用证书验证路径可绕过WAF访问任意源站"
+    "https://mp.weixin.qq.com/s/lnXRMkzdzkUBL25g9HWxjg": "Cloudflare曝零日漏洞：利用证书验证路径可绕过WAF访问任意源站",
+    "https://mp.weixin.qq.com/s/5CwxcNPSXjUZydxWsVLdPg": "工具推荐 | SwaggerHound自动化检测 Swagger API 接口未授权访问漏洞",
+    "https://mp.weixin.qq.com/s/ytqmfXv4ZiQnvVro0wd4pw": "Windows 电话服务远程代码执行漏洞剖析",
+    "https://mp.weixin.qq.com/s/0ELPiwYJSI_aduU2lly2YA": "腾达Tenda 路由器存在敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/vjQ2lGVNCMhMNWU4pw6U1A": "QVD-2025-44295：东方通TongWeb应用服务器ejbserver远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/5vYMRLYE_Y3UoxST9DAKZw": "OpenSSL中已修复高危远程代码执行漏洞"
 }
