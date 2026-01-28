@@ -17326,5 +17326,9 @@
     "https://mp.weixin.qq.com/s/UvrEdy4VviHkdfYaJ3VK9Q": "QVD-2025-44295：东方通TongWeb应用服务器ejbserver远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/C54Q6HmzJThnc9f_jkgl5A": "热门 NodeJS 库 vm2中存在严重的沙箱逃逸漏洞",
     "https://mp.weixin.qq.com/s/GV480r6WZ767cvFao63gCA": "81%中高危漏洞！360年度漏洞报告出炉：攻防进入AI时代",
-    "https://mp.weixin.qq.com/s/gjjfGp9QVwKHlEDC1l-u-w": "热门包管理器中存在多个漏洞，JavaScript 生态系统易受供应链攻击"
+    "https://mp.weixin.qq.com/s/gjjfGp9QVwKHlEDC1l-u-w": "热门包管理器中存在多个漏洞，JavaScript 生态系统易受供应链攻击",
+    "https://mp.weixin.qq.com/s/bFcBGQbBXe0lxFTaPXsotw": "安全通告丨网络安全漏洞通告（2026年1月）",
+    "https://mp.weixin.qq.com/s/23f7itDcmeDixxIF9ZTtsQ": "注册功能漏洞检查清单",
+    "https://mp.weixin.qq.com/s/EUhJqOlATFvX8EabSTtF9Q": "【漏洞预警】Fortinet多款产品身份认证绕过漏洞(CVE-2026-24858)",
+    "https://mp.weixin.qq.com/s/lnXRMkzdzkUBL25g9HWxjg": "Cloudflare曝零日漏洞：利用证书验证路径可绕过WAF访问任意源站"
 }
