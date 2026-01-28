@@ -17291,5 +17291,8 @@
     "https://mp.weixin.qq.com/s/nzoKuqfTNJeUbpKpnAb7yw": "漏洞验证-明源地产ERP存在身份认证绕过漏洞",
     "https://mp.weixin.qq.com/s/nuxjYrZbgVTPy58xdx0bEA": "【漏洞速递】CVE-2026-21859漏洞",
     "https://mp.weixin.qq.com/s/2aenwppwEtpBzaphxUBKsw": "明源地产ERP MyPub_XMLHTTP.aspx SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/VqpjysrRYKu_1TE4VfRm1A": "泛微E-Mobile 远程命令执行漏洞（RCE）附POC"
+    "https://mp.weixin.qq.com/s/VqpjysrRYKu_1TE4VfRm1A": "泛微E-Mobile 远程命令执行漏洞（RCE）附POC",
+    "https://mp.weixin.qq.com/s/pEyd5xiKBvWfehwcASx5rA": "【已复现】Node.js 生态主流沙箱组件 vm2 存在逃逸漏洞（CVE-2026-22709），每周下载量近百万",
+    "https://mp.weixin.qq.com/s/lM0dxCitC2c-Ncq_85j4OA": "Microsoft Office 高危漏洞风险通告",
+    "https://mp.weixin.qq.com/s/4hZPPjho41RtrSRUzu8kXQ": "基于大模型的代码审计与漏洞挖掘实战项目"
 }
