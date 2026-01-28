@@ -17285,5 +17285,11 @@
     "https://mp.weixin.qq.com/s/7OSxqs48F0O8ytYKgNJFyA": "Telnet漏洞或影响全球80万台设备，IoT∕OT设备会很受伤！",
     "https://mp.weixin.qq.com/s/WIEtWZyMqxzgNW1aFF4HDg": "网安实验干货命令执行之DVWA-0128",
     "https://mp.weixin.qq.com/s/VnQb3w26nMFetG8Zgtu54g": "Kubernetes 中的 node∕proxy GET 权限漏洞：实现远程代码执行（RCE）",
-    "https://mp.weixin.qq.com/s/OoGpounyOGkUMrIY0aaAGg": "NVIDIA CUDA Toolkit 爆出 4 个高危漏洞：命令注入、任意代码执行，AI 服务器也不安全了"
+    "https://mp.weixin.qq.com/s/OoGpounyOGkUMrIY0aaAGg": "NVIDIA CUDA Toolkit 爆出 4 个高危漏洞：命令注入、任意代码执行，AI 服务器也不安全了",
+    "https://mp.weixin.qq.com/s/YimGNyQ5I0tZw0DQn53D7A": "【CVE-2026-24061】GNU telnetd 致命认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/IaITeh_pR5ok_3Ks5nCa_w": "漏洞验证-铭飞CMS cms∕category∕list接口存在SQL注入(CVE-2022-4375)",
+    "https://mp.weixin.qq.com/s/nzoKuqfTNJeUbpKpnAb7yw": "漏洞验证-明源地产ERP存在身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/nuxjYrZbgVTPy58xdx0bEA": "【漏洞速递】CVE-2026-21859漏洞",
+    "https://mp.weixin.qq.com/s/2aenwppwEtpBzaphxUBKsw": "明源地产ERP MyPub_XMLHTTP.aspx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/VqpjysrRYKu_1TE4VfRm1A": "泛微E-Mobile 远程命令执行漏洞（RCE）附POC"
 }
