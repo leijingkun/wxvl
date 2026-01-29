@@ -17390,5 +17390,6 @@
     "https://mp.weixin.qq.com/s/9ReeaEdtnwoWDU4xi4HooQ": "基于 LLM 多 Agent 的全流程漏洞挖掘系统，已挖数十个真实漏洞",
     "https://mp.weixin.qq.com/s/Nwnwt8v2OGEBAjOo1GXQkQ": "太阳风 SolarWinds警告称Web帮助台存在严重的远程代码执行和身份验证绕过漏洞",
     "https://mp.weixin.qq.com/s/Bz_pQpEUUsfVLOBpD9ADgQ": "Burp未授权漏洞自动检测插件 -- Unauthorized_Scan（1月27日更新）",
-    "https://mp.weixin.qq.com/s/_TEUKJ3O2Y0ur4Ow7Utacw": "一个基于LLM的多Agent全流程漏洞挖掘项目"
+    "https://mp.weixin.qq.com/s/_TEUKJ3O2Y0ur4Ow7Utacw": "一个基于LLM的多Agent全流程漏洞挖掘项目",
+    "https://mp.weixin.qq.com/s/PIZ9vC4Q7g4u3H8XyGIANg": "九思OA软件jsoa∕wap.do存在任意文件读取漏洞 附POC"
 }
