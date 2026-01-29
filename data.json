@@ -17371,5 +17371,15 @@
     "https://mp.weixin.qq.com/s/3AbOpNlidTI5KPcfqkEVOA": "CVE-2026-24747：PyTorch模型加载功能曝出8.8分高危漏洞",
     "https://mp.weixin.qq.com/s/iKSyh5ksFFnH8IzfIlWBGA": "Gemini MCP 曝高危零日漏洞 允许远程攻击",
     "https://mp.weixin.qq.com/s/dkjJDZKQp9zdw7lA8-dAhw": "密码重置漏洞挖掘指南：从原理到实战的完整路径",
-    "https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A": "【已复现】OpenSSL CMS模块栈溢出漏洞(CVE-2025-15467)：可导致拒绝服务或远程代码执行"
+    "https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A": "【已复现】OpenSSL CMS模块栈溢出漏洞(CVE-2025-15467)：可导致拒绝服务或远程代码执行",
+    "https://mp.weixin.qq.com/s/vq41cwGRjiKoATtNMCx03A": "【安全圈】PyTorch \"安全\"模式被严重RCE漏洞攻破，可执行任意代码",
+    "https://mp.weixin.qq.com/s/pTw1PJuArTmLxnfycTt1UQ": "Chrome安全更新修复Background Fetch API中的严重漏洞",
+    "https://mp.weixin.qq.com/s/sI8BOAyzeLdZ_z5AyINkkQ": "Fortinet 修复已遭利用的严重 FortiOS 漏洞",
+    "https://mp.weixin.qq.com/s/efU2-wd1ZHFH48t3MHp8Gg": "【接口漏洞第八章第九节】一招绕过GraphQL内省防御：实战利用详解",
+    "https://mp.weixin.qq.com/s/UgdwoIRiHlXWDa6J_De7wA": "PyTorch安全模式被RCE漏洞攻破，恶意模型可执行任意代码",
+    "https://mp.weixin.qq.com/s/rBLFnFKwLayQU7fIwoJOaQ": "严重OpenSSL漏洞可使远程攻击者执行恶意代码",
+    "https://mp.weixin.qq.com/s/gakjueNgGFU2unY-WuybOg": "【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞",
+    "https://mp.weixin.qq.com/s/07vRoWodsj0lNgPPMjk2CQ": "n8n 两个高危漏洞可导致认证RCE",
+    "https://mp.weixin.qq.com/s/5ulg_3lR2wbQ5M3MGvWQXg": "【论文推荐】大模型组队挖掘0day，成功率竟然远超专业工具？",
+    "https://mp.weixin.qq.com/s/1yPCR92RT33Ce4vWxR6DWA": "SolarWinds再曝重大RCE漏洞，企业安全团队旧伤复发"
 }
