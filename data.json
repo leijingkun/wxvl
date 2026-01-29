@@ -17363,5 +17363,13 @@
     "https://mp.weixin.qq.com/s/GnNxQ29vqFVV43h0CTz5VQ": "网安靶场实战指南（第4期）：OWASP Juice Shop入门——前后端分离架构下的漏洞挖掘",
     "https://mp.weixin.qq.com/s/oHYB4dC3Wf5yTeI_gLGKiw": "漏洞复现 | 百卓Smart管理平台 licence.php 文件上传漏洞",
     "https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw": "Redis 远程代码执行漏洞（CVE-2025-49844）",
-    "https://mp.weixin.qq.com/s/iRSKfbWctpUQYg2tmupopQ": "CVE-2025-39566 sql注入漏洞"
+    "https://mp.weixin.qq.com/s/iRSKfbWctpUQYg2tmupopQ": "CVE-2025-39566 sql注入漏洞",
+    "https://mp.weixin.qq.com/s/4ZNdVVPLk_QwgrFTkJRNzQ": "路由器安全研究｜D- Link DIR-823G v1.02 B05 复现与利用思路",
+    "https://mp.weixin.qq.com/s/5EN6WrqP-AVVuhsnAtz9ow": "WordPress后台存储型XSS 全网首发POC及复现环境（CVE-2025-12067）",
+    "https://mp.weixin.qq.com/s/fcDX1r74I8YzIG2WSnU4Wg": "【论文速读】| VulnResolver：一款基于大语言模型的自动化漏洞修复混合智能体框架",
+    "https://mp.weixin.qq.com/s/_Paf3WYVXDV9gDmQwYdeLg": "Linux 内核攻击：Punch hole (2025 Backdoor skernel 复现)",
+    "https://mp.weixin.qq.com/s/3AbOpNlidTI5KPcfqkEVOA": "CVE-2026-24747：PyTorch模型加载功能曝出8.8分高危漏洞",
+    "https://mp.weixin.qq.com/s/iKSyh5ksFFnH8IzfIlWBGA": "Gemini MCP 曝高危零日漏洞 允许远程攻击",
+    "https://mp.weixin.qq.com/s/dkjJDZKQp9zdw7lA8-dAhw": "密码重置漏洞挖掘指南：从原理到实战的完整路径",
+    "https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A": "【已复现】OpenSSL CMS模块栈溢出漏洞(CVE-2025-15467)：可导致拒绝服务或远程代码执行"
 }
