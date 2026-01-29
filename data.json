@@ -17361,5 +17361,6 @@
     "https://mp.weixin.qq.com/s/HjNCHt-G-XcI9h9u6WF06w": "CyberArk 开源 FuzzyAI：一键自动化检测大模型\"越狱\"漏洞，支持 20+ 攻击手法",
     "https://mp.weixin.qq.com/s/NeNJMvrTvgHMXEgw75hUZg": "年度报告 | 2025年漏洞态势全景复盘！",
     "https://mp.weixin.qq.com/s/GnNxQ29vqFVV43h0CTz5VQ": "网安靶场实战指南（第4期）：OWASP Juice Shop入门——前后端分离架构下的漏洞挖掘",
-    "https://mp.weixin.qq.com/s/oHYB4dC3Wf5yTeI_gLGKiw": "漏洞复现 | 百卓Smart管理平台 licence.php 文件上传漏洞"
+    "https://mp.weixin.qq.com/s/oHYB4dC3Wf5yTeI_gLGKiw": "漏洞复现 | 百卓Smart管理平台 licence.php 文件上传漏洞",
+    "https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw": "Redis 远程代码执行漏洞（CVE-2025-49844）"
 }
