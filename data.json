@@ -17461,5 +17461,8 @@
     "https://mp.weixin.qq.com/s/j99J_M91dlP0AsB1lpeJKQ": "RCE",
     "https://mp.weixin.qq.com/s/RcDFZ5x0naZs1gDDLV_bcQ": "基于OpenClaw的Android漏洞PoC自动生成 Agent实战",
     "https://mp.weixin.qq.com/s/LWuJbufyL0jf6nmAcZPoWw": "[系统安全] 六十四.漏洞挖掘与利用 (1)WinRAR漏洞在APT攻击中的应用总结",
-    "https://mp.weixin.qq.com/s/1y5qbMnthkg2HrQHIo7pEw": "红队实战：从默认密码到域控权限的OA系统“自杀式”防御漏洞"
+    "https://mp.weixin.qq.com/s/1y5qbMnthkg2HrQHIo7pEw": "红队实战：从默认密码到域控权限的OA系统“自杀式”防御漏洞",
+    "https://mp.weixin.qq.com/s/7_fzx9iKJie7YcPsHPZZSg": "飞牛系统FnOS下app-center-static接口存在导致任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/cxZCNawyZaB9dyBsgv8b0w": "工具推荐 | 企业级漏洞扫描与资产测绘平台 4引擎协同 Nuclei+Xray+GoPOC+YamlPOC",
+    "https://mp.weixin.qq.com/s/W7JLiKTHxTdqw8frUqp5rA": "EDU 证书站边缘资产挖掘实战：从.map 泄露到高危漏洞到手全流程"
 }
