@@ -17456,5 +17456,10 @@
     "https://mp.weixin.qq.com/s/4MGC7Xe50eRNFQBvvpJwBg": "【在野利用】金融政府机构需警惕！Ivanti EPMM 爆发未授权远程代码执行漏洞（CVE-2026-1281 & CVE-2026-1340）",
     "https://mp.weixin.qq.com/s/qGfxbgVgw_T8OT_JcBdLtA": "【安全圈】两个 n8n 高危漏洞可使认证用户远程执行代码",
     "https://mp.weixin.qq.com/s/x-v0Di9qp6cAKe2nDCGojA": "【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞",
-    "https://mp.weixin.qq.com/s/KP_-QU2c7Rft1g-Zg1gGag": "【Ivanti在野利用】国内外银行金融政府机构受影响！Ivanti EPMM 爆发未授权远程代码执行漏洞（CVE-2026-1281 & CVE-2026-1340）"
+    "https://mp.weixin.qq.com/s/KP_-QU2c7Rft1g-Zg1gGag": "【Ivanti在野利用】国内外银行金融政府机构受影响！Ivanti EPMM 爆发未授权远程代码执行漏洞（CVE-2026-1281 & CVE-2026-1340）",
+    "https://mp.weixin.qq.com/s/1_SDCs-yDjQXGPXaqIOl6Q": "【接口漏洞第八章第十一节】从理论到操作：GraphQL别名攻击完整流程",
+    "https://mp.weixin.qq.com/s/j99J_M91dlP0AsB1lpeJKQ": "RCE",
+    "https://mp.weixin.qq.com/s/RcDFZ5x0naZs1gDDLV_bcQ": "基于OpenClaw的Android漏洞PoC自动生成 Agent实战",
+    "https://mp.weixin.qq.com/s/LWuJbufyL0jf6nmAcZPoWw": "[系统安全] 六十四.漏洞挖掘与利用 (1)WinRAR漏洞在APT攻击中的应用总结",
+    "https://mp.weixin.qq.com/s/1y5qbMnthkg2HrQHIo7pEw": "红队实战：从默认密码到域控权限的OA系统“自杀式”防御漏洞"
 }
