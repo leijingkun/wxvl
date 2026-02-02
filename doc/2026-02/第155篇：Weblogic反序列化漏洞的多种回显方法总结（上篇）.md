@@ -1,6 +1,5 @@
 #  第155篇：Weblogic反序列化漏洞的多种回显方法总结（上篇）  
-原创 abc123info
-                        abc123info  希潭实验室   2026-02-02 12:17  
+ 嗨嗨安全   2026-02-02 12:41  
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/OAz0RNU450ATcz6jUJnFNeOxRzVZ9LbcCCMJ6Af2WYicgMPA32IwibF8mI2ibC9h8jaHkhxnZzZuqctMLRTxDudicA/640?wx_fmt=png "")  
   
