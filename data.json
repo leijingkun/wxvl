@@ -17485,5 +17485,13 @@
     "https://mp.weixin.qq.com/s/_zyYdWNK6_wA0HTmxkdQsw": "【网络安全】国产飞牛系统 fnOS 出现严重安全漏洞先甩锅用户，再发补丁",
     "https://mp.weixin.qq.com/s/gejBwnbKs0hP0kmqiDTTxw": "紧急提醒！立即备份自己的VPS数据 大量VPS提供商面临勒索软件攻击|国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告",
     "https://mp.weixin.qq.com/s/XhuJp_Kn8deTBfA5TqkRow": "【攻防演练】某项目管理系统SQL注入1day分析",
-    "https://mp.weixin.qq.com/s/a2JQHOl7y6DNRQdRMiX2mg": "【漏洞情报】从php Zend 内核层分析PHP built-in server http请求走私漏洞"
+    "https://mp.weixin.qq.com/s/a2JQHOl7y6DNRQdRMiX2mg": "【漏洞情报】从php Zend 内核层分析PHP built-in server http请求走私漏洞",
+    "https://mp.weixin.qq.com/s/hlM2IqTBLYfwXuCUSbKUIA": "英国国家网络安全中心NCSC发布“不可原谅”漏洞判定指南",
+    "https://mp.weixin.qq.com/s/j-m_9RQ_pr_suKWQW_rKFw": "【红队必备】告别多工具切换！从信息收集到漏洞验证一站式",
+    "https://mp.weixin.qq.com/s/-kYXVUm3vOM5yqStp5hnTQ": "网安靶场实战指南（第 8 期）：DC-3 靶场封神！MySQL 提权 + 内核漏洞，学会直接拿捏企业服务器",
+    "https://mp.weixin.qq.com/s/4wXppnido-Gh1FmPBQR7hQ": "漏洞复现 | Flowise AI 系统任意文件上传漏洞（CVE-2025-26319）",
+    "https://mp.weixin.qq.com/s/ZyHcFo43xzaqIprG75msPQ": "天锐绿盘云文档安全管理 uploadFolder.do 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/aVs_H3PCssHTxakLuYQHZg": "还在手动翻漏洞公告？这款工具自动聚合多源情报并生成Markdown简报",
+    "https://mp.weixin.qq.com/s/oj_iAKCotfrDxCP7G6AYoQ": "Cobra是一款源代码安全审计工具，支持检测多种开发语言源代码中的大部分显著的安全问题和漏洞。",
+    "https://mp.weixin.qq.com/s/GkOcyjV9YYWipFfzHuiiuw": "大华智能物联综合管理平台justForTest用户登录漏洞 附POC"
 }
