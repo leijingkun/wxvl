@@ -17515,5 +17515,19 @@
     "https://mp.weixin.qq.com/s/53PH9dx8Aqm_dGqqxcESCA": "SmarterMail 修复严重的未认证RCE漏洞",
     "https://mp.weixin.qq.com/s/Xj2sdU-sqWvKVer-QMWoYg": "赏金src报告分享&&edu证书站漏洞分享",
     "https://mp.weixin.qq.com/s/Si7jEg5cdxmln8DppHVPZA": "【安全圈】Moltbook AI 漏洞暴露邮箱地址、登录令牌与 API 密钥",
-    "https://mp.weixin.qq.com/s/7bAdr0D8OhCnEkZA48LsvA": "工具推荐 | 自动检测Vue框架 绕过Vue.js 站点路由守卫 一键发现隐藏资产与未授权漏洞"
+    "https://mp.weixin.qq.com/s/7bAdr0D8OhCnEkZA48LsvA": "工具推荐 | 自动检测Vue框架 绕过Vue.js 站点路由守卫 一键发现隐藏资产与未授权漏洞",
+    "https://mp.weixin.qq.com/s/h4y1yJ9WtYoW54R1t5yEIg": "CNVD漏洞周报2026年第4期",
+    "https://mp.weixin.qq.com/s/UUCNGrQ90V-O2d62XO6t9Q": "漏洞预警 | Advantech SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/64P2r10TzPHlfHKtCzI7gg": "5 分钟全自动聚合 Nmap+AWVS+Xray+Rad+Nuclei 等 20+ 引擎，一键完成资产到漏洞的致命闭环！",
+    "https://mp.weixin.qq.com/s/VKorlZqidUeIGXd5D06nqQ": "帆软报表指纹POC集成",
+    "https://mp.weixin.qq.com/s/UYXWBA98AZ_ihdDbBKSx7Q": "Windows 驱动程序漏洞",
+    "https://mp.weixin.qq.com/s/bIjpwn2DdaY8HSJLQsFLwg": "【服务端漏洞-路径遍历-第一章第一节】服务器漏洞解析第一弹：一文读懂路径遍历漏洞",
+    "https://mp.weixin.qq.com/s/yeAzQ0-6f8E3Zz2McRvNBA": "逃离沙箱：CVE-2026-22709 深度复盘，为什么 vm2 总是防不住？",
+    "https://mp.weixin.qq.com/s/cZ1qRSxcA2kyYkIQjA_i4w": "飞牛系统（fnOS）远程代码执行链：认证绕过",
+    "https://mp.weixin.qq.com/s/RB1vwJd06k0NCrIJY6gaPw": "分享Fastjson反序列化漏洞原理+漏洞复现+实战案例+POC收集",
+    "https://mp.weixin.qq.com/s/2ttL4Kl0FGi5WC-k7tfOvg": "为什么 JS∕Python 沙箱这么难搞？从 n8n 的两个 RCE 漏洞谈起",
+    "https://mp.weixin.qq.com/s/uZF-4szzPMPackVsn_A84g": "漏洞预警 | 金和OA XXE漏洞",
+    "https://mp.weixin.qq.com/s/WyIyO8UNkGU7e-N4GF3mAQ": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/E5E1jHXxytPiLXHrRwkkjw": "无需手动构包！智能填充参数 + 自动化请求：Swagger API自动化漏洞检测工具|ApiHunter",
+    "https://mp.weixin.qq.com/s/_tvuiBsGptTQTgnstIu9KA": "漏洞复现 | 汉王e脸通综合管理平台 monadFileUpload.do 任意文件上传漏洞"
 }
