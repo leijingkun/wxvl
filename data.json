@@ -17620,5 +17620,17 @@
     "https://mp.weixin.qq.com/s/N2LXGZaC9lSMJIYGhQYhsg": "监管通报72款APP违规：告知同意缺失、未成年人信息处理失范、人脸识别滥用等，直指企业合规深层漏洞",
     "https://mp.weixin.qq.com/s/0zfbbRmcre5RZZ2zcIRVHw": "存储桶指纹和漏洞POC集成",
     "https://mp.weixin.qq.com/s/OUqumNWCgifIFRYsdmS4PQ": "共建开源生态安全！ByteSRC正式启动开源项目漏洞收录计划！",
-    "https://mp.weixin.qq.com/s/5sO9YbVElCjlMV2a7YStVg": "关于防范Microsoft Office安全功能绕过高危漏洞的风险提示"
+    "https://mp.weixin.qq.com/s/5sO9YbVElCjlMV2a7YStVg": "关于防范Microsoft Office安全功能绕过高危漏洞的风险提示",
+    "https://mp.weixin.qq.com/s/wl8vtaYPlFXE3A9RLzRFzQ": "【已复现】大蚂蚁即时通讯系统存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/VcqJzhUXWjUyQjnK1i44wg": "【安全圈】爆火 AI 智能体 OpenClaw 被发现严重漏洞，可传播 ∕ 植入 macOS 病毒",
+    "https://mp.weixin.qq.com/s/64BCcSAohxoCgFc7_PrVkw": "【安全圈】Fancy Bear 利用微软 Office 漏洞对乌克兰及欧盟发动网络攻击",
+    "https://mp.weixin.qq.com/s/EIkOTUrDMjjE31hj1D5LOw": "【已复现】| 大蚂蚁即时通讯系统存在两处任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/wEraHfeZh7GiK-1wy_UCcg": "Chrome漏洞允许攻击者执行任意代码并导致系统崩溃",
+    "https://mp.weixin.qq.com/s/L0sOuBUHC8BoQvVfCp2LTA": "Apache Syncope 存在允许攻击者劫持用户会话漏洞",
+    "https://mp.weixin.qq.com/s/jME4unjLCep7WxgkAHc7PA": "Apache Syncope 漏洞可用于劫持用户会话",
+    "https://mp.weixin.qq.com/s/7sTcRY_fzP51vEzuSMsTjQ": "AI 助手OpenClaw 易遭一次点击 RCE 攻击",
+    "https://mp.weixin.qq.com/s/Ht-keV1l2mQELb-R3k2bbA": "【AI安全】OpenClaw 爆出 9.8 分顶级 RCE 漏洞！仅需一个链接",
+    "https://mp.weixin.qq.com/s/tvTUaafWnH8v1kLPD-AZ7Q": "【服务端漏洞-访问控制缺失-第二章第一节】从验证到越权：访问控制漏洞的“破门”之道（原理篇）",
+    "https://mp.weixin.qq.com/s/8Sq5vsMODefXgTcPdySt8g": "[跟着静师傅学代码审计]智慧校园(安校易)管理系统多处0day",
+    "https://mp.weixin.qq.com/s/3uStWdd7GnPMfogBWF9KyA": "福昕PDF编辑器漏洞允许攻击者执行任意JavaScript代码"
 }
