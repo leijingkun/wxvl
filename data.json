@@ -17717,5 +17717,11 @@
     "https://mp.weixin.qq.com/s/HDWi-CRvI7i094YVwo9PxQ": "Claude新模型4.6：开箱即挖500个0day漏洞，源代码审计即将颠覆",
     "https://mp.weixin.qq.com/s/jyAQ5Igjm9OdYiuRXm_F-g": "疑似俄罗斯背景APT28组织利用最新漏洞及云C2基础设施发起隐蔽攻击",
     "https://mp.weixin.qq.com/s/qDwcASKl_qgcVOQme94D_g": "Django高危漏洞可引发拒绝服务与SQL注入攻击",
-    "https://mp.weixin.qq.com/s/u6WcWv0foJcFGjTLJwwL6Q": "安全小知识-第二十三期_Struts2的“幽灵漏洞”：S2-045∕046为何至今仍有警醒意义？"
+    "https://mp.weixin.qq.com/s/u6WcWv0foJcFGjTLJwwL6Q": "安全小知识-第二十三期_Struts2的“幽灵漏洞”：S2-045∕046为何至今仍有警醒意义？",
+    "https://mp.weixin.qq.com/s/GWjw-3u6XnVV8VQmTqGgWg": "飞牛 FnOS myapp存在目录遍历、文件读取漏洞",
+    "https://mp.weixin.qq.com/s/vSyXocSl_bCxHvlueXMcOg": "洞见AI时代漏洞攻防，天融信发布《2025年网络空间安全漏洞态势分析研究报告》",
+    "https://mp.weixin.qq.com/s/i-rU2q_ZrcHXlrOhP--IwQ": "【红队武器库】100+款漏洞利用工具合集，从Shiro主流框架到云资产全覆盖",
+    "https://mp.weixin.qq.com/s/kJ1nfNQQzoCcPZaUqRRgAA": "CentOS 9 新漏洞允许攻击者提升至 root 权限——PoC 发布",
+    "https://mp.weixin.qq.com/s/EUCyc-y6acIlkK6yEXdovg": "某即时通讯系统缓存投毒->代码注入RCE",
+    "https://mp.weixin.qq.com/s/DGlUb5lXHIbWHfUYoKPR0g": "VMware ESXi 中的 CVE-2025-22225 漏洞现已被用于勒索软件攻击"
 }
