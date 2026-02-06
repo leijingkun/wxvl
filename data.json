@@ -17748,5 +17748,6 @@
     "https://mp.weixin.qq.com/s/Wo59F-Hkh8py_3CWfF4JmA": "【靶场复现】Ivanti EPMM Pre-RCE漏洞CVE-2026-1281∕1340",
     "https://mp.weixin.qq.com/s/z1iLbcemPe7n9yr9qcVl1w": "【服务端漏洞-访问控制缺失-第二章第三节】找不到敏感路径？试试这招，源码里可能写着答案",
     "https://mp.weixin.qq.com/s/J9IC6PzcIgmylIhUSGkbZg": "JerryScript引擎ecma_op_to_index漏洞分析与越界读写利用",
-    "https://mp.weixin.qq.com/s/0m3JdmA36CrB4bvCBMeMoA": "2026年1月企业必修安全漏洞清单"
+    "https://mp.weixin.qq.com/s/0m3JdmA36CrB4bvCBMeMoA": "2026年1月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s/zzjpm1Zlcso-zUzcAIkmkA": "【高危漏洞预警】n8n工作流自动化平台远程代码执行漏洞CVE-2026-25049"
 }
