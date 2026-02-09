@@ -17834,5 +17834,6 @@
     "https://mp.weixin.qq.com/s/SDiOpqKX5JESztfDhi2diw": "工具推荐 | JeecgBoot 全场景漏洞检测工具，覆盖 20+ 高危漏洞",
     "https://mp.weixin.qq.com/s/1QCTBTMXdtq9yplqmi1PMg": "Administrator Protection 安全边界绕过漏洞分析",
     "https://mp.weixin.qq.com/s/fmQ_G2eNynbSnUXyTNvwQg": "最新Nessus2026.1.8版本主机漏洞扫描∕探测工具Windows∕Linux下载",
-    "https://mp.weixin.qq.com/s/KJBGGaTwFjRvgAfGqqiLTw": "大蚂蚁BigAnt即时通讯系统DispersedAddin接口存在文件上传漏洞 附POC"
+    "https://mp.weixin.qq.com/s/KJBGGaTwFjRvgAfGqqiLTw": "大蚂蚁BigAnt即时通讯系统DispersedAddin接口存在文件上传漏洞 附POC",
+    "https://mp.weixin.qq.com/s/zkw0S7TRGvXZWwO1mJunCQ": "当我打完 sqli-labs 后，我决定进入文件上传漏洞（附靶场环境搭建）"
 }
