@@ -17798,5 +17798,15 @@
     "https://mp.weixin.qq.com/s/6gwvm9itLBtOpdFKu7iNNA": "漏洞复现 | 汉王e脸通综合管理平台 uploadMeetingFile.do 任意文件上传漏洞",
     "https://mp.weixin.qq.com/s/cMQloheSZdqRvTcKgs5Dmg": "网安每日干货分享之《文件包含漏洞01》-0209",
     "https://mp.weixin.qq.com/s/0YScfkKjp6TfmdY-WiCktg": "Docker AI助手漏洞：一个标签即可导致RCE与数据窃取",
-    "https://mp.weixin.qq.com/s/BdpvsY_Xdi8l1tNIrx0Hhg": "【林晓月的新漏洞科普】Arista 下一代防火墙命令执行漏洞科普（CVE-2025-6978）"
+    "https://mp.weixin.qq.com/s/BdpvsY_Xdi8l1tNIrx0Hhg": "【林晓月的新漏洞科普】Arista 下一代防火墙命令执行漏洞科普（CVE-2025-6978）",
+    "https://mp.weixin.qq.com/s/OIee-HjvdeKVIPpBYMp39g": "大蚂蚁即时通讯系统任意文件上传漏洞 附POC",
+    "https://mp.weixin.qq.com/s/14lnajOC5OzlQVfBTIt5TQ": "PHP mail() 命令注入到远程代码执行（RCE）",
+    "https://mp.weixin.qq.com/s/q0nN2uhC8OfMdRC6kgLi6A": "黑客正积极利用 SolarWinds Web Help Desk 的远程代码执行漏洞部署自定义工具",
+    "https://mp.weixin.qq.com/s/ywYVEGzNybL_80vJM2WRYg": "【渗透测试必备】网安人的漏洞知识库∕漏洞检索神器",
+    "https://mp.weixin.qq.com/s/EGs8IUac267ifzbS_sMstQ": "DudeSuite 漏洞播报 全网漏洞早知道【20260209】",
+    "https://mp.weixin.qq.com/s/GsuG9Z7omLh05POTMivkSw": "【独家复现】用友BIP、NC Cloud、NC无条件任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/5FesYDUZJZ6hNErDQ-KC4Q": "XXE漏洞测试工具 -- go-fake-ftp-server（2月6日更新）",
+    "https://mp.weixin.qq.com/s/yJf7G4OviVcLynHrGWnDhA": "DNN 最新漏洞挖掘与技术复盘：从 Unicode 转换到 SMB 凭证窃取",
+    "https://mp.weixin.qq.com/s/aDanrPZ-pyk_gbFq2-erJw": "jeecg框架漏洞利用工具",
+    "https://mp.weixin.qq.com/s/WPBNVpgDv2NpZY_QjO2P_w": "端点暴露：FortiClient EMS 存在严重缺陷（CVSS 9.1），允许未经身份验证的远程代码执行"
 }
