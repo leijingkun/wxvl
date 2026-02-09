@@ -17814,5 +17814,15 @@
     "https://mp.weixin.qq.com/s/ZCIZk4N8pCtBOUVLkiwp3w": "CVE-2025-30936 SQL注入",
     "https://mp.weixin.qq.com/s/H6SKMby9oveZnEnUZuplFg": "libexif 漏洞复现以及eclipse-cdt调试",
     "https://mp.weixin.qq.com/s/q2F_027gqq5nNpbbEjUCsQ": "【公告】漏洞盒子服务器升级通知",
-    "https://mp.weixin.qq.com/s/BWvSJ1cHRydaupUEXmZ9UQ": "BeyondTrust 修复了远程支持和 PRA 中的关键身份验证前远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s/BWvSJ1cHRydaupUEXmZ9UQ": "BeyondTrust 修复了远程支持和 PRA 中的关键身份验证前远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/6A1IcdPpq5gCBdw1udqfEg": "CNVD漏洞周报2026年第5期",
+    "https://mp.weixin.qq.com/s/1ep9tdFBozEiW4yc5BzUMw": "[跟着静师傅学代码审计]月子会所ERP管理云平台0day审计",
+    "https://mp.weixin.qq.com/s/-ZX2_v0S5h_N5Zt4zwvEbw": "【漏洞预警】Synectix串口转换器CVSS 10.0漏洞",
+    "https://mp.weixin.qq.com/s/PAjJjxuUPvfmNP5pdjZKng": "雷神众测漏洞周报2026.2.2-2026.2.8",
+    "https://mp.weixin.qq.com/s/SFYELOHYYrtusy7GH8V1qg": "【首发复现】用友BIP LoginWithV8存在登录绕过漏洞",
+    "https://mp.weixin.qq.com/s/VDW_Wbtj6vaUXMHOHiin8A": "上周关注度较高的产品安全漏洞（20260202-20260208)",
+    "https://mp.weixin.qq.com/s/qL8fAPdmRlTaf7ficmnBKA": "CyberStrikeAI | 仪表盘上线：任务、漏洞、工具调用一目了然",
+    "https://mp.weixin.qq.com/s/hPCXzwlL1ASXhma5INu03g": "【安全圈】SandboxJS 四大高危漏洞（CVSS 10.0）可导致宿主系统沦陷",
+    "https://mp.weixin.qq.com/s/5wGrOyFWN2WDn7q0PB7Q7g": "BeyondTrust 严重漏洞可导致预认证RCE",
+    "https://mp.weixin.qq.com/s/XeqYRO-CsF57sbgU7HrJuw": "预警丨防范Apache Struts2开源应用框架XML外部实体注入高危漏洞"
 }
