@@ -17808,5 +17808,11 @@
     "https://mp.weixin.qq.com/s/5FesYDUZJZ6hNErDQ-KC4Q": "XXE漏洞测试工具 -- go-fake-ftp-server（2月6日更新）",
     "https://mp.weixin.qq.com/s/yJf7G4OviVcLynHrGWnDhA": "DNN 最新漏洞挖掘与技术复盘：从 Unicode 转换到 SMB 凭证窃取",
     "https://mp.weixin.qq.com/s/aDanrPZ-pyk_gbFq2-erJw": "jeecg框架漏洞利用工具",
-    "https://mp.weixin.qq.com/s/WPBNVpgDv2NpZY_QjO2P_w": "端点暴露：FortiClient EMS 存在严重缺陷（CVSS 9.1），允许未经身份验证的远程代码执行"
+    "https://mp.weixin.qq.com/s/WPBNVpgDv2NpZY_QjO2P_w": "端点暴露：FortiClient EMS 存在严重缺陷（CVSS 9.1），允许未经身份验证的远程代码执行",
+    "https://mp.weixin.qq.com/s/65q9acMEp1VZXvsR_k_fUQ": "【AI高危漏洞预警】OpenClaw PATH命令注入漏洞CVE-2026-24763",
+    "https://mp.weixin.qq.com/s/TnARzC04jqnY5oP-uszjoQ": "【AI高危漏洞预警】OpenClaw路径遍历漏洞（CVE-2026-25253）",
+    "https://mp.weixin.qq.com/s/ZCIZk4N8pCtBOUVLkiwp3w": "CVE-2025-30936 SQL注入",
+    "https://mp.weixin.qq.com/s/H6SKMby9oveZnEnUZuplFg": "libexif 漏洞复现以及eclipse-cdt调试",
+    "https://mp.weixin.qq.com/s/q2F_027gqq5nNpbbEjUCsQ": "【公告】漏洞盒子服务器升级通知",
+    "https://mp.weixin.qq.com/s/BWvSJ1cHRydaupUEXmZ9UQ": "BeyondTrust 修复了远程支持和 PRA 中的关键身份验证前远程代码执行漏洞"
 }
