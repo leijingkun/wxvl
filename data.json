@@ -17876,5 +17876,9 @@
     "https://mp.weixin.qq.com/s/tJPDDPJYLyWyKYCoEWIUgQ": "WeChat For Linux rce",
     "https://mp.weixin.qq.com/s/Xs-v_3SjPuS_h1lYmqb_HA": "Linux版本微信存在命令执行漏洞，信创的有吗？",
     "https://mp.weixin.qq.com/s/i-OBQqvo9Q83L_PkCGYUtw": "【小年快乐】微信最新版RCE 已复现",
-    "https://mp.weixin.qq.com/s/4QpTq_P_bLzFR7S6vz4e2g": "【吐槽】Linux&信创微信任意命令执行漏洞-用户少而漏洞多"
+    "https://mp.weixin.qq.com/s/4QpTq_P_bLzFR7S6vz4e2g": "【吐槽】Linux&信创微信任意命令执行漏洞-用户少而漏洞多",
+    "https://mp.weixin.qq.com/s/wrtOHZkl-8-PqYbXCtpzpw": "【附POC及复现环境】Linux版微信 1-click任意命令执行漏洞复现",
+    "https://mp.weixin.qq.com/s/nn9JGmRuHpM1B5ddrvoUIQ": "微信 Linux 版 最新版本 1-Click 命令注入漏洞【已复现】",
+    "https://mp.weixin.qq.com/s/P9YcXS4PL08twU7NP7UBBw": "Claude Opus 4.6 找到主流开源库中的500多个高危漏洞",
+    "https://mp.weixin.qq.com/s/VPLQgcQT80zGoP9YCcaZvw": "GitLab网关RCE漏洞可致服务器沦陷"
 }
