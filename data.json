@@ -17880,5 +17880,15 @@
     "https://mp.weixin.qq.com/s/wrtOHZkl-8-PqYbXCtpzpw": "【附POC及复现环境】Linux版微信 1-click任意命令执行漏洞复现",
     "https://mp.weixin.qq.com/s/nn9JGmRuHpM1B5ddrvoUIQ": "微信 Linux 版 最新版本 1-Click 命令注入漏洞【已复现】",
     "https://mp.weixin.qq.com/s/P9YcXS4PL08twU7NP7UBBw": "Claude Opus 4.6 找到主流开源库中的500多个高危漏洞",
-    "https://mp.weixin.qq.com/s/VPLQgcQT80zGoP9YCcaZvw": "GitLab网关RCE漏洞可致服务器沦陷"
+    "https://mp.weixin.qq.com/s/VPLQgcQT80zGoP9YCcaZvw": "GitLab网关RCE漏洞可致服务器沦陷",
+    "https://mp.weixin.qq.com/s/UlDHG1zVyvzuEqrK75uGhg": "印第安纳大学布卢明顿分校 | 基于掩码图注意力网络的漏洞情报对齐",
+    "https://mp.weixin.qq.com/s/PWShlWVDPRjBAa3Lfyr7DQ": "使用 MonkeyCode 发现并修复安全漏洞的一次实践",
+    "https://mp.weixin.qq.com/s/RsLTmpcuGrc2kSHZvy8AZw": "Fortinet 修复可导致未认证代码执行的严重 SQLi 漏洞",
+    "https://mp.weixin.qq.com/s/Kqkt8nWOW_tm4h6cGQ3_bw": "CTF直播预告：无字母数字命令执行详解",
+    "https://mp.weixin.qq.com/s/cdVCxwRXtICcF7xiJ7BOpg": "微信 Linux 版本命令执行漏洞（QVD-2026-7687）复现与验证",
+    "https://mp.weixin.qq.com/s/60C-Z2ndRdgD-dBoBBnUOg": "【已复现】微信Linux版本存在1click远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/-cdQ1iMzcHPDFgYvu92uFg": "vx Linux版本命令执行漏洞",
+    "https://mp.weixin.qq.com/s/E9aNEKccVwekgGwu5bPHHA": "Linux版wx出现重大漏洞",
+    "https://mp.weixin.qq.com/s/nmU-pXT_Vi646Dy_rbhCVw": "Axios 曝高危漏洞，可致 Node.js 服务崩溃",
+    "https://mp.weixin.qq.com/s/BcUxjvWNDVcexfu_E_zq2Q": "Linux WeChat 漏洞预警"
 }
