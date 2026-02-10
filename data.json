@@ -17835,5 +17835,20 @@
     "https://mp.weixin.qq.com/s/1QCTBTMXdtq9yplqmi1PMg": "Administrator Protection 安全边界绕过漏洞分析",
     "https://mp.weixin.qq.com/s/fmQ_G2eNynbSnUXyTNvwQg": "最新Nessus2026.1.8版本主机漏洞扫描∕探测工具Windows∕Linux下载",
     "https://mp.weixin.qq.com/s/KJBGGaTwFjRvgAfGqqiLTw": "大蚂蚁BigAnt即时通讯系统DispersedAddin接口存在文件上传漏洞 附POC",
-    "https://mp.weixin.qq.com/s/zkw0S7TRGvXZWwO1mJunCQ": "当我打完 sqli-labs 后，我决定进入文件上传漏洞（附靶场环境搭建）"
+    "https://mp.weixin.qq.com/s/zkw0S7TRGvXZWwO1mJunCQ": "当我打完 sqli-labs 后，我决定进入文件上传漏洞（附靶场环境搭建）",
+    "https://mp.weixin.qq.com/s/7-X0ePw2lsxMwF6aE7S9yA": "Claude暴10分RCE漏洞：AI权力滥用危机再现",
+    "https://mp.weixin.qq.com/s/eZPEdHhq7vw1akyvgW067A": "天堂之门：发现谷歌云 Apigee 中的跨租户漏洞",
+    "https://mp.weixin.qq.com/s/KEs8CmhejZ_OBwuD_6x7IA": "【已复现】Gogs 远程命令执行漏洞(CVE-2025-64111)",
+    "https://mp.weixin.qq.com/s/nKkUOcb-c_9wzogr8H50Tw": "Everything - Post Exploitation",
+    "https://mp.weixin.qq.com/s/DXAd1PP_YNz9atDVjbxL8Q": "漏洞预警 | 天地伟业Easy7综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/KjugfvkmbwFQWgKqu_BbaQ": "企业安全神器：一键爆破子域名、秒扫全端口、0day 裸奔可视化——资产漏洞全景地图，十分钟让你“看见”整个互联网攻击面！",
+    "https://mp.weixin.qq.com/s/WTOkoscpF6Frd__Enp-7qQ": "一次JAVA系统三个组合拳RCE代码审计案例",
+    "https://mp.weixin.qq.com/s/pu_vHhVPHjEeKqDaUr7pjA": "确认！欧盟委员会遭网络攻击：祸起Ivanti产品漏洞",
+    "https://mp.weixin.qq.com/s/IH7pkSLfX8-RWmIvuFfz1w": "殡仪馆 AshesSearch.jsp 存在信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/veE6EDZOVw21whPq-ZzyLw": "GOGS 严重缺陷（CVSS 9.3）允许远程代码执行和绕过双因素认证",
+    "https://mp.weixin.qq.com/s/jOSEg8Sbom4P-5JJ6S3acw": "漏洞预警 | 用友U8Cloud SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/pXsxOm3-AIUPJ45Y0Sgwdg": "漏洞预警 | Google Chrome类型混淆漏洞",
+    "https://mp.weixin.qq.com/s/dBNTz_Qd12cL4ATZvSWv-w": "[跟着静师傅学代码审计]宏景人力资源信息管理系统代码0day审计",
+    "https://mp.weixin.qq.com/s/yoi7l5KMncILSst4f_IJ3Q": "LLM漏洞发现技术细节",
+    "https://mp.weixin.qq.com/s/me6o045-iaY08MYWvawj_g": "LLM 越来越多地发现零日漏洞，颠覆传统源代码审计方法"
 }
