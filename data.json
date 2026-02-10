@@ -17867,5 +17867,14 @@
     "https://mp.weixin.qq.com/s/SFFDl1Zh2wVUPcA8uq2SCg": "微信 linux最新版 1click RCE 已复现",
     "https://mp.weixin.qq.com/s/pCxga_rADV47eKyvVYikBQ": "ctfshow web入门 命令执行2",
     "https://mp.weixin.qq.com/s/XmwaOEREqC362FRp4NwpoQ": "【0 day 在野】安科瑞企业微电网能效管理平台存在敏感信息泄露漏洞 附POC",
-    "https://mp.weixin.qq.com/s/eQ9Kq31pArPxxvNF3adNFw": "【高危漏洞预警】Gogs自托管Git服务远程命令执行漏洞CVE-2025-64111"
+    "https://mp.weixin.qq.com/s/eQ9Kq31pArPxxvNF3adNFw": "【高危漏洞预警】Gogs自托管Git服务远程命令执行漏洞CVE-2025-64111",
+    "https://mp.weixin.qq.com/s/az75ibo1fQ64M_DtKdlKrw": "Weixin for Linux最新版RCE，利用条件简单，已完成复现！！！",
+    "https://mp.weixin.qq.com/s/syhZgd-eonlWBLdG9lY28w": "【小年快乐】某WeCh** linux存在RCE",
+    "https://mp.weixin.qq.com/s/VB2k1yw6jmVsfm6k9MXJWQ": "类型混淆之美：Golang类型混淆到RCE",
+    "https://mp.weixin.qq.com/s/Pq3vsB8Caji37EToM-7PeA": "微信 linux最新版 1click RCE 已复现",
+    "https://mp.weixin.qq.com/s/VQt-hwwjCtBuQSgPCkAwJQ": "【威胁监测】微信 for Linux存在RCE执行风险",
+    "https://mp.weixin.qq.com/s/tJPDDPJYLyWyKYCoEWIUgQ": "WeChat For Linux rce",
+    "https://mp.weixin.qq.com/s/Xs-v_3SjPuS_h1lYmqb_HA": "Linux版本微信存在命令执行漏洞，信创的有吗？",
+    "https://mp.weixin.qq.com/s/i-OBQqvo9Q83L_PkCGYUtw": "【小年快乐】微信最新版RCE 已复现",
+    "https://mp.weixin.qq.com/s/4QpTq_P_bLzFR7S6vz4e2g": "【吐槽】Linux&信创微信任意命令执行漏洞-用户少而漏洞多"
 }
