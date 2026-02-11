@@ -17949,5 +17949,11 @@
     "https://mp.weixin.qq.com/s/TPfP4TuP-X44VeyVyEjpGg": "【网络安全】微信Linux版高危漏洞已修复 信创安全防护仍需重点强化",
     "https://mp.weixin.qq.com/s/XB8PTqlnc1-FPRH4nPaXjw": "CNNVD关于微软多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s/UnCvWFJa4Vt3uwP6m0E4yg": "【成功复现】Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)",
-    "https://mp.weixin.qq.com/s/wgZX8drvbwWmepkK1npicA": "【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫"
+    "https://mp.weixin.qq.com/s/wgZX8drvbwWmepkK1npicA": "【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫",
+    "https://mp.weixin.qq.com/s/90kehAH0b7H1if9CHTVQ9Q": "微信 Linux版本命令执行漏洞",
+    "https://mp.weixin.qq.com/s/9AAoIbOoMxVTjx9Vvu760w": "985证书漏洞越权成为教授 + EDU∕RCE漏洞实战解析｜湘安内部平台月榜 TOP3 案例",
+    "https://mp.weixin.qq.com/s/szIBIyi0sLgzxGrASEbbRQ": "【已复现】最新版微信v4.1出现远程命令执行漏洞：one-click RCE on Linux WeChat",
+    "https://mp.weixin.qq.com/s/kYauQVEyBpe0Stq4u33w9A": "【安全圈】CVE-2026-1868：GitLab AI Gateway 严重漏洞（CVSS 9.9），可致远程代码执行",
+    "https://mp.weixin.qq.com/s/E0RN27Yr_qDXgh0IZMN_Bw": "【高危漏洞预警】WeChat∕Linux版本命令执行漏洞",
+    "https://mp.weixin.qq.com/s/Jopoi2JGbbJYhmcRqa6-0w": "【已复现】微信 Linux版本命令执行漏洞(QVD-2026-7687)安全风险通告"
 }
