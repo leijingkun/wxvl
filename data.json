@@ -17976,5 +17976,11 @@
     "https://mp.weixin.qq.com/s/KbpR09jITNlCMxWn0xiAbA": "警惕！Ivanti RCE零日漏洞复盘：这是一场针对IT管理者的“外科手术式”打击",
     "https://mp.weixin.qq.com/s/ljKfH_SRrWnYy0riPvN9bw": "漏洞复现 | 深信服运维安全管理系统 getHis 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/P-eRD6vL0XJOgsUFGyYYpA": "漏洞预警 | 用友时空KSOA SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/Ytyc_s-dP_54i4XhYkyQZA": "复现Windows记事本最新漏洞-CVE-2026-20841"
+    "https://mp.weixin.qq.com/s/Ytyc_s-dP_54i4XhYkyQZA": "复现Windows记事本最新漏洞-CVE-2026-20841",
+    "https://mp.weixin.qq.com/s/fqrjmoLoXHUuILRe4c7LVg": "【漏洞复现】腾达路由器曝敏感信息泄露漏洞，可直接获取管理密码。",
+    "https://mp.weixin.qq.com/s/v10XhK_vXI5za8YiY3951g": "苹果零日漏洞遭恶意利用，发起复杂攻击，目标直指个人用户",
+    "https://mp.weixin.qq.com/s/sbUez7a_xm-3gOMniaWMqw": "2026-02微软漏洞通告",
+    "https://mp.weixin.qq.com/s/rkCl9SwCPyJ9tuI4zQA7eg": "【已验证】Windows 记事本应用程序远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/ju2v7nRxPEKGlGl69v_yUQ": "【漏洞检测POC】Windows记事本命令注入漏洞（CVE-2026-20841）",
+    "https://mp.weixin.qq.com/s/9ZUrKzSgnTQqVwTvnzja1w": "windows记事本命令注入漏洞(CVE-2026-20841)"
 }
