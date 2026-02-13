@@ -18026,5 +18026,10 @@
     "https://mp.weixin.qq.com/s/p4WlX_7JVqD3GvVp-ZyBLQ": "【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫",
     "https://mp.weixin.qq.com/s/VyrsqNawUuBzaRahAk8MKg": "苹果修复动态链接器漏洞：曾被用于针对特定个人的极其复杂攻击",
     "https://mp.weixin.qq.com/s/mp_x_EDGgBznxCwRSkOhfA": "WordPress备份插件漏洞使80万个网站面临远程代码执行攻击风险",
-    "https://mp.weixin.qq.com/s/41K84U571pdRoYTdOTrh0Q": "漏洞预警 | n8n表达式执行漏洞"
+    "https://mp.weixin.qq.com/s/41K84U571pdRoYTdOTrh0Q": "漏洞预警 | n8n表达式执行漏洞",
+    "https://mp.weixin.qq.com/s/ynkJqDL4KBIme9L9gMrEcw": "【CVE-2026-20841】Windows记事本RCE漏洞",
+    "https://mp.weixin.qq.com/s/8j3GAnr5B0UygdJGdJ-gxQ": "【已复现】Windows 存储权限提升漏洞(CVE-2026-21508)",
+    "https://mp.weixin.qq.com/s/Bt8kn2kNFjr3fCmfglQzRw": "恒丰银行AI风险官项目POC测试供应商征集",
+    "https://mp.weixin.qq.com/s/b01z8-LUtXP8NvOTI5qqBw": "Zimbra 10.1.16 修复了 XSS、XXE 和 LDAP 注入漏洞",
+    "https://mp.weixin.qq.com/s/xyZ6b4fVbcvkReo3fuIjQg": "帆软bi反序列漏洞利用工具"
 }
