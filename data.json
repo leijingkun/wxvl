@@ -18057,5 +18057,6 @@
     "https://mp.weixin.qq.com/s/oeBoYkxaw1EvRSe2VwgSUQ": "漏洞复现 | 深信服运维安全管理系统 getCmd 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/wjO6Ejc2Oh0dCxXaHKot2g": "漏洞预警 | 用友U8CRM SQL注入漏洞",
     "https://mp.weixin.qq.com/s/Li_4PhTl7B6bam3Nr16rJQ": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
-    "https://mp.weixin.qq.com/s/CNmjwf_QXLcCoG3jo20xSQ": "CVE-2026-22039：Kyverno授权绕过漏洞深度剖析"
+    "https://mp.weixin.qq.com/s/CNmjwf_QXLcCoG3jo20xSQ": "CVE-2026-22039：Kyverno授权绕过漏洞深度剖析",
+    "https://mp.weixin.qq.com/s/INNMO2KV7dRZubeLGsSVJw": "《记一次简单的 EDUSRC 上分之旅（1）：高校系统漏洞挖掘实录》"
 }
