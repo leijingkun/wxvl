@@ -18126,5 +18126,16 @@
     "https://mp.weixin.qq.com/s/lpvDpb3JPsRz1olUxJ96wQ": "漏洞复现 | Synway SMG网关管理软件 9-13pcap.php 命令注入漏洞",
     "https://mp.weixin.qq.com/s/8l3lF0vjTKToWEqcUHy7Mw": "Web-Check：一款全面的web网站信息和漏洞扫描工具",
     "https://mp.weixin.qq.com/s/lsPV-FJ4ZtKPglIVb4dldQ": "CVE-2026-27199(Werkzeug)研究",
-    "https://mp.weixin.qq.com/s/a3sgXqyo3PejVLnOre_Bog": "配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系"
+    "https://mp.weixin.qq.com/s/a3sgXqyo3PejVLnOre_Bog": "配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系",
+    "https://mp.weixin.qq.com/s/dpZaAASV9L_1Uq-qUbgiIw": "【AI焕新】捷普漏洞扫描系统",
+    "https://mp.weixin.qq.com/s/LpHBTZ1oURIWCeFN1lc-sQ": "CVE-2025-2294 网关允许未经认证的用户通过 SpEL 注入和执行任意代码。",
+    "https://mp.weixin.qq.com/s/gTurMGl0RKa6Oj-1ER37oQ": "严重警报：Chrome 零日漏洞 (CVE-2026-2441) 已被利用",
+    "https://mp.weixin.qq.com/s/04JUVCLuLODDpmHkFHIyxg": "白嫖一支 AI 黑客战队！3 分钟本地部署，自动挖洞 + 沙箱 PoC，0 成本干翻传统审计",
+    "https://mp.weixin.qq.com/s/ZwW8FY0S7dmtOEARAgGNQg": "SRC中CSRF漏洞挖掘技巧",
+    "https://mp.weixin.qq.com/s/lmKRaMajydqD-Gg6TQL-hw": "漏洞复现 | 多客圈子论坛社区系统前台文件上传漏洞",
+    "https://mp.weixin.qq.com/s/TlLh9DiZKw4n35fDqG6SSA": "Google 官方出品，5 秒扫穿项目依赖漏洞",
+    "https://mp.weixin.qq.com/s/zysGSE_z0GvlU0N7j-W0Hg": "Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台",
+    "https://mp.weixin.qq.com/s/ebiq708TbwI_Qu6cD_cGeg": "企业 SRC 低投入，高收益漏洞总结",
+    "https://mp.weixin.qq.com/s/-WIFrWr0BTH10WGoDwA43A": "漏洞预警：波及 VS Code 与 Cursor！4款超 1.28 亿安装的插件成黑客攻击跳板",
+    "https://mp.weixin.qq.com/s/XgfUrJe0ZyoZKizQEH8Tkw": "【严重】CVE-2026-20408 Wifi范围内即可Getshell"
 }
