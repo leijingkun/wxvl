@@ -18269,5 +18269,12 @@
     "https://mp.weixin.qq.com/s/PO6a4KOxzr-BnxYhWwAaYA": "黑客利用 Claude AI 漏洞窃取政府数据",
     "https://mp.weixin.qq.com/s/HD3DmFnEIBCsLa9h0La3tg": "CVE-2021-1732 内核提权详细分析",
     "https://mp.weixin.qq.com/s/DnVI5NBDC-ldAZuyTUzNqg": "【0day】大蚂蚁 (BigAnt) 即时通讯系统 安装程序二次注入致远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/PYMZAZ8Tkw4XGH75iDHcTg": "【已复现】RustFS 管理控制台存储型XSS致管理员账户接管漏洞（CVE-2026-27822）"
+    "https://mp.weixin.qq.com/s/PYMZAZ8Tkw4XGH75iDHcTg": "【已复现】RustFS 管理控制台存储型XSS致管理员账户接管漏洞（CVE-2026-27822）",
+    "https://mp.weixin.qq.com/s/UJxJUHd55rAHmW0k00sE3A": "黑客工具Fierce：子域名挖掘",
+    "https://mp.weixin.qq.com/s/rKp8tgsMGPYELUF2WjAkMg": "合勤：注意影响十几款路由器的严重RCE漏洞",
+    "https://mp.weixin.qq.com/s/iXbGLS3F6SKmfnFhZoK2iA": "APP漏洞挖掘六脉神剑：组件、存储、证书、生物、Root、动态加载",
+    "https://mp.weixin.qq.com/s/x_BegxiS3Zd4YbxZ9VuWEQ": "存储型XSS漏洞checklist",
+    "https://mp.weixin.qq.com/s/cN2OaAyx94JtvbFvA3Nn4Q": "SolarWinds Serv-U 多个严重漏洞可用于提供服务器root权限",
+    "https://mp.weixin.qq.com/s/HZ14MviqIIoXt3DPkEQOwA": "【安全圈】大疆扫地机被曝安全漏洞，6700台设备可被远程控制",
+    "https://mp.weixin.qq.com/s/-mO_XtiYQxAPOjlCPcyMiQ": "【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（二）典型漏洞利用路径"
 }
