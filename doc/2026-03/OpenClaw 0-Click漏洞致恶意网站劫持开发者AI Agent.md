@@ -1,10 +1,7 @@
 #  OpenClaw 0-Click漏洞致恶意网站劫持开发者AI Agent  
- FreeBuf   2026-03-01 10:04  
+ 华盟信安   2026-03-02 06:37  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icBE3OpK1IX3XEJX8yLkic485jztpnuicARPicQfibo0OONXllgQFZlPjvCLJA2yvjADUVO3mHesOqUlVPTuNvTwMibxiakcA3E1pqH9KmmPbnabd0/640?wx_fmt=png&from=appmsg "")  
-##   
+![](https://mmbiz.qpic.cn/mmbiz_png/E08BHTj0T118Bib5rnaIHM6U0O1TiakCZUpniaQDgk1S1UhtZuMkyj6Eg354ztUPialCg3fXaLSINfbOauypGfjOYBibWY17TkP0h2NiafXW8iaiaIo/640?wx_fmt=png&from=appmsg "")  
   
 Oasis安全研究人员在OpenClaw中发现了一个关键的零交互漏洞。作为史上增长最快的开源AI Agent框架之一，该漏洞允许任何恶意网站无需插件、扩展或用户操作即可静默获取开发者AI Agent的完全控制权。  
   
@@ -63,23 +60,5 @@ OpenClaw 0-Click Vulnerability Allows Malicious Websites to Hijack Developer AI 
   
 https://cybersecuritynews.com/openclaw-0-click-vulnerability/  
   
-  
-###   
-###   
-###   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651335476&idx=1&sn=aa6cb0d69a88d29ad0c00c917bc49c3d&scene=21#wechat_redirect)  
-  
-  
-### 电台讨论  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibvNluUKZ6RPy7h2fbYibRbLQDHPFqj89KkFsXBRibx5YTLiaTUfFOy9PKicps3l56iazUPNQrwdhkZ7jA/640?wx_fmt=png&from=appmsg "")  
-  
-****  
-  
-  
-  
+文章来源：freebuf  
   
