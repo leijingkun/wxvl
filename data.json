@@ -18435,5 +18435,16 @@
     "https://mp.weixin.qq.com/s/ffCl-hv8BmUo2ipGMvWwOA": "【漏洞通告】Microsoft Windows 记事本远程代码执行漏洞(CVE-2026-20841)",
     "https://mp.weixin.qq.com/s/2rK8SF6yBr7McnGvqoiDPA": "FlowiseAI 任意文件写入漏洞",
     "https://mp.weixin.qq.com/s/DB7Unw5ITuFiuZCUXOubdw": "【漏洞通告】GNU Inetutils telnetd 环境变量注入提权漏洞(CVE-2026-28372)",
-    "https://mp.weixin.qq.com/s/uXrOP50GCsS3LOmwBVNzeA": "OpenClaw 0-Click漏洞致恶意网站劫持开发者AI Agent"
+    "https://mp.weixin.qq.com/s/uXrOP50GCsS3LOmwBVNzeA": "OpenClaw 0-Click漏洞致恶意网站劫持开发者AI Agent",
+    "https://mp.weixin.qq.com/s/rr1FRCZTptXqGgwwvjgztw": "利用Windows映像备份与ADCS漏洞攻陷域控",
+    "https://mp.weixin.qq.com/s/FlhMmYf0YNsj2FCzqHiE8g": "OpenClaw近期生态安全事件解读：从RCE漏洞到Skill供应链投毒分析",
+    "https://mp.weixin.qq.com/s/A54j5EN7CdiYLmAEIWNXWg": "CNVD漏洞周报2026年第8期",
+    "https://mp.weixin.qq.com/s/IL_sctIMfjMt42QSVzDEXQ": "汇丰银行加码生成式AI布局，漏洞修复已提速5倍",
+    "https://mp.weixin.qq.com/s/wsLuaHR7sh7HUrvbUGpA-g": "每周网安资讯 （2.24-3.2）| UNC6201组织利用CVE-2026-22769零日漏洞部署恶意软件",
+    "https://mp.weixin.qq.com/s/MWug5c7b-QLhLHE8QKeNkA": "Claude Code配置文件藏漏洞，API密钥秒泄露",
+    "https://mp.weixin.qq.com/s/CL1hzb9QJqEWodl044MGSA": "上周关注度较高的产品安全漏洞(20260223-20260301)",
+    "https://mp.weixin.qq.com/s/AjmGwxY7eb_twDKJMUl1rg": "OpenClaw近期生态安全事件解读：从RCE漏洞到Skill供应链投毒分析",
+    "https://mp.weixin.qq.com/s/eYxaAbPXLxV6OXyDMfn0sg": "从 BeijingCrypt攻击看天珣EDR防护实践，构筑代码漏洞之外的终端安全屏障",
+    "https://mp.weixin.qq.com/s/oeBnfoo221PuExGkak1rjw": "CVE-2025-6507&CVE-2025-6544 H2O-3反序列化漏洞",
+    "https://mp.weixin.qq.com/s/ILR5FRWLngoM04Uz6vsIJA": "【服务端漏洞-访问控制缺失-第二章第四节】开工大吉！分享一个“朴实无华”的越权思路：从false改到true就够了"
 }
