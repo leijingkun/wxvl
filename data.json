@@ -18488,5 +18488,11 @@
     "https://mp.weixin.qq.com/s/fftGnpspnYeUj66jbiUpUA": "用户名枚举漏洞并可被利用导致账户被恶意封禁算不算漏洞",
     "https://mp.weixin.qq.com/s/4Ceu8kxpf5lKZ1nTJNYPpw": "HSC Mailinspector 路径遍历漏洞(CVE-2024-34470) 附POC",
     "https://mp.weixin.qq.com/s/COJMTSv9xQdb_8mNWUkplQ": "OpenClaw高危漏洞ClawJacked深度解析：当浏览器成为内网渗透的跳板",
-    "https://mp.weixin.qq.com/s/kCh7mBZMxehhyIgBI5rU8A": "FastNmap - Nmap告别命令行可视化资产发现 · 漏洞检测 · 报告生成"
+    "https://mp.weixin.qq.com/s/kCh7mBZMxehhyIgBI5rU8A": "FastNmap - Nmap告别命令行可视化资产发现 · 漏洞检测 · 报告生成",
+    "https://mp.weixin.qq.com/s/yF1zeXGPEnDzMosAssqAlQ": "springboot环境下的写文件RCE——so加载篇",
+    "https://mp.weixin.qq.com/s/D4EitBJ-jhJGwXvnH0HfLA": "2026元宵福利来袭：漏洞奖金翻倍，陌陌SRC邀你共庆佳节！",
+    "https://mp.weixin.qq.com/s/99JxwoFzyn-zl7dFZNA8jA": "那个凌晨，我终于挖到了人生第一个漏洞",
+    "https://mp.weixin.qq.com/s/GZ9_4jqRD2mdgrLprhgk4A": "雷神众测漏洞周报2026.2.9-2026.3.1",
+    "https://mp.weixin.qq.com/s/9E8JddipF5-jOCzi1bVO8Q": "【漏洞预警】0day 青龙面板 最新版本 鉴权绕过导致 RCE",
+    "https://mp.weixin.qq.com/s/ru5jPwEt5CX3ndFZKZv2ww": "热网无线监测系统 RealTimeOther.asmx SQL注入漏洞"
 }
