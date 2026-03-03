@@ -18494,5 +18494,16 @@
     "https://mp.weixin.qq.com/s/99JxwoFzyn-zl7dFZNA8jA": "那个凌晨，我终于挖到了人生第一个漏洞",
     "https://mp.weixin.qq.com/s/GZ9_4jqRD2mdgrLprhgk4A": "雷神众测漏洞周报2026.2.9-2026.3.1",
     "https://mp.weixin.qq.com/s/9E8JddipF5-jOCzi1bVO8Q": "【漏洞预警】0day 青龙面板 最新版本 鉴权绕过导致 RCE",
-    "https://mp.weixin.qq.com/s/ru5jPwEt5CX3ndFZKZv2ww": "热网无线监测系统 RealTimeOther.asmx SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/ru5jPwEt5CX3ndFZKZv2ww": "热网无线监测系统 RealTimeOther.asmx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/RBk_5wl1ORq2c7p-P_r2ug": "Chrome Gemini漏洞可致攻击者远程访问用户摄像头和麦克风",
+    "https://mp.weixin.qq.com/s/wscOQbSSNwdp5Bc9XbI4sw": "漏洞验证-SpringBlade框架JWT认证缺陷(CVE-2021-44910)",
+    "https://mp.weixin.qq.com/s/VxuN9ohg3ypwOF6B8HYHXQ": "OpenClaw高危漏洞ClawJacked深度解析：当浏览器成为内网渗透的跳板",
+    "https://mp.weixin.qq.com/s/zTGQOuixh9CgXZ76-7SmZQ": "【高危漏洞预警】青龙面板身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/ct8GBNUKZIOnvqQaqOPbDA": "APT28组织利用MSHTML框架0Day漏洞在微软补丁发布前实施攻击",
+    "https://mp.weixin.qq.com/s/Rcj5yZBfA4XDwyObfBfmLQ": "pocsuites安全工具源码分析",
+    "https://mp.weixin.qq.com/s/c4fNfzn2TKA4VA1b9S1IFg": "Windows错误报告服务ALPC提权漏洞，PoC利用代码公开",
+    "https://mp.weixin.qq.com/s/KszZ_HT1Mza5DWOqNdQqcA": "Netatalk CVE-2018-1160 复现及漏洞利用思路",
+    "https://mp.weixin.qq.com/s/yk8acwGkXsWBgKcVp-SaTw": "CVE-2026-3042分析：ITSourceCode事件管理系统高危SQL注入漏洞（附poc）",
+    "https://mp.weixin.qq.com/s/BWVJsQI1sPmobRX4y3jDgw": "Chrome 漏洞可导致恶意扩展通过 Gemini 面板提权",
+    "https://mp.weixin.qq.com/s/MDAR7vEt0u0QvT-RVj190A": "【论文速读】| FuzzySQL：基于大模型驱动的模糊测试挖掘数据库管理系统特殊功能中的隐藏漏洞"
 }
