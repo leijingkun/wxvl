@@ -18531,5 +18531,22 @@
     "https://mp.weixin.qq.com/s/7l_SjdFgQ5nrzLVeAKc9mQ": "【服务端漏洞-访问控制缺失-第二章第五节】挖掘小众漏洞：平行越权（横向权限提升）的利用与实例",
     "https://mp.weixin.qq.com/s/xP_PRkltn0yuNOR85NYvXQ": "漏洞预警 | RustFS授权绕过漏洞",
     "https://mp.weixin.qq.com/s/CP6IhexEASzJ4UlGhJU8hg": "漏洞复现 | 青龙定时任务管理平台dependencies鉴权绕过导致远程命令执行漏洞",
-    "https://mp.weixin.qq.com/s/tqDPiJvZDhlATRAEsS3cug": "[0day] Chrome Blink引擎UAF+渲染器逃逸，全链RCE已在野"
+    "https://mp.weixin.qq.com/s/tqDPiJvZDhlATRAEsS3cug": "[0day] Chrome Blink引擎UAF+渲染器逃逸，全链RCE已在野",
+    "https://mp.weixin.qq.com/s/QwiyGO9OvdF4Lnt4MYqPvA": "信息安全漏洞月报（2026年02月）",
+    "https://mp.weixin.qq.com/s/xXgaZg_Y-YHroMYiz2IGyg": "Chrome Gemini漏洞可致攻击者远程访问用户摄像头和麦克风",
+    "https://mp.weixin.qq.com/s/0nBZDjvVRxVp54TSiySbaw": "Langflow CSV Agent 远程代码执行漏洞分析（CVE-2026-27966）",
+    "https://mp.weixin.qq.com/s/HszbwIfSyE15tQCTg-AidA": "DudeSuite 漏洞播报 全网漏洞早知道【20260304】",
+    "https://mp.weixin.qq.com/s/ueEFKrQCKFJpq7QGTe94Dg": "深度分析：Android 短信数据库 SQL 注入高危漏洞 (Bug 388530367)",
+    "https://mp.weixin.qq.com/s/-x7My3r39rLsSSCKN391wg": "信息安全漏洞周报（2026年第9期）",
+    "https://mp.weixin.qq.com/s/qi0y7bfmD26egsnPvInImg": "《网络安全与数据治理》：基于大模型的深层 Web 越权漏洞检测方法​​",
+    "https://mp.weixin.qq.com/s/xnBT55kFgUvwFbdXCDesEA": "【漏洞预警】青龙面板 网站管理系统 command-run 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/kMS6vP-lsStRJEepX-8JoQ": "OpenClaw本地AI Agent零交互接管攻击链分析与思考｜ClawJacked【CVE-2026-25253】",
+    "https://mp.weixin.qq.com/s/9RSG46cEyAQ58lIQQExKSA": "通杀iPhone的漏洞工具包遭泄露：美国政府级黑客工具流入黑市，你的苹果手机已成提款机！",
+    "https://mp.weixin.qq.com/s/TgKtuskvHUpo9zuVVLBjcA": "H5S视频平台敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/C6fGvi9rK-SWD6jKjGlQnQ": "通杀iPhone的漏洞工具包遭泄露：美国政府级黑客工具流入黑市，你的苹果手机已成提款机！",
+    "https://mp.weixin.qq.com/s/FNb8MY6qrjQ8JdDWVw2Qlw": "【1day】青龙面板 网站管理系统 command-run 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/_DyLCcTsEO9o6OFxVRjkNw": "通杀iPhone的漏洞工具包遭泄露：美国政府级黑客工具流入黑市，你的苹果手机已成提款机！",
+    "https://mp.weixin.qq.com/s/-bvDl1qJI7Jxi7cKposPsQ": "【漏洞预警】青龙面板 系统未授权远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/NTzLtMqWkaibNmy7ZCuGqQ": "Coruna漏洞利用工具包包含23个漏洞，已入侵数千部iPhone",
+    "https://mp.weixin.qq.com/s/RJRSte8fcj8vE3dfgZg6sQ": "代码安全审计模型集群(GGUF)更新！0day复现平台即将上线!"
 }
