@@ -18614,5 +18614,7 @@
     "https://mp.weixin.qq.com/s/PFU_ObEwY_HD4-O8NV48TQ": "思科提醒注意满分 Secure FMC 漏洞可用于获取 root 权限",
     "https://mp.weixin.qq.com/s/sTPSTNgl_LDA2poxzHEF_w": "【已复现】Cisco Catalyst SD-WAN 身份验证绕过漏洞(CVE-2026-20127)",
     "https://mp.weixin.qq.com/s/l5wftMKtuc6Wq4-HashBSA": "Agent时代的Web项目0day代码审计思考与实践",
-    "https://mp.weixin.qq.com/s/AjjCWHAokr2AAfPbqURadw": "恶意盗取Token接管OpenClaw AI Agent（CVE-2026-25253 ClawJacked）漏洞解析与安全加固方法"
+    "https://mp.weixin.qq.com/s/AjjCWHAokr2AAfPbqURadw": "恶意盗取Token接管OpenClaw AI Agent（CVE-2026-25253 ClawJacked）漏洞解析与安全加固方法",
+    "https://mp.weixin.qq.com/s/LkhnogIbInb50dG7WWDGqg": "【安全圈】思科修复最高危 Secure FMC 漏洞",
+    "https://mp.weixin.qq.com/s/R7k1nu5r2f2UsjN81DBDtw": "AI 挖漏洞已经“原地起飞”？别被幻觉骗了：拆解 POC-GYM 的深度降温报告"
 }
