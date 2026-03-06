@@ -18670,5 +18670,20 @@
     "https://mp.weixin.qq.com/s/_2Mzr5mgAiv92KGg56y0tw": "【0day】某知名品牌运维安全管理系统 getLdap 远程命令执行漏洞",
     "https://mp.weixin.qq.com/s/BsmqMUNKrby0Pehd0dDvHA": "JAVA漏洞集合工具",
     "https://mp.weixin.qq.com/s/ClWJWC45M8S9DK1pGFvHxw": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的",
-    "https://mp.weixin.qq.com/s/aya9HdpgMQtjdND_4cDkIQ": "ByteSRC入侵类漏洞限时享高系数奖励，高危额外再奖2w元！新人&伯乐礼同步上线！"
+    "https://mp.weixin.qq.com/s/aya9HdpgMQtjdND_4cDkIQ": "ByteSRC入侵类漏洞限时享高系数奖励，高危额外再奖2w元！新人&伯乐礼同步上线！",
+    "https://mp.weixin.qq.com/s/LDBDK7B2ywOr4IEMDWWMuA": "记某edusrc高危漏洞挖掘",
+    "https://mp.weixin.qq.com/s/WVss1QL8JgjFJtDl6vbduA": "Tenda CH22 多个漏洞分析",
+    "https://mp.weixin.qq.com/s/7l2E8uZ5yp1p0LBuCrbUnA": "思科：注意已遭利用的两个 Catalyst SD-WAN 管理器 0day 漏洞",
+    "https://mp.weixin.qq.com/s/9DWE8vqFdNgS3goopdws8w": "官方新漏洞-泛微云桥 e-Bridge系统 sendWxMsg 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/uN6e1XbxWeCGaE2R6xJ2Dw": "漏洞速递 | 最新Cisco CVE-2026-20127 漏洞（建议自查）",
+    "https://mp.weixin.qq.com/s/9xJwXvP4eJypD392aANggA": "人工智能重要安全漏洞通报：Langflow安全漏洞",
+    "https://mp.weixin.qq.com/s/-SBdt9KkSwNKxi3QbELESA": "某运维安全管理系统存在token泄露漏洞",
+    "https://mp.weixin.qq.com/s/YO9l3ZrJhB-U7vMTTa-Dug": "先知通用漏洞收集计划AI应用专项报名开启！",
+    "https://mp.weixin.qq.com/s/mh0yU485ImKrPFhc1gXuGQ": "【已复现】 你的文件可能被他人替换，Gogs 跨仓库 LFS 对象覆盖漏洞（CVE-2026-25921）",
+    "https://mp.weixin.qq.com/s/53ciKsFfD-OJUz_aXGeE2w": "Cisco SD-WAN 0Day漏洞已被野外利用，PoC已公开",
+    "https://mp.weixin.qq.com/s/XnPbAGlNpuqIOL5Ngkg4Aw": "\"没有 EXP 就无法利用\"？那就公开。有种别修。",
+    "https://mp.weixin.qq.com/s/iZxCXEsc8UjIvu61wyi9cw": "如果你能做好这三件事，0基础也能挖到src漏洞！",
+    "https://mp.weixin.qq.com/s/N7TEytjucnMBH9CWp90_bQ": "企业系统成0Day攻击新靶点，商业监控公司首超国家黑客",
+    "https://mp.weixin.qq.com/s/CNLivUOrSjwu7J18IKQuxQ": "攻击者可删除文件、植入后门：MS-Agent漏洞曝出完整利用链",
+    "https://mp.weixin.qq.com/s/TNhcv5cZeb14ZXEja87ecg": "电动汽车充电网络告警：Everon OCCP 后端系统存在严重漏洞"
 }
