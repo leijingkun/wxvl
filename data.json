@@ -18696,5 +18696,7 @@
     "https://mp.weixin.qq.com/s/kL4TVLyC1iGWXbwyGOif9A": "第69天-Web攻防学习笔记：文件包含漏洞（LFI ∕ RFI ∕ 伪协议 ∕ 无文件利用）",
     "https://mp.weixin.qq.com/s/VSvP_O4x-eapULzcJISzqQ": "WordPress会员插件漏洞允许攻击者创建管理员帐户",
     "https://mp.weixin.qq.com/s/gDVWpl1DS9aBbzJarP3aFg": "深度分析：CVE-2026-21509 Microsoft Office OLE 安全功能绕过高危漏洞",
-    "https://mp.weixin.qq.com/s/qyPxlI_uJ09AxYYz67pKzg": "Twenty CRM 远程代码执行 | CVE-2026-26720 复现&研究"
+    "https://mp.weixin.qq.com/s/qyPxlI_uJ09AxYYz67pKzg": "Twenty CRM 远程代码执行 | CVE-2026-26720 复现&研究",
+    "https://mp.weixin.qq.com/s/Pl8HI07Re_o398osEnziUg": "东胜物流软件GetData接口存在SQL注⼊漏洞 附POC",
+    "https://mp.weixin.qq.com/s/NvjcXdqkAMwiWBX_JS0NMg": "SRC 漏洞挖掘实战指南 (2026版)"
 }
