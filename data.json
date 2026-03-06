@@ -18694,5 +18694,7 @@
     "https://mp.weixin.qq.com/s/lot2n2XJw9MpYjfz9yLKOg": "信息安全漏洞周报【第063期】",
     "https://mp.weixin.qq.com/s/txVjLO1aaM9jJQ5PXXVxPg": "思科修复了48个防火墙漏洞，其中两个漏洞的CVSS评级为10级",
     "https://mp.weixin.qq.com/s/kL4TVLyC1iGWXbwyGOif9A": "第69天-Web攻防学习笔记：文件包含漏洞（LFI ∕ RFI ∕ 伪协议 ∕ 无文件利用）",
-    "https://mp.weixin.qq.com/s/VSvP_O4x-eapULzcJISzqQ": "WordPress会员插件漏洞允许攻击者创建管理员帐户"
+    "https://mp.weixin.qq.com/s/VSvP_O4x-eapULzcJISzqQ": "WordPress会员插件漏洞允许攻击者创建管理员帐户",
+    "https://mp.weixin.qq.com/s/gDVWpl1DS9aBbzJarP3aFg": "深度分析：CVE-2026-21509 Microsoft Office OLE 安全功能绕过高危漏洞",
+    "https://mp.weixin.qq.com/s/qyPxlI_uJ09AxYYz67pKzg": "Twenty CRM 远程代码执行 | CVE-2026-26720 复现&研究"
 }
