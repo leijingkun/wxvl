@@ -18812,5 +18812,20 @@
     "https://mp.weixin.qq.com/s/6tMsGOytCk10Edkeet_2DQ": "Nginx UI 权限绕过与备份解密漏洞？可能RCE哦 | CVE-2026-27944 复现&研究",
     "https://mp.weixin.qq.com/s/ZjFybaR6qh8_Vfh5x86LGw": "零日漏洞（0-day）：网络世界的\"隐形杀手\"",
     "https://mp.weixin.qq.com/s/yhRDO4t-mp3leQfGf19e6Q": "Nginx UI 信息泄露漏洞(CVE-2026-27944)（内附exp链接）",
-    "https://mp.weixin.qq.com/s/xMlfIAoMHbG8dYPgjrDeFg": "最新Nessus2026.3.9版本主机漏洞扫描∕探测工具Windows∕Linux下载"
+    "https://mp.weixin.qq.com/s/xMlfIAoMHbG8dYPgjrDeFg": "最新Nessus2026.3.9版本主机漏洞扫描∕探测工具Windows∕Linux下载",
+    "https://mp.weixin.qq.com/s/hMECSz_atyDW5sZJYzkCBw": "大多数网络攻击的成功只因1%的漏洞导致",
+    "https://mp.weixin.qq.com/s/D64YIyr5IpmqvltyK09JOg": "【服务端漏洞-访问控制缺失-第四章第一节】服务员为何会帮你偷后厨的秘密？详解“内鬼”漏洞SSRF",
+    "https://mp.weixin.qq.com/s/nSOluqqG4GavnLBcdnRPdw": "CVE-2026-29000：pac4j-jwt 认证绕过漏洞分析",
+    "https://mp.weixin.qq.com/s/qAZ8GvruVGnqbzEj_gyr9A": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/RMcoTEnBq5xhXN_1eZbLNQ": "漏洞预警 | 天地伟业Easy7文件读取漏洞",
+    "https://mp.weixin.qq.com/s/QKCFy3_LjQyiDmuWafGQWA": "别再手动修 Bug 了！OpenAI 推出 Codex Security：自动建模、沙盒验证、PoC 生成“全家桶”",
+    "https://mp.weixin.qq.com/s/ehTqpNazsPeuBfrleznsDw": "漏洞预警 | Cisco Catalyst SD-WAN身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/dQLVGtNVd1uxquNhYy9d4Q": "ZeroLogon (CVE-2020-1472)",
+    "https://mp.weixin.qq.com/s/vmlQF1pxim5keu2rNPAOqQ": "CNVD漏洞周报2026年第9期",
+    "https://mp.weixin.qq.com/s/0WAUfsKL-U5SJIhf3zIruA": "CL-UNK-1068组织利用网络服务器漏洞和Mimikatz攻击亚洲关键基础设施",
+    "https://mp.weixin.qq.com/s/LEGaygaRfKDqQBG80ST6Lw": "后续：黑客发布“实锤”截图，似复现迪莫纳核设施84分钟攻击链",
+    "https://mp.weixin.qq.com/s/7DRj_aVCQV7qT9yFQE1ZPQ": "20分钟定位 UAF 漏洞！Claude 4.6 深度审计 Firefox 源码，Mozilla 都惊呆了",
+    "https://mp.weixin.qq.com/s/hbQ2JIK_enKoD_MvKm7zRw": "腾讯开源项目现严重 RCE 漏洞：两行请求拿下服务器，CVE-2026-30861 详解",
+    "https://mp.weixin.qq.com/s/qmDgdQ9jp7PbyRmSm6uXoQ": "漏洞复现 | Nginx UI 未授权备份下载与加密密钥泄露漏洞（CVE-2026-27944）【附GUI解密脚本】",
+    "https://mp.weixin.qq.com/s/ROM-Kgi2J6b1OkoiaCfzrg": "Gogs 存在严重 CVSS 9.3 级漏洞，可将存储库变成恶意软件传播途径"
 }
