@@ -18978,5 +18978,7 @@
     "https://mp.weixin.qq.com/s/RWhS3O4nCzmeYNVnb7TlQw": "微软Office严重漏洞可导致远程代码执行攻击",
     "https://mp.weixin.qq.com/s/isnTq0bI8LQMTBUOrJPs5Q": "Zombie ZIP 漏洞披露：让 WinRAR∕7-Zip 解压报错，已伪装绕过 50 款主流杀软",
     "https://mp.weixin.qq.com/s/mrBAqrSWKdvrqyFHwy6I0A": "CNNVD | 关于微软多个安全漏洞的通报",
-    "https://mp.weixin.qq.com/s/oZlZNVzxLJcc4iIbfoyDpg": "Splunk远程代码执行漏洞使系统易受攻击者任意执行shell命令的攻击"
+    "https://mp.weixin.qq.com/s/oZlZNVzxLJcc4iIbfoyDpg": "Splunk远程代码执行漏洞使系统易受攻击者任意执行shell命令的攻击",
+    "https://mp.weixin.qq.com/s/kFumEDnSU92irduCfNu4QQ": "【成功复现】Cisco Catalyst SD-WAN身份验证绕过漏洞(CVE-2026-20127)",
+    "https://mp.weixin.qq.com/s/fXKLYz3-Bgc3ZJadzBDC1A": "【AI安全】细思极恐！OpenClaw 82 个漏洞梳理"
 }
