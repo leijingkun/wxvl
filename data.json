@@ -18949,5 +18949,15 @@
     "https://mp.weixin.qq.com/s/WainDoUDeLxLIuqJwFN4nw": "漏洞预警 | 深信服运维安全管理系统密钥硬编码漏洞",
     "https://mp.weixin.qq.com/s/a85eAJ23wM4Ro--69b1kRg": "一个 CSRF，让攻击者无需登录就能拿下服务器——CVE-2026-28495 分析",
     "https://mp.weixin.qq.com/s/eFlc0BuiKsWKow9waIpbZA": "漏洞预警 | OpenEMR未授权访问漏洞",
-    "https://mp.weixin.qq.com/s/sNfHXEOe_MoMFulYqZ1A6w": "9.4分严重漏洞：电动汽车充电桩后台无需任何凭据即可被完全接管"
+    "https://mp.weixin.qq.com/s/sNfHXEOe_MoMFulYqZ1A6w": "9.4分严重漏洞：电动汽车充电桩后台无需任何凭据即可被完全接管",
+    "https://mp.weixin.qq.com/s/zLrFyHMHPNPANNmreqHebQ": "“Mail2Shell”：FreeScout 零点击未认证 RCE（CVE‑2026‑28289）补丁绕过分析",
+    "https://mp.weixin.qq.com/s/4kvxVLermJ9U3cDZRL32oQ": "3月社区投稿活动 | 漏洞挖掘",
+    "https://mp.weixin.qq.com/s/EXAlKw-E_B3jPcUYiCam4Q": "严重告警：OneUptime 监控平台曝出 RCE 漏洞，低权限用户可接管整个集群",
+    "https://mp.weixin.qq.com/s/8lkjyJoRK6ZcLE363Z8IFw": "258 个漏洞，你的 OpenClaw 真的安全吗？",
+    "https://mp.weixin.qq.com/s/NaXWmR-uPNZ-fQE6gDj1VA": "技术解析：穿刺CVE-2025-40551补丁实现RCE 美国防机构采用公司SolarWinds旧伤复发",
+    "https://mp.weixin.qq.com/s/fRiYVp2pBo1NqLyIEHLCPA": "DataEase CVE-2025-49002 RCE",
+    "https://mp.weixin.qq.com/s/BEWCrSxX9c-wojd04OIG5A": "第82天-致命的疏忽：四种常见的密码找回漏洞，你中招了吗？",
+    "https://mp.weixin.qq.com/s/s4-SHWAzs_Bm2MGXqWxGlg": "华磊科技物流SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/_eDX-jwUVx8x_DDJgtTp_w": "【漏洞分析】TongWeb EJB 反序列化漏洞",
+    "https://mp.weixin.qq.com/s/X5EYzcGNAEyod1S7FlRkNw": "第81天-一键登录的“后门”？OAuth 认证漏洞攻防实战解析"
 }
