@@ -19046,5 +19046,11 @@
     "https://mp.weixin.qq.com/s/36y6JLM4wwIzE0XEQMHLng": "OpenClaw | CVE-2026-25253 RCE 漏洞 POC",
     "https://mp.weixin.qq.com/s/skH3iBOmLiWiUpsBGvkw8g": "信息安全漏洞预警（2026年3月9日-3月13日",
     "https://mp.weixin.qq.com/s/_9tVqFxezy-OXgr1lNf8fw": "AI串联漏洞攻陷招聘平台，伪装特朗普索要数据权限",
-    "https://mp.weixin.qq.com/s/EZNxVSlk8ihwiJ2yWcJYlA": "【复现】OpenClaw远程代码执行漏洞（CVE-2026-28466）"
+    "https://mp.weixin.qq.com/s/EZNxVSlk8ihwiJ2yWcJYlA": "【复现】OpenClaw远程代码执行漏洞（CVE-2026-28466）",
+    "https://mp.weixin.qq.com/s/FD5S9icanZ5ynByYkmEPsA": "叮～你有新的速递！CVE-2026-25253 OpenClaw远程代码执行漏洞（速查）",
+    "https://mp.weixin.qq.com/s/_SVBWccyLKKl17kVnluF7Q": "Chrome 零日漏洞已被恶意攻击者积极利用，用于执行恶意代码",
+    "https://mp.weixin.qq.com/s/13lZ6yeDA0uUd26ySWyR4A": "苹果发布紧急 iOS 15.8.7 更新以阻止“Coruna”漏洞利用工具包",
+    "https://mp.weixin.qq.com/s/Wbgp4Oq3muPXNKCN1Kpj2w": "【已复现】泛微Ecology10存在未授权远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/T54C-EJg2bwgrrTmz8kIIg": "思科修复多个高危 IOS XR 漏洞",
+    "https://mp.weixin.qq.com/s/eGIBIGvlRRzD5hqb_VYe-Q": "n8n 严重漏洞可导致RCE和存储凭据暴露"
 }
