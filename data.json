@@ -19031,5 +19031,20 @@
     "https://mp.weixin.qq.com/s/FB_iHcOZKMBCSNEo0PNk7Q": "能信安：漏洞通告",
     "https://mp.weixin.qq.com/s/Ffl5jLNWXgfl9sR0NjzfUg": "【漏洞复现】Weblogic 反序列化漏洞(CVE-2020-2555)",
     "https://mp.weixin.qq.com/s/8DriYsL_kuG7S3MWajqXPg": "信息安全漏洞周报【第065期】",
-    "https://mp.weixin.qq.com/s/YTeHwb_Ke4BaUKChnsp7bg": "速修！泛微Ecology10多个远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s/YTeHwb_Ke4BaUKChnsp7bg": "速修！泛微Ecology10多个远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/6cofZyvgwoMDvZRMT6rsOQ": "CVE-2026-27944 Nginx UI 权限绕过漏洞复现",
+    "https://mp.weixin.qq.com/s/2jqB1LR8abCzrTERlZ8MoQ": "荣耀邀你「三月争锋」：提交漏洞，赢荣耀500手机！",
+    "https://mp.weixin.qq.com/s/TvZoFPQRVgt63E2nvOE9AA": "SRC漏洞挖掘经验和技巧分享（一）",
+    "https://mp.weixin.qq.com/s/Z-eBavXSE5cxRXI3yowgAQ": "Splunk高危RCE漏洞可致服务器被完全控制",
+    "https://mp.weixin.qq.com/s/KhCZ0qkNIl7mPbWRzd_mXA": "漏洞速递 | CVE-2026-28466 OpenClaw小龙虾RCE漏洞（建议自查）",
+    "https://mp.weixin.qq.com/s/e1S1lU1uRBrNvimioDuC-Q": "黑掉你龙虾（OpenClaw）的竟然是另一个AI？一键RCE漏洞浅析",
+    "https://mp.weixin.qq.com/s/lcsXhaBMMe-t6Tuqfp3xZA": "CNNVD通报微软多个安全漏洞",
+    "https://mp.weixin.qq.com/s/ScUULbE9xRfcwNhDoXTYig": "MCPHub 高危漏洞实录：零凭证访问与授权后命令执行",
+    "https://mp.weixin.qq.com/s/lf7UZ_kOQQpuIjk4tEvZgA": "【服务端漏洞-访问控制缺失-第五章第一节】服务器失陷往往从一个文件开始：文件上传漏洞攻防实战",
+    "https://mp.weixin.qq.com/s/LiiV4KLNxekXgnht-FPrWg": "联发科芯片曝严重安全漏洞：45秒即可窃取手机PIN码与加密资产",
+    "https://mp.weixin.qq.com/s/2QDd_lNpsYjG16wxxWteKg": "记一次企业src漏洞挖掘连爆七个漏洞！",
+    "https://mp.weixin.qq.com/s/36y6JLM4wwIzE0XEQMHLng": "OpenClaw | CVE-2026-25253 RCE 漏洞 POC",
+    "https://mp.weixin.qq.com/s/skH3iBOmLiWiUpsBGvkw8g": "信息安全漏洞预警（2026年3月9日-3月13日",
+    "https://mp.weixin.qq.com/s/_9tVqFxezy-OXgr1lNf8fw": "AI串联漏洞攻陷招聘平台，伪装特朗普索要数据权限",
+    "https://mp.weixin.qq.com/s/EZNxVSlk8ihwiJ2yWcJYlA": "【复现】OpenClaw远程代码执行漏洞（CVE-2026-28466）"
 }
