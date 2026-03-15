@@ -19109,5 +19109,9 @@
     "https://mp.weixin.qq.com/s/C4s0bqtNWlEpArsjmvFPig": "漏洞复现 | Optilink管理系统 gene.php 存在远程命令执行漏洞",
     "https://mp.weixin.qq.com/s/RDcmpVNkUQI2yS4tF-EaLA": "Web3安全之我是如何和两百万美金擦肩而过的-VeilCash分析复现",
     "https://mp.weixin.qq.com/s/zq-gIt-WuRS4X6n67838hg": "工业网关高危漏洞预警：CVE-2026-25823 无需认证即可实现远程代码执行",
-    "https://mp.weixin.qq.com/s/SFTs_ZXg4uKwjhkrzi5STg": "WordPress 插件再现高危漏洞：CVE-2026-22193 SQL 注入可致数据库被完全读取"
+    "https://mp.weixin.qq.com/s/SFTs_ZXg4uKwjhkrzi5STg": "WordPress 插件再现高危漏洞：CVE-2026-22193 SQL 注入可致数据库被完全读取",
+    "https://mp.weixin.qq.com/s/3aUFaPqTswWqCxMq57ritQ": "OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取",
+    "https://mp.weixin.qq.com/s/1Ig16PXYt_g21_S_QI9P3Q": "代码审计 | 九佳易ERP漏洞分析",
+    "https://mp.weixin.qq.com/s/hSUIOxEbbIcDMM-QHuJkeA": "Linux AppArmor模块曝九大漏洞，可致提权及绕过容器隔离",
+    "https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的"
 }
