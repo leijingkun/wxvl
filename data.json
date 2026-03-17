@@ -19182,5 +19182,6 @@
     "https://mp.weixin.qq.com/s/k2bJ3e2YN1L-vBt5rWOjOQ": "【附全网首发POC】CVE-2026-1994 WordPress管理员密码修改漏洞 复现及漏洞环境",
     "https://mp.weixin.qq.com/s/DDb5XYatRTEik_7D-lTIoA": "API安全漏洞挖掘指南：40种真实世界漏洞模型",
     "https://mp.weixin.qq.com/s/HUbkCUNstiF1yUHIe68hrw": "【高危漏洞预警】Libucl UCL输入处理漏洞 (CVE-2026-0708)",
-    "https://mp.weixin.qq.com/s/lVWQQUIj7U4AB4c7ZXfAIg": "安全预警｜校园小程序高危 SQL 注入漏洞曝光，师生信息安全需警惕！"
+    "https://mp.weixin.qq.com/s/lVWQQUIj7U4AB4c7ZXfAIg": "安全预警｜校园小程序高危 SQL 注入漏洞曝光，师生信息安全需警惕！",
+    "https://mp.weixin.qq.com/s/2XeK9bJ9cGCNTJ2N_x_I0g": "CVE-2026-1312: Django order_by结合FilteredRelation使用导致的SQL注入漏洞"
 }
