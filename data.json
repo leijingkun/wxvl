@@ -19162,5 +19162,8 @@
     "https://mp.weixin.qq.com/s/xsLdkar6psjT-rt536JMyw": "OpenClaw node.invoke Rce(CVE-2026-28466)",
     "https://mp.weixin.qq.com/s/qwvE_nsegyb7EJkP7eXyxQ": "软件系统安全赛-Thymeleaf 3.0.15 视图名注入 + PRNG 逆向：完整 RCE 到 Root 提权",
     "https://mp.weixin.qq.com/s/N_Zw4ij-92O2MeHFRlIoAw": "OpenClaw 满分漏洞：WebSocket 共享认证越权可接管平台",
-    "https://mp.weixin.qq.com/s/PRLdI60J7e52al730pJbig": "OpenClaw 新型绕过漏洞，上榜企业必修安全漏洞清单"
+    "https://mp.weixin.qq.com/s/PRLdI60J7e52al730pJbig": "OpenClaw 新型绕过漏洞，上榜企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s/WMPLPQiqK4kogMhUq_U75A": "CVSS 10.0 严重缺陷 SandboxJS 漏洞授予完全远程代码执行权限",
+    "https://mp.weixin.qq.com/s/N7qGcpZmz_Wj34BrI3B7fg": "一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析",
+    "https://mp.weixin.qq.com/s/GP0IO9UfMnwsHgNMguKfhw": "Linux AppArmor出现CrackArmor漏洞，未授权用户可提升至root权限"
 }
