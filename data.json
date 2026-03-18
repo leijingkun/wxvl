@@ -19210,5 +19210,6 @@
     "https://mp.weixin.qq.com/s/0uzwKQ7ShKY1py9C-FSdKQ": "预警丨防范思科Catalyst SD-WAN管理软件多个漏洞",
     "https://mp.weixin.qq.com/s/nc7XTVQYs5XYyBL-hsYP9w": "【高危AI漏洞预警】OpenClaw Agent平台远程代码执行漏洞CVE-2026-30741",
     "https://mp.weixin.qq.com/s/blAB6ifN1i0WD3mrubpUgw": "CVE-2026-30741：OpenClaw远程代码执行漏洞复现详解",
-    "https://mp.weixin.qq.com/s/K2XGRMr0VeG3o-L46fOnhQ": "Ubuntu Desktop 24.04及更高版本存在本地权限提升漏洞，可导致未授权用户获取root权限"
+    "https://mp.weixin.qq.com/s/K2XGRMr0VeG3o-L46fOnhQ": "Ubuntu Desktop 24.04及更高版本存在本地权限提升漏洞，可导致未授权用户获取root权限",
+    "https://mp.weixin.qq.com/s/dkmSXkbDu3z28swYvLta8A": "某CMS XSS漏洞代码审计"
 }
