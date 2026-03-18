@@ -19212,5 +19212,7 @@
     "https://mp.weixin.qq.com/s/blAB6ifN1i0WD3mrubpUgw": "CVE-2026-30741：OpenClaw远程代码执行漏洞复现详解",
     "https://mp.weixin.qq.com/s/K2XGRMr0VeG3o-L46fOnhQ": "Ubuntu Desktop 24.04及更高版本存在本地权限提升漏洞，可导致未授权用户获取root权限",
     "https://mp.weixin.qq.com/s/dkmSXkbDu3z28swYvLta8A": "某CMS XSS漏洞代码审计",
-    "https://mp.weixin.qq.com/s/dQbk0U4tKff9YEWafydQKQ": "网站漏洞源码合集（附链接）"
+    "https://mp.weixin.qq.com/s/dQbk0U4tKff9YEWafydQKQ": "网站漏洞源码合集（附链接）",
+    "https://mp.weixin.qq.com/s/FuPbrHpTvqc5avbgVkx_VA": "CVE-2026-25803：3DP-MANAGER 硬编码默认凭据导致 VPN 管理后台完全接管",
+    "https://mp.weixin.qq.com/s/Ju3JvUI3f7FQtB4iEgi4NA": "快普M6 GetPositionOfStaff接口存在sql注入漏洞 附POC"
 }
