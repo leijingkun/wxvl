@@ -19244,5 +19244,11 @@
     "https://mp.weixin.qq.com/s/FAnDZvbbWM7ah-hAYPed8A": "工信部：关于防范思科Catalyst SD-WAN管理软件多个漏洞的风险提示",
     "https://mp.weixin.qq.com/s/ktmAv3EKBg9Z90axaWnjew": "Solon框架模板漏洞深度剖析与修复实战",
     "https://mp.weixin.qq.com/s/ZWuQBrCdi5JsHDlI7H5sBg": "【漏洞预警】Langflow 未授权远程代码执行漏洞（CVE-2026-33017）",
-    "https://mp.weixin.qq.com/s/YfGcNBnrT3rUtYqHYuB-mg": "远程运维的“定时炸弹”：四家厂商的 IP KVM 被曝严重漏洞"
+    "https://mp.weixin.qq.com/s/YfGcNBnrT3rUtYqHYuB-mg": "远程运维的“定时炸弹”：四家厂商的 IP KVM 被曝严重漏洞",
+    "https://mp.weixin.qq.com/s/MWInOqfmcoFngNO9YRbAxg": "CVE-2026-2441：Chrome CSSFontFeatureValuesMap 释放后重用漏洞解析",
+    "https://mp.weixin.qq.com/s/m2Sp7S3Zkkb1hyTo-yVMbg": "美国网络安全和基础设施安全局 (CISA) 警告：微软 SharePoint 漏洞已被攻击者利用",
+    "https://mp.weixin.qq.com/s/WPmHCoDfS-cPTRrP-6gnZQ": "AI串联漏洞攻陷招聘平台，伪装特朗普索要数据权限",
+    "https://mp.weixin.qq.com/s/7ynSFvfJvzkViHbjPd9pxA": "【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击",
+    "https://mp.weixin.qq.com/s/_AbUh_jcUJIxKeIOGfNKqw": "严重的 Telnetd 漏洞允许远程攻击者通过 23 端口执行任意代码",
+    "https://mp.weixin.qq.com/s/BH45coP-O-dw1zl85ZHSjA": "Apple WebKit 漏洞使恶意网页内容可在 iOS 和 macOS 上绕过安全机制"
 }
