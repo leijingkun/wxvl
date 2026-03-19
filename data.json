@@ -19252,5 +19252,7 @@
     "https://mp.weixin.qq.com/s/_AbUh_jcUJIxKeIOGfNKqw": "严重的 Telnetd 漏洞允许远程攻击者通过 23 端口执行任意代码",
     "https://mp.weixin.qq.com/s/BH45coP-O-dw1zl85ZHSjA": "Apple WebKit 漏洞使恶意网页内容可在 iOS 和 macOS 上绕过安全机制",
     "https://mp.weixin.qq.com/s/SUK6JyTGy9WswTehEibpJw": "【安全圈】iOS18 爆高危漏洞！不升危险，升级变卡",
-    "https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw": "Windows RCE漏洞EXP - CVE-2025-29969"
+    "https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw": "Windows RCE漏洞EXP - CVE-2025-29969",
+    "https://mp.weixin.qq.com/s/acJRu18qzQ_nJdWtbOCRBA": "OpenClaw AI高危漏洞速查、全自动漏洞安全基线检测工具",
+    "https://mp.weixin.qq.com/s/lsJhmUUjdJ_qnMZ1CtXe1Q": "通过攻陷合法网站传播的新型iOS漏洞利用工具包DarkSword"
 }
