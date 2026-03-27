@@ -19477,5 +19477,7 @@
     "https://mp.weixin.qq.com/s/oJnKz91e1sHvQhkWDH5LxA": "CVE-2026-20079 - Cisco FMC 身份验证绕过远程代码执行分析",
     "https://mp.weixin.qq.com/s/KCnE2dubNtqqbyduSud_DA": "私有内容IDOR漏洞",
     "https://mp.weixin.qq.com/s/py1hnY9cfJw3_smzaJ2uXw": "CVE-2026-20817 - Windows错误报告中缺失授权检查的分析 POC",
-    "https://mp.weixin.qq.com/s/j7VCXJLAjKnFex9pogUz3g": "【漏洞复现】Langflow CSV Agent 任意代码执行（CVE-2026-27966）"
+    "https://mp.weixin.qq.com/s/j7VCXJLAjKnFex9pogUz3g": "【漏洞复现】Langflow CSV Agent 任意代码执行（CVE-2026-27966）",
+    "https://mp.weixin.qq.com/s/c8Pr49RGAQcT4gE8PAKImw": "NVIDIA 严重漏洞可导致远程代码执行和拒绝服务攻击",
+    "https://mp.weixin.qq.com/s/ft8s_vuxIVocovRvyjIEOw": "CVE-2010-1870"
 }
