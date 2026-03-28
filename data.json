@@ -19501,5 +19501,11 @@
     "https://mp.weixin.qq.com/s/YLJyJK1IxBYt4PmC4snReQ": "紧急预警！2026 年 3 月这 5 个高危漏洞正在收割你的数据",
     "https://mp.weixin.qq.com/s/5VrsFyU97ncLC0bXY9dDGg": "漏洞复现 | Tosei自助洗衣机 network_test.php 远程命令执行漏洞",
     "https://mp.weixin.qq.com/s/iuRyip2HuthovZU1gEhCJA": "2026年Q1网络安全威胁深度分析：AI驱动攻击、供应链漏洞与防御策略升级",
-    "https://mp.weixin.qq.com/s/fIijPpB5VIKTytqdVO8mCQ": "2026 红队终极渗透指南：漏洞利用 + 权限维持 + EDR 绕过，全程干货 | 打点 | 撕口子 | 渗透测试 | Web安全"
+    "https://mp.weixin.qq.com/s/fIijPpB5VIKTytqdVO8mCQ": "2026 红队终极渗透指南：漏洞利用 + 权限维持 + EDR 绕过，全程干货 | 打点 | 撕口子 | 渗透测试 | Web安全",
+    "https://mp.weixin.qq.com/s/iM1sFwRqgXAAyjgLEsdxkA": "威胁通缉令 · 红桃A丨React2Shell RCE漏洞（新增）",
+    "https://mp.weixin.qq.com/s/g_9aQ8gTTFotM_z0W09NhQ": "Coruna漏洞工具包升级攻击框架，威胁数百万未打补丁的iOS设备",
+    "https://mp.weixin.qq.com/s/3-fMzl70tqasCcq04dikyg": "ClawHub漏洞可致恶意skill登顶；Claude Code允许AI自主选择操作权限 | FreeBuf周报",
+    "https://mp.weixin.qq.com/s/PApTROH77SN3nQSEqSfkXA": "瑞斯康达Raisecom智能网关 list_base_config 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s/wdTqwg12UxwNB6hkfUDfHg": "墨雪飘影漏洞收集平台通过工信部备案",
+    "https://mp.weixin.qq.com/s/fhjkZZu-Sn5blbytQpDslw": "0142.微软身份验证器中未被认领的深度链接：账户完全被盗用（CVE-2026-26123）"
 }
