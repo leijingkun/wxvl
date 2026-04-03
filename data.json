@@ -19653,5 +19653,9 @@
     "https://mp.weixin.qq.com/s/VZe-2EuXfVCHlivqLqZrLg": "CNNVD | 通报OpenClaw多个安全漏洞",
     "https://mp.weixin.qq.com/s/4VRmCfM6um2mRGIe5mSy5w": "BlockSec 安全周报｜八起攻击，漏洞都藏在哪？（3.23–3.29）",
     "https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw": "【成功复现】OpenCode远程代码执行漏洞(CVE-2026-22812)",
-    "https://mp.weixin.qq.com/s/Sl224HcVcNLF5Ou9LTCMMQ": "React2Shell漏洞被批量利用：超700台Next.js服务器凭证大规模失窃"
+    "https://mp.weixin.qq.com/s/Sl224HcVcNLF5Ou9LTCMMQ": "React2Shell漏洞被批量利用：超700台Next.js服务器凭证大规模失窃",
+    "https://mp.weixin.qq.com/s/Msagzh8x7ftnUewe_CTXWA": "星巴克漏洞事件",
+    "https://mp.weixin.qq.com/s/Pkn3e0RZ3ZNYV7iPhWPLmw": "TP-Link 多个漏洞使攻击者能够触发拒绝服务攻击并导致路由器崩溃",
+    "https://mp.weixin.qq.com/s/hseKSGXo2ZfqwM3eY6IX3Q": "苹果发布iOS 18.7.7更新以防御DarkSword漏洞",
+    "https://mp.weixin.qq.com/s/FLJ69EfeBYuFCV5UxwbGVQ": "黑客利用 React2Shell 漏洞入侵了 700 多台 Next.js 服务器"
 }
