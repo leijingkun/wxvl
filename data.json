@@ -19778,5 +19778,7 @@
     "https://mp.weixin.qq.com/s/4SbRrtlHO_k9z6m9fe9RLg": "Anthropic的Claude Mythos在主要系统中发现了数千个0day",
     "https://mp.weixin.qq.com/s/1244Ya5UrHHuWAs6KXnw2g": "J.a.k.o.b -如何更好的进行漏洞和**研究？",
     "https://mp.weixin.qq.com/s/UWMkSyAAoM00d4-SPSV4XQ": "【漏洞通告】Vite WebSocket 任意文件读取漏洞 CVE-2026-39363",
-    "https://mp.weixin.qq.com/s/Wxubco1gpR9_ESvdn3g3YA": "CUPS漏洞链使远程攻击者能够以root用户身份执行恶意代码"
+    "https://mp.weixin.qq.com/s/Wxubco1gpR9_ESvdn3g3YA": "CUPS漏洞链使远程攻击者能够以root用户身份执行恶意代码",
+    "https://mp.weixin.qq.com/s/397gOgvOHojuVcXDeq-zjA": "Vite 任意文件读取漏洞 | CVE-2026-39363复现&研究",
+    "https://mp.weixin.qq.com/s/3RWtWphVFPpDmYKWmsRoHg": "迅饶科技X2Modbus网关GetConfig接口存在敏感信息泄露漏洞 附POC"
 }
