@@ -19759,5 +19759,6 @@
     "https://mp.weixin.qq.com/s/wbodII0aHGqn_I5_V-r7sA": "从 RCE 到全量凭证窃取：深度解析 CVE-2025-55182 攻击利用链",
     "https://mp.weixin.qq.com/s/CvqMKWhFzuTdhEWVqrQI9g": "【未修复】 漏洞概念验证（PoC）",
     "https://mp.weixin.qq.com/s/n9v0k1n39j4uxHCDaWGvuQ": "OpenAI Codex漏洞允许攻击者窃取GitHub访问令牌",
-    "https://mp.weixin.qq.com/s/70eled0DcsbriYlPDb6Svw": "GPUBreach 漏洞利用 GPU 内存位翻转实现完整系统接管"
+    "https://mp.weixin.qq.com/s/70eled0DcsbriYlPDb6Svw": "GPUBreach 漏洞利用 GPU 内存位翻转实现完整系统接管",
+    "https://mp.weixin.qq.com/s/dHf1AMS1VAHD255mjNIgLA": "雷神众测漏洞周报2026.3.30-2026.4.6"
 }
