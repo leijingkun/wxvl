@@ -19794,5 +19794,10 @@
     "https://mp.weixin.qq.com/s/R8jBUcbp2NIJ7cZm4LE-Hg": "【成功复现】Vite WebSocket任意文件读取漏洞(CVE-2026-39363)",
     "https://mp.weixin.qq.com/s/0lJTczDlxa8SpcRCeceHZg": "没有任何漏洞，黑客是如何接管全球数百万开发环境的？——深度拆解 UNC1069 供应链猎局",
     "https://mp.weixin.qq.com/s/b4ylkD7TMW9IWg3Wr9a1aw": "4月社区投稿活动 | 漏洞挖掘",
-    "https://mp.weixin.qq.com/s/ySW4KbV_SpLmlTqJS3Bv2A": "Linux和Unix打印系统曝出漏洞链，远程攻击者最终可拿root权限"
+    "https://mp.weixin.qq.com/s/ySW4KbV_SpLmlTqJS3Bv2A": "Linux和Unix打印系统曝出漏洞链，远程攻击者最终可拿root权限",
+    "https://mp.weixin.qq.com/s/k_5PrW1KV1pCdGg9cGgIQQ": "【漏洞通告】Code Extension Marketplace存在目录遍历漏洞(CVE-2026-35454)",
+    "https://mp.weixin.qq.com/s/C1_RMxdY7xLYg758aYfFGg": "【漏洞通告】WWBN AVideo存在访问控制错误漏洞(CVE-2026-35450)",
+    "https://mp.weixin.qq.com/s/6s5_ToRJsBk7ucJEgZ8hYQ": "【漏洞通告】WWBN AVideo存在信息泄露漏洞(CVE-2026-35452)",
+    "https://mp.weixin.qq.com/s/3W1BpWJNOfAoBoqmqyW41A": "Meta发布Muse Spark，多智能体架构与隐私风险引行业关注；CNNVD 2026 年第14 周漏洞周报：新增 1298 个漏洞，超危 82 个需紧急修复| 牛览",
+    "https://mp.weixin.qq.com/s/nalcvjCOaT3h_WMEwOSGfQ": "关于漏洞学习的一些反思"
 }
