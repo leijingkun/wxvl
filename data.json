@@ -19831,5 +19831,14 @@
     "https://mp.weixin.qq.com/s/pA3qKOLhfdMsLETsQdaPLA": "涉密网络管理工作崩溃实录：半米高制度堆成山，检查仍漏高危漏洞！这5个\"隐形坑\"你中了几个？",
     "https://mp.weixin.qq.com/s/9tBzllkKr6YXnbQRKvZccw": "Spring&SpringBoot框架漏洞检测工具",
     "https://mp.weixin.qq.com/s/0NPDcqAVJxewvifn2bbqqw": "【视频】藏在收款机里的“特洛伊木马”：CVE-2026-4583 漏洞如何反向接管你的电脑？",
-    "https://mp.weixin.qq.com/s/oLwkMWuYEnsLFUVcveUSLw": "【登录背后的秘密-第五章第三节】一次真实的赏金狩猎：利用验证码生成与校验分离的漏洞拿下账户"
+    "https://mp.weixin.qq.com/s/oLwkMWuYEnsLFUVcveUSLw": "【登录背后的秘密-第五章第三节】一次真实的赏金狩猎：利用验证码生成与校验分离的漏洞拿下账户",
+    "https://mp.weixin.qq.com/s/dTs9aDDuU1DHwNmQ5j19nA": "Progress ShareFile曝新漏洞 可组合实现未认证远程代码执行",
+    "https://mp.weixin.qq.com/s/-UG8NexckrCs2BFWKx2cTA": "谷歌不再接受AI提交的漏洞检测报告",
+    "https://mp.weixin.qq.com/s/tfpLEQDTNvUpr6_nClMytw": "【1 day 在野】WordPressMailMint-CVE-2026-2025-信息泄露 附Payload",
+    "https://mp.weixin.qq.com/s/YdumXnNsmZqwOgIQ2BmfaQ": "你的WinRAR还在“裸奔”？——近三年高危漏洞大盘点",
+    "https://mp.weixin.qq.com/s/F33ZNryCujq3IXzEguwGQQ": "Citrix NetScaler 正在积极排查 CVE-2026-3055 (CVSS 9.3) 内存过度读取漏洞",
+    "https://mp.weixin.qq.com/s/FJSroX2VyFFxKZ9buhoIBA": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s/hj9rI8bmcojZ-Pgbt--axQ": "【安全警示】Claude Mythos隐藏能力曝光：AI发现零日漏洞的震撼一周",
+    "https://mp.weixin.qq.com/s/u25arhv1_QbP_UVmPmoCFg": "Mythos之后：漏洞挖掘从“找问题”走向“证明漏洞”",
+    "https://mp.weixin.qq.com/s/u2NKG4ZYQM4PUqbu1l2ggA": "WordPress Ditty SSRF漏洞(CVE-2025-8085)"
 }
