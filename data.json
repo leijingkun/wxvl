@@ -19876,5 +19876,9 @@
     "https://mp.weixin.qq.com/s/7FAz95xtOtj16Lqn7ZikmA": "【成功复现】Apache ActiveMQ远程代码执行漏洞(CVE-2026-34197)",
     "https://mp.weixin.qq.com/s/encMZSPfULvMovdLxxBZ3A": "【登录背后的秘密-第六章】高价值的逻辑漏洞往往藏在这里：一次对“记住我”Token的降维打击",
     "https://mp.weixin.qq.com/s/v3W227vSupKRxkYpigLh2w": "JWT认证漏洞实战解析",
-    "https://mp.weixin.qq.com/s/lV3b77o9XjT7PPADKpWy7A": "【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（四）真实案例分析"
+    "https://mp.weixin.qq.com/s/lV3b77o9XjT7PPADKpWy7A": "【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（四）真实案例分析",
+    "https://mp.weixin.qq.com/s/z-475KDrSnw4tS1-ev7IFA": "工具推荐 | 快速探测可能存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/PD2sUcj3NQytfBpAdC67aA": "又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵",
+    "https://mp.weixin.qq.com/s/UDf_TeEs0AhRbHzd2J6bDQ": "AI驱动漏洞海啸来袭：修复窗口从数周压缩到数小时",
+    "https://mp.weixin.qq.com/s/7vwpX9F3fNcS8ux-JJ_cUA": "规模化 SAST & SCA 漏洞修复"
 }
