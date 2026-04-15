@@ -19996,5 +19996,6 @@
     "https://mp.weixin.qq.com/s/CidhE3791Nodwp9CbWNpQw": "【漏洞通告】Apache Tomcat EncryptInterceptor绕过漏洞(CVE-2026-34486)",
     "https://mp.weixin.qq.com/s/aQdij4SsQhbE840Nf-hehw": "微软4月补丁星期二值得关注的漏洞",
     "https://mp.weixin.qq.com/s/vqCWhkAK0GECS_SQ-xC5Gg": "【安全更新】微软4月安全更新多个产品高危漏洞通告",
-    "https://mp.weixin.qq.com/s/SXpPUvuZOvJuV9HtkL8vTg": "微软2026年4月补丁星期二 – 修复168个漏洞，包括正在被利用的0day"
+    "https://mp.weixin.qq.com/s/SXpPUvuZOvJuV9HtkL8vTg": "微软2026年4月补丁星期二 – 修复168个漏洞，包括正在被利用的0day",
+    "https://mp.weixin.qq.com/s/9LwLE43XZ_13KgMhaFoubQ": "博硕BGM Download.ashx接口存在任意文件读取漏洞 附POC"
 }
