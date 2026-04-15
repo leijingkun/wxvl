@@ -19975,5 +19975,7 @@
     "https://mp.weixin.qq.com/s/uexBRD_sVZqMz1dPtW-ApA": "【高危漏洞预警】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486)",
     "https://mp.weixin.qq.com/s/nx_PGgKthCC5gmlAn70WuQ": "GraphQL RCE：通往云身份的攻击链",
     "https://mp.weixin.qq.com/s/GgQah_mZEOgE-sM_InC1xA": "WebStack系统CVE-2026-1555漏洞，支持未授权任意文件上传——RCE POC遭贩卖",
-    "https://mp.weixin.qq.com/s/41grWGyEYxiV9gGt3byPcw": "0Day漏洞可禁用CrowdStrike EDR，签名驱动成攻击利器"
+    "https://mp.weixin.qq.com/s/41grWGyEYxiV9gGt3byPcw": "0Day漏洞可禁用CrowdStrike EDR，签名驱动成攻击利器",
+    "https://mp.weixin.qq.com/s/6F-rbsxIOgNLzoXafgSJNg": "大语言模型驱动的漏洞挖掘：能力机制、场景分析与演进路径",
+    "https://mp.weixin.qq.com/s/ZZMFh2I6FiOAOh80JyhAwg": "【SRC实战】企业SRC中的两次任意用户注册漏洞"
 }
