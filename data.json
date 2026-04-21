@@ -20171,5 +20171,7 @@
     "https://mp.weixin.qq.com/s/ZrAjye39hq8Olut8hrh5rw": "Anthropic MCP 设计漏洞可导致 RCE，威胁 AI 供应链安全",
     "https://mp.weixin.qq.com/s/DSfFwDxQjRHEDO-3B7evdQ": "kernel heap exploit",
     "https://mp.weixin.qq.com/s/svknIswjlxtMWle4-EcB1w": "Windows截图工具NTLM哈希泄露漏洞PoC利用代码发布",
-    "https://mp.weixin.qq.com/s/-NZ6V1Z2VzS2QjLyuUSJfQ": "攻击者持续一年攻击TP-Link路由器漏洞CVE-2023-33538仍未得逞"
+    "https://mp.weixin.qq.com/s/-NZ6V1Z2VzS2QjLyuUSJfQ": "攻击者持续一年攻击TP-Link路由器漏洞CVE-2023-33538仍未得逞",
+    "https://mp.weixin.qq.com/s/t6lUu7fR9YgGOqjWEwIqQQ": "CISA 提醒防御者注意思科 Catalyst SD-WAN 管理器的安全漏洞已被利用",
+    "https://mp.weixin.qq.com/s/zvO7JA79mbOKJP8mtfPCuQ": "Claude Code、Gemini CLI 和 GitHub Copilot 存在通过 GitHub 评论注入的漏洞"
 }
