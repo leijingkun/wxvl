@@ -20173,5 +20173,7 @@
     "https://mp.weixin.qq.com/s/svknIswjlxtMWle4-EcB1w": "Windows截图工具NTLM哈希泄露漏洞PoC利用代码发布",
     "https://mp.weixin.qq.com/s/-NZ6V1Z2VzS2QjLyuUSJfQ": "攻击者持续一年攻击TP-Link路由器漏洞CVE-2023-33538仍未得逞",
     "https://mp.weixin.qq.com/s/t6lUu7fR9YgGOqjWEwIqQQ": "CISA 提醒防御者注意思科 Catalyst SD-WAN 管理器的安全漏洞已被利用",
-    "https://mp.weixin.qq.com/s/zvO7JA79mbOKJP8mtfPCuQ": "Claude Code、Gemini CLI 和 GitHub Copilot 存在通过 GitHub 评论注入的漏洞"
+    "https://mp.weixin.qq.com/s/zvO7JA79mbOKJP8mtfPCuQ": "Claude Code、Gemini CLI 和 GitHub Copilot 存在通过 GitHub 评论注入的漏洞",
+    "https://mp.weixin.qq.com/s/qtpfYT0r01BI-Ye-QPZGvg": "8.8分！Google紧急修复Chrome第4个0day漏洞，2026年已有4个在野利用",
+    "https://mp.weixin.qq.com/s/21t2qeAnAaWbidwusbWYSg": "一次偶然的RCE"
 }
