@@ -20205,5 +20205,15 @@
     "https://mp.weixin.qq.com/s/DPbXhj28HYklOdZXn2YItg": "超过 1370 台 Microsoft SharePoint 服务器易受欺骗攻击，其安全漏洞已在网上曝光",
     "https://mp.weixin.qq.com/s/BThVw5FJmJUA3gk4nqOO9Q": "漏洞永远修不完，“带洞防护”成必然——奇安信发布Mythos应对白皮书",
     "https://mp.weixin.qq.com/s/04gLX4WeFHFvqw8FCKDgPw": "某JAVA系统RCE漏洞审计流程",
-    "https://mp.weixin.qq.com/s/psgLzfv78YE0cFEHnQJQZg": "EDUSRC证书站之源码泄露导致的10rank漏洞"
+    "https://mp.weixin.qq.com/s/psgLzfv78YE0cFEHnQJQZg": "EDUSRC证书站之源码泄露导致的10rank漏洞",
+    "https://mp.weixin.qq.com/s/4knx5DnwKSTy1CdbImY7Lw": "CVE-2026-40342：Firebird 数据库中的 CVSS 10.0 路径遍历远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/autnabZybjElezhRKIN94A": "ChatGPT 安全漏洞：仅需一条提示词即可窃取数据",
+    "https://mp.weixin.qq.com/s/NH-odYaB5hMRoTO2uf7trg": "从红队攻击到蓝队防御——Redis 5.0.1 主从复制RCE应急响应实录",
+    "https://mp.weixin.qq.com/s/jXRvAWM5VDJKDZ25fOgdcA": "Flowise fetch-links ssrf漏洞",
+    "https://mp.weixin.qq.com/s/V1TCgDNHIZtZRMUoC5KaIQ": "1day:可实现Nginx服务器完全控制",
+    "https://mp.weixin.qq.com/s/A9z6ntDveOrcJaeBZpitcA": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/W-aVO1Cx1xAv2C3S3n0Pcw": "记某单位众测项目漏洞案例复盘",
+    "https://mp.weixin.qq.com/s/pw2MP5cFU8TqzhSFFnKMDg": "漏洞预警 | OpenPrinting CUPS远程代码执行和认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/4FJ2KAG7PFHai_NEy-nzlQ": "Windows 截图工具NTLM哈希泄露漏洞PoC利用代码公开",
+    "https://mp.weixin.qq.com/s/svPgsM7Q6HWAP6MktacP-g": "仅花1.5万元，就能把关键漏洞变成直接运行的网络武器"
 }
