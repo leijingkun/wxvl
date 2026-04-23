@@ -20215,5 +20215,10 @@
     "https://mp.weixin.qq.com/s/W-aVO1Cx1xAv2C3S3n0Pcw": "记某单位众测项目漏洞案例复盘",
     "https://mp.weixin.qq.com/s/pw2MP5cFU8TqzhSFFnKMDg": "漏洞预警 | OpenPrinting CUPS远程代码执行和认证绕过漏洞",
     "https://mp.weixin.qq.com/s/4FJ2KAG7PFHai_NEy-nzlQ": "Windows 截图工具NTLM哈希泄露漏洞PoC利用代码公开",
-    "https://mp.weixin.qq.com/s/svPgsM7Q6HWAP6MktacP-g": "仅花1.5万元，就能把关键漏洞变成直接运行的网络武器"
+    "https://mp.weixin.qq.com/s/svPgsM7Q6HWAP6MktacP-g": "仅花1.5万元，就能把关键漏洞变成直接运行的网络武器",
+    "https://mp.weixin.qq.com/s/fodvOn6B5H1xOsAEKhWcdQ": "Progress ShareFile 远程代码执行漏洞(CVE-2026-2701)",
+    "https://mp.weixin.qq.com/s/ds0aLVLxUjtEO4yToA4tMw": "Pack2TheRoot (CVE-2026-41651)：跨发行版本地权限提升漏洞",
+    "https://mp.weixin.qq.com/s/K8fMT3gMMrGMuEJHirY5zg": "GHSA-xq3m-2v4x-88gg 的 PoC：通过代码注入在 protobuf.js 中实现严重远程代码执行 (CVSS 9.4)",
+    "https://mp.weixin.qq.com/s/8Zgin-SeSqgSrDRGXtZQWw": "Spinnaker爆出两大“王炸”级漏洞，直接拿下生产环境",
+    "https://mp.weixin.qq.com/s/qvn4S6jZ0IgDeZlyhZvOpA": "安全419｜一周国际网安资讯：AI写漏洞 古典漏洞重燃"
 }
