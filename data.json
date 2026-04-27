@@ -20324,5 +20324,10 @@
     "https://mp.weixin.qq.com/s/OcI0Mu9VQqVIa8ucaWH_eQ": "孚盟云 AjaxProductTemplateList.ashx SQL注入漏洞",
     "https://mp.weixin.qq.com/s/KBOm1W35utMcRCsvvAGQqA": "拉开渗透差距：从被忽略的细节入手，WebSocket 漏洞测试实操",
     "https://mp.weixin.qq.com/s/jtHe-2ne_ku1_7W0W0MYJw": "PDF漏洞利用工具，看起来像真的！",
-    "https://mp.weixin.qq.com/s/yk3Na1rZNQq8d0ck-cs45A": "今日（2026年4月26日）热点网络安全漏洞动态"
+    "https://mp.weixin.qq.com/s/yk3Na1rZNQq8d0ck-cs45A": "今日（2026年4月26日）热点网络安全漏洞动态",
+    "https://mp.weixin.qq.com/s/KqEoLc6qc6qKmbJIcrRkEw": "AI漏洞海啸来袭：五步构建Mythos-ready安全体系",
+    "https://mp.weixin.qq.com/s/dSOYqzaeNhDCVlXfgAJOow": "如何骗过 PackageKit 拿到 Root（CVE-2026-41651）",
+    "https://mp.weixin.qq.com/s/ppbocrTnhKgJIIVN4CoQWQ": "畅捷通T+ FormReportOperateAction 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/D2ZgOupvuJC7GTe2F9R_HQ": "代码审计 某cms任意文件下载漏洞",
+    "https://mp.weixin.qq.com/s/vetr3EdxDiVH73EnCtWisw": "CVE-2026-34621 回顾：136天的检测谎言"
 }
