@@ -20494,5 +20494,8 @@
     "https://mp.weixin.qq.com/s/XsxSBCyV0m6w5dHiPz5M_A": "SEH溢出+Egghunter双剑合璧！SyncBreeze漏洞EXP深度优化",
     "https://mp.weixin.qq.com/s/X1HE9GQHfBKJrFin8aDf8Q": "CNVD：关于Linux内核存在本地权限提升漏洞的安全公告",
     "https://mp.weixin.qq.com/s/BCDnQD0MY5vL_OG-qd0NEA": "【已复现】cPanel 登录流程认证绕过漏洞（CVE-2026-41940）",
-    "https://mp.weixin.qq.com/s/OllLjqZcQJK6YAq1oBWPVA": "CVE-2026-42167 允许绕过身份验证并远程代码执行 ProFTPD"
+    "https://mp.weixin.qq.com/s/OllLjqZcQJK6YAq1oBWPVA": "CVE-2026-42167 允许绕过身份验证并远程代码执行 ProFTPD",
+    "https://mp.weixin.qq.com/s/-Q2r9raSwKhD5ST-_iE9cQ": "网络设备通用漏洞挖掘由黑到白",
+    "https://mp.weixin.qq.com/s/MMeMCSPJ_IO4peFb94fXbw": "CVE-2026-31431（Copy Fail）漏洞FAQ（上）——漏洞的基本情况、影响范围与处置篇",
+    "https://mp.weixin.qq.com/s/TW7FFvx7SXWsHRrqgY-v4w": "CVE-2026-31431"
 }
