@@ -20605,5 +20605,7 @@
     "https://mp.weixin.qq.com/s/eY3tml4tlhvo64SIVqCHHw": "今日（2026年5月5日）热点网络安全漏洞动态",
     "https://mp.weixin.qq.com/s/mWmqm0m1f8zbaV8xk3vY8g": "Apache HTTP 服务器严重漏洞使数百万台服务器面临远程代码执行攻击风险",
     "https://mp.weixin.qq.com/s/bShRDQ0voKYTrJ9FeU2dHw": "Claude Security开放公测：Opus 4.7加持，一键实现代码漏洞扫描与补丁生成",
-    "https://mp.weixin.qq.com/s/Rr18PKCV5-66T_4u4ZDnkw": "CVE复现 | CVE-2025-55182"
+    "https://mp.weixin.qq.com/s/Rr18PKCV5-66T_4u4ZDnkw": "CVE复现 | CVE-2025-55182",
+    "https://mp.weixin.qq.com/s/9TCQ-kAsTtzTKmbWbBIFfA": "无需API、一键接入｜Claude Security公测上线，AI直接扫描生产代码漏洞",
+    "https://mp.weixin.qq.com/s/2zGxkh_JpFiOCXab2vYWDA": "ISC DHCP Server：利用特性链实现未认证的Root远程代码执行"
 }
