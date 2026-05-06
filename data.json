@@ -20626,5 +20626,13 @@
     "https://mp.weixin.qq.com/s/26KhdrEM5p9r68EEYPFb1Q": "跨系统用户信息混淆漏洞",
     "https://mp.weixin.qq.com/s/VT0odsvIP7QwBoEmqkEuYQ": "复制机制漏洞：Linux 新漏洞可利用页缓存损坏实现提权至 Root 权限",
     "https://mp.weixin.qq.com/s/cA2QOh2sYuuuVMA9j4R7AQ": "5.5号最新-致命的静默：Android 零点击 RCE (CVE-2026-0073) 攻击全景复现与深度防御",
-    "https://mp.weixin.qq.com/s/N_56HxvfOYJ2s36id8Guhg": "732字节拿root：Linux内核潜伏10年的\"Copy Fail\"漏洞全解析"
+    "https://mp.weixin.qq.com/s/N_56HxvfOYJ2s36id8Guhg": "732字节拿root：Linux内核潜伏10年的\"Copy Fail\"漏洞全解析",
+    "https://mp.weixin.qq.com/s/F_rC_eOsUvsuLqV9pcUu7g": "全球首例！美国州政府起诉 AI 聊天机器人非法冒充执业医师；CNNVD 发布 AI 漏洞通报：213 个漏洞集中爆发，超危 8 个高危 89 个| 牛览",
+    "https://mp.weixin.qq.com/s/2FbP_KviNwol4rMc4Kil-g": "台湾23岁学生用SDR和手持电台瘫痪四列高铁：TETRA无线电漏洞让19年安全体系形同虚设",
+    "https://mp.weixin.qq.com/s/sAuN1ugzFNE_59cEwQ7NZw": "【已复现】Ollama 内存泄漏漏洞(CVE-2026-7482)安全风险通告",
+    "https://mp.weixin.qq.com/s/n3gChSDS9gtAk1Hpj6U-Og": "安卓零点击 RCE 漏洞（CVE-2026-0073）深度解析：同一 WiFi 下，手机放着不动也会被入侵",
+    "https://mp.weixin.qq.com/s/cUHeCo207MEqWbuWEQQvfQ": "Milesight IP 摄像头漏洞：5 个关键 CVE 导致全球 14,706 台监控设备暴露于风险之中",
+    "https://mp.weixin.qq.com/s/mITg4jM2D8IwByt9nUM9eg": "严重漏洞可能导致 30 万个 Ollama 部署面临信息泄露风险",
+    "https://mp.weixin.qq.com/s/gymd7aPTPHPkc1Xcu49diQ": "用Python自动化漏洞狩猎，打造专属工具，让狩猎速度提升10倍！",
+    "https://mp.weixin.qq.com/s/k27h7AAfms33bBqnFOkmsA": "某CMS最新版本前台RCE审计流程"
 }
