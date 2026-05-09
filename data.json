@@ -20753,5 +20753,13 @@
     "https://mp.weixin.qq.com/s/qsj_HjH8bcdrJEZB2av0BQ": "从 Vim Modeline 到 CVE-2026-44656：编辑器里的隐蔽攻击面",
     "https://mp.weixin.qq.com/s/LUshTdBaDa6NYmVWprrM2A": "【Linux+Web渗透】Silver Platter 新手打靶场的一些思路以及最新的CVE-2026-31431和DirtyFrag",
     "https://mp.weixin.qq.com/s/Hq3bBSJrBVHPqS6Zj-D1QA": "(2)漏洞复现-Tomcat-upload \"幽灵比特位\"",
-    "https://mp.weixin.qq.com/s/-ymJXhndZOlGwhZ1pMawkQ": "征求意见稿丨国家标准《网络安全技术 网络安全漏洞分类分级指南》，附下载"
+    "https://mp.weixin.qq.com/s/-ymJXhndZOlGwhZ1pMawkQ": "征求意见稿丨国家标准《网络安全技术 网络安全漏洞分类分级指南》，附下载",
+    "https://mp.weixin.qq.com/s/6QG7eFavFLSKz6q70u_bgw": "国家级黑客利用Palo Alto零日漏洞长期潜伏，部署隧道工具窃取凭证",
+    "https://mp.weixin.qq.com/s/JlczL70XFc28sWUKjjEDqg": "Blinko < 1.8.4 路径遍历漏洞存在任意文件读取漏洞CVE-2026-23482 附POC",
+    "https://mp.weixin.qq.com/s/iXD6k9US4xyMI8FQ5qcgvg": "如何使用MCP进行自动化漏洞挖掘",
+    "https://mp.weixin.qq.com/s/qVYvfo0WHJ6RS3QUgX9mlQ": "攻防、SRC必备插件 | 前端资产采集、嗅探、指纹扫描、泄露扫描、漏洞审计与 Vue Router 分析",
+    "https://mp.weixin.qq.com/s/fQe8__x_maBLpSZoeu4dsQ": "富勒仓储管理系统 getDownloadFileAction 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/rpjXeXGwPHZCjk-pPNoKVg": "26软件安全区域赛pth_attack复现",
+    "https://mp.weixin.qq.com/s/Gt8ov9ZvNiN6_HM6zhfUaw": "Ai+burpsuite插件实现自动化漏洞挖掘图文",
+    "https://mp.weixin.qq.com/s/oUtuT1Mb_fSL-mJSovKcMQ": "漏洞复现 | 深科特LEAN MES系统 SMTLoadingMaterial.ashx SQL注入漏洞"
 }
