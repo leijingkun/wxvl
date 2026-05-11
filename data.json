@@ -20790,5 +20790,19 @@
     "https://mp.weixin.qq.com/s/TFfiBhcuYk9wHR8pI-hLqQ": "AI自动扫描漏洞，一晚上能干多少事？",
     "https://mp.weixin.qq.com/s/nGjL-9Ib_jGAWbbbjbnwXQ": "复现完全越狱、开源且预先构建好的iOS 26虚拟机！",
     "https://mp.weixin.qq.com/s/ugp9359ThAHC3JIH-G9zWA": "基于Dirty Frag漏洞发现过程的“攻击原语”思考——再论漏洞发现与分析工作的人机分工",
-    "https://mp.weixin.qq.com/s/Gom3KdLik0Kl5mrjPUaQ_g": "从客户端加密到签名伪造、支付一分钱买下 32 元服务|金额篡改漏洞完整挖掘实录"
+    "https://mp.weixin.qq.com/s/Gom3KdLik0Kl5mrjPUaQ_g": "从客户端加密到签名伪造、支付一分钱买下 32 元服务|金额篡改漏洞完整挖掘实录",
+    "https://mp.weixin.qq.com/s/xZcnjxLwmHadjdgNzhLkng": "【漏洞复现】0day-雨诺调度客户端多项漏洞",
+    "https://mp.weixin.qq.com/s/qQWaxz-geSHR5gVblgvYyg": "正在被利用：PAN-OS 缓冲区溢出漏洞（CVE-2026-0300）全解析",
+    "https://mp.weixin.qq.com/s/Yp0tQFX5R7q8aH-48JTuAA": "Adobe Experience Manager (AEM) Dispatcher 绕过完全指南 ($10,000+ 赏金)",
+    "https://mp.weixin.qq.com/s/39gV9pWj-eW4TeEfre1AVA": "微服务场景下 RCE 和 SSRF 的⼀次组合利⽤",
+    "https://mp.weixin.qq.com/s/s73DOAsSfgpVJOzV_yIPXw": "SecLens：面向角色的大模型安全漏洞检测评估",
+    "https://mp.weixin.qq.com/s/3oQPKjOsD6y4ud8bNS4NVg": "漏洞复现 | 东胜物流软件 OpSailingDateListHtmlGridSource.aspx 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/h2rifEOygRikkl8cI6CobQ": "数据破坏和内存中毒：Spring AI漏洞威胁LLM完整性",
+    "https://mp.weixin.qq.com/s/sSKlxEEtUpGAv7mJsbxhhw": "漏洞预警 | Linux kernel权限提升漏洞",
+    "https://mp.weixin.qq.com/s/A2IdTyvZJqIfws-H2-5u0A": "百易云 task.create.php SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/LGirxeP97Yj2sXuMcC2W2g": "漏洞预警 | 天地伟业Easy7 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/KpmWR1xn7c_pS8-RmfdOUw": "Cloudflare如何应对“Copy Fail”Linux内核漏洞",
+    "https://mp.weixin.qq.com/s/ykhIBfKNzNq2mqOQUTEpIA": "Apache HTTP∕2 爆 8.8 分高危漏洞！不仅能 DoS，竟然还能远程执行代码？",
+    "https://mp.weixin.qq.com/s/PtGU9rZqhEgE0egOPtlAxQ": "Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc",
+    "https://mp.weixin.qq.com/s/VMA1s57eeinU8kSVXuxKXw": "cPanel 新漏洞可造成文件读取与远程代码执行"
 }
