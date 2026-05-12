@@ -20871,5 +20871,6 @@
     "https://mp.weixin.qq.com/s/MOnAGljdhFGkh7eGBK-Auw": "一款功能强大的Web 漏洞扫描器(11种检测模块)",
     "https://mp.weixin.qq.com/s/IBV42dfZcRMquHpYOfTMzQ": "黑客利用 CVE-2026-41940 漏洞控制 cPanel 和 WHM 服务器",
     "https://mp.weixin.qq.com/s/AKyjmlv4vfperRsGS8njsQ": "360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业",
-    "https://mp.weixin.qq.com/s/A1VK7zrvm93AYwfhl1E1gg": "WAVLINK-WN530HG4 live_api.cgi接口存在远程命令执行漏洞 附POC"
+    "https://mp.weixin.qq.com/s/A1VK7zrvm93AYwfhl1E1gg": "WAVLINK-WN530HG4 live_api.cgi接口存在远程命令执行漏洞 附POC",
+    "https://mp.weixin.qq.com/s/C6flk23xhsVfCu_zEVs-Ng": "cPanel 和 WHM 的新漏洞可导致代码执行和拒绝服务攻击"
 }
