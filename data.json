@@ -20872,5 +20872,21 @@
     "https://mp.weixin.qq.com/s/IBV42dfZcRMquHpYOfTMzQ": "黑客利用 CVE-2026-41940 漏洞控制 cPanel 和 WHM 服务器",
     "https://mp.weixin.qq.com/s/AKyjmlv4vfperRsGS8njsQ": "360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业",
     "https://mp.weixin.qq.com/s/A1VK7zrvm93AYwfhl1E1gg": "WAVLINK-WN530HG4 live_api.cgi接口存在远程命令执行漏洞 附POC",
-    "https://mp.weixin.qq.com/s/C6flk23xhsVfCu_zEVs-Ng": "cPanel 和 WHM 的新漏洞可导致代码执行和拒绝服务攻击"
+    "https://mp.weixin.qq.com/s/C6flk23xhsVfCu_zEVs-Ng": "cPanel 和 WHM 的新漏洞可导致代码执行和拒绝服务攻击",
+    "https://mp.weixin.qq.com/s/NQ3pxcS6eVneDOKo4E_nOg": "Burp Suite平替 | 强大插件、集成云端虚拟手机，快速定位APP漏洞",
+    "https://mp.weixin.qq.com/s/bb7ddbGqmDbUP4XOE54nbw": "我认为——90天漏洞披露政策已死",
+    "https://mp.weixin.qq.com/s/2ErpPdqHXNjmqfCGROj2Cg": "微软5月补丁日多个产品安全漏洞风险通告：14个紧急漏洞、9个重要漏洞",
+    "https://mp.weixin.qq.com/s/JPF_W-0F2dIvBi8NgJ3wjg": "网络安全史上一个里程碑式事件——攻击者首次使用AI大模型自主发现并武器化了0Day",
+    "https://mp.weixin.qq.com/s/lZhiWbxa2avLPWeb9VMTjA": "十亿量级IoT设备面临威胁：arduino-esp32 VLA栈溢出漏洞（CVE-2026-42854）技术分析",
+    "https://mp.weixin.qq.com/s/DD-VNW_zvgaRKKE-I8hKnQ": "OpenAI推出Daybreak，用人工智能做漏洞检测与补丁验证",
+    "https://mp.weixin.qq.com/s/MY9lKTgrp9GgA7I51AZwMA": "漏洞预警 | cPanel&WHM身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/lypdJtXadPbZRdzgeINvYw": "GreenPlasma Windows CTFMON 任意创建节提升权限漏洞",
+    "https://mp.weixin.qq.com/s/1Nep-sTJLyYJCXO3rL6zEw": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/55tohPDy_de00jh6Xe5LSA": "CVE-2026-43948 None != None 为 False：一个让授权守卫静默失效的 Python 陷阱",
+    "https://mp.weixin.qq.com/s/7fk-Gj2n3DzDbdHrP2WGLw": "AI也会被黑？OWASP Top 10带你看透大模型十大漏洞",
+    "https://mp.weixin.qq.com/s/glIcbK_uxbaDckf3DSFltw": "西门子 ROS# 存在严重漏洞，可实现任意文件访问和主机接管",
+    "https://mp.weixin.qq.com/s/2WMoV1V7Zp3VYtvTVL_WlQ": "针对安卓零点击漏洞的PoC漏洞利用程序已发布，该漏洞可实现远程Shell访问",
+    "https://mp.weixin.qq.com/s/riqjGP7fM6h43B1j8hiDjQ": "OpenAI 推出 Daybreak 平台，用于人工智能驱动的漏洞检测与补丁有效性验证",
+    "https://mp.weixin.qq.com/s/u-7xBVImVEUDwUb3NXW2rQ": "漏洞速递｜CVE‑2026‑41940 RCE漏洞（建议自查）",
+    "https://mp.weixin.qq.com/s/xdlq0hkx_s1_XZcimz4NAg": "离谱，Pwn2Own 因高质量漏洞提交过多而“拒单”"
 }
