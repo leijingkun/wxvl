@@ -20994,5 +20994,13 @@
     "https://mp.weixin.qq.com/s/mCYZZlLjzmGg57_B2MgU0g": "当异常绕过handleException：最新VM2沙箱绕过 CVE-2026-45411 原理分析",
     "https://mp.weixin.qq.com/s/cLvCw_5YgZlQFbcDJSd6og": "NGINX 漏洞 Rift：这款全球部署最广泛的 Web 服务器，一处潜伏 18 年 的漏洞刚刚被曝光",
     "https://mp.weixin.qq.com/s/wa6xjRDidRwpCgr-hhYwQw": "我对一个真实的CRM系统进行了渗透测试，发现了4个关键漏洞——以下是完整的攻击链",
-    "https://mp.weixin.qq.com/s/jO2KhtHCL8JRE4WIBYaI_Q": "CVE-2026-42945-NGINX-ngx_http_rewrite_module-堆缓冲区溢出分析报告"
+    "https://mp.weixin.qq.com/s/jO2KhtHCL8JRE4WIBYaI_Q": "CVE-2026-42945-NGINX-ngx_http_rewrite_module-堆缓冲区溢出分析报告",
+    "https://mp.weixin.qq.com/s/7Tto5H7OxmpTQGkyyVfOuQ": "免杀分析 | PowerShell命令执行、检测与绕过",
+    "https://mp.weixin.qq.com/s/xzwFu7Khfq50FxnKMXme5Q": "【漏洞通告】NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945)",
+    "https://mp.weixin.qq.com/s/jI4hCcuQWPqcm8IDslVQ0g": "实战逻辑漏洞（短信横向）利用",
+    "https://mp.weixin.qq.com/s/mutmN1nje_x5bZAmQm8I9g": "【漏洞预警】Linux Kernel 越权任意文件读取漏洞，PoC 已公开",
+    "https://mp.weixin.qq.com/s/76y61eknc6G-oD9Qalm0wg": "282G教程放送！2026网络安全资料最全合集（从0到挖漏洞、打CTF、护网、就业）",
+    "https://mp.weixin.qq.com/s/kqLGRhmQa8fs5HifQHqMsQ": "Web Fuzzer 强化：AI自动修改数据包与智能测漏洞",
+    "https://mp.weixin.qq.com/s/dxSq7GoaSDEWy5-6intj3Q": "【高危漏洞预警】Windows 存储空间控制器提权漏洞（CVE-2026-35415）",
+    "https://mp.weixin.qq.com/s/SIs8VZVo_vnjeVuBB7NGsA": "【已复现】Linux Kernel ptrace 本地权限提升漏洞(QVD-2026-26977)安全风险通告"
 }
