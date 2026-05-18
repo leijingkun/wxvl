@@ -21091,5 +21091,7 @@
     "https://mp.weixin.qq.com/s/fssaYRWZnW5kJrw0kvJnvQ": "上邦 电子文档安全管理系统 skins 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s/nwhYMH1xYopMdWIh_qezmA": "学员挖掘母校实战案例+4月湘安漏洞库平台优秀实战案例",
     "https://mp.weixin.qq.com/s/Fb9MWPExnhCGNsTKsScSdg": "小红薯可能存在xss漏洞？",
-    "https://mp.weixin.qq.com/s/u6d6fAUs_qncuAnW97-qug": "CVE-2026-34621：Adobe Acrobat 2026 原型污染和 JS 注入链 — 研究 PoC"
+    "https://mp.weixin.qq.com/s/u6d6fAUs_qncuAnW97-qug": "CVE-2026-34621：Adobe Acrobat 2026 原型污染和 JS 注入链 — 研究 PoC",
+    "https://mp.weixin.qq.com/s/zcKAch-50vHOZre84ggafw": "改变战局！Cloudflare亲测Mythos，AI漏洞审计进入生产",
+    "https://mp.weixin.qq.com/s/fTSIdjqJmf_yBB1r991PNA": "漏洞预警 CVSS 8.1 【严重】Exchange Server OWA 在野 0day：一封邮件即可劫持会话"
 }
