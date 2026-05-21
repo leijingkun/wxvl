@@ -21175,5 +21175,11 @@
     "https://mp.weixin.qq.com/s/-9Kh_zrePiI8FieRLW2v0g": "一个简单的web复现工具",
     "https://mp.weixin.qq.com/s/RdInbMdvVCWVRwi-2qbaSg": "用友NC DocServlet 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s/avofNuALVcCs7oRoiY_Bgg": "友数聚科技CPAS审计管理系统V4 doDownLoadPicFile接口存在文件读取漏洞 附POC",
-    "https://mp.weixin.qq.com/s/kBzkyyZr3KBDc387_7aMAQ": "【Open5GS 缓冲区错误漏洞(CVE-2026-8746)】"
+    "https://mp.weixin.qq.com/s/kBzkyyZr3KBDc387_7aMAQ": "【Open5GS 缓冲区错误漏洞(CVE-2026-8746)】",
+    "https://mp.weixin.qq.com/s/MD-uP0L73S0wGu6OvhgE9w": "SRC每日漏洞复现学习系列（第6篇）信息泄露漏洞+ 漏洞报告模板",
+    "https://mp.weixin.qq.com/s/Jg4C4E4krDlg0bI1VTLMLA": "思科：速修复满分 Secure Workload 未授权 API 访问漏洞",
+    "https://mp.weixin.qq.com/s/UyawPASH1AlJZfqabG7Huw": "[前沿技术] 智能合约常见漏洞审计",
+    "https://mp.weixin.qq.com/s/KREBr3NjeQ_OQZu_pyhQBw": "疑似 Nginx 新 0day RCE，无补丁，无上下文",
+    "https://mp.weixin.qq.com/s/qFXVV3_oZ51SPghQZ9hHVg": "疑似Coruna卷土重来：npm包art-template遭供应链攻击沦为iOS漏洞投送工具",
+    "https://mp.weixin.qq.com/s/DJ41Rq86j3Lpyd62ddr1HA": "AI 不是让漏洞变多，而是让漏洞更难藏"
 }
