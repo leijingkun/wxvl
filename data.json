@@ -21201,5 +21201,6 @@
     "https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg": "【高危漏洞预警】Drupal Core PostgreSQL数据库抽象API SQL注入漏洞CVE-2026-9082",
     "https://mp.weixin.qq.com/s/qjHb8IDzobpN3s05UdrOYw": "【漏洞预警】 cPanel∕WP2 高危任意文件读取CVE-2026-29205",
     "https://mp.weixin.qq.com/s/s4mWHy1z-130O-cr_EXGWw": "潜伏九年的Linux内核漏洞可致攻击者窃取SSH私钥",
-    "https://mp.weixin.qq.com/s/a9veyIqOekhg4g-aTZYkgg": "漏洞报告泛滥！ProjectDiscovery发布Triage自动验证漏洞"
+    "https://mp.weixin.qq.com/s/a9veyIqOekhg4g-aTZYkgg": "漏洞报告泛滥！ProjectDiscovery发布Triage自动验证漏洞",
+    "https://mp.weixin.qq.com/s/hncIeoim1rJ3szto2eFcVg": "Cisco修复CVSS 10.0严重漏洞，影响Secure Workload"
 }
