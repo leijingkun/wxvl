@@ -21226,5 +21226,6 @@
     "https://mp.weixin.qq.com/s/YiDOhYU80igYUju5gNKD5A": "邮箱密码重置流程的IDOR漏洞",
     "https://mp.weixin.qq.com/s/JCk4EoK4E2wkt-h2yKgEkQ": "我算了三遍才敢信：Anthropic让AI当黑客，首月1万漏洞修比找更难",
     "https://mp.weixin.qq.com/s/RXkL8sIL15oX-xjS2pHUNw": "StubZero：在 Google Cloud 生产环境中造成 148,337 美元的远程代码执行损失",
-    "https://mp.weixin.qq.com/s/A7CbMz5UNGW-hX94qeZ6yA": "Nginx-poolslip 漏洞可导致拒绝服务攻击和代码执行攻击——立即修复！"
+    "https://mp.weixin.qq.com/s/A7CbMz5UNGW-hX94qeZ6yA": "Nginx-poolslip 漏洞可导致拒绝服务攻击和代码执行攻击——立即修复！",
+    "https://mp.weixin.qq.com/s/98KYAIFyMCgIAdKj_Olffw": "万级漏洞AI：Anthropic秘密\"Mythos\"模型如何重塑网络韧性"
 }
