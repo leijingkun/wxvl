@@ -21285,5 +21285,9 @@
     "https://mp.weixin.qq.com/s/aveuqep0zo9hawdBAQHvVQ": "【接口漏洞第二章第二节】漏洞挖掘手记：一个修改请求，让我拿到了系统的“后门钥匙”",
     "https://mp.weixin.qq.com/s/vj-RjyoEQw6TEO7yKUxZVw": "实战 XSS 漏洞靶场：50+真实场景 + 附赠万级 XSS Payload 库",
     "https://mp.weixin.qq.com/s/Gm1UiD2N6DqGS0TTtfRomg": "IBM API Connect高危漏洞可使攻击者绕过身份验证",
-    "https://mp.weixin.qq.com/s/Gt792Ha2HjmcYj6ZEOxglw": "GNU Wget2曝高危漏洞"
+    "https://mp.weixin.qq.com/s/Gt792Ha2HjmcYj6ZEOxglw": "GNU Wget2曝高危漏洞",
+    "https://mp.weixin.qq.com/s/yTPehTfk1ufv3RXq6gh1mA": "我用 Claude Code 造了一个代码审计 Skill，它在 20 万行项目中找到了 63 个漏洞",
+    "https://mp.weixin.qq.com/s/gB0xw_DrfNOI9jf-CgIx7A": "登录框漏洞checklist（一）",
+    "https://mp.weixin.qq.com/s/tuoxUVBGzoCOQVJcLkuhiA": "好靶场存在逻辑漏洞-导致评论区消失且用户无法评论",
+    "https://mp.weixin.qq.com/s/pQ_H9-Qbyl4eYosYgt8ygw": "登录框漏洞checklist（二）"
 }
