@@ -21327,5 +21327,15 @@
     "https://mp.weixin.qq.com/s/01hMsKyTr85ScbP-AQXiTw": "东胜物流软件 YJCX.aspx SQL注入漏洞",
     "https://mp.weixin.qq.com/s/hvqG9qGXuHmpyM9Hc6uI3A": "漏洞预警 | 孚盟云SQL注入漏洞",
     "https://mp.weixin.qq.com/s/JOGwAezjHmAB0hyI7kYPsw": "Cisco SD-WAN 管理器又曝已遭利用漏洞：真正危险的，是管理平面被盯上了",
-    "https://mp.weixin.qq.com/s/UBDrk6z-pRWVwmMN7hCuBQ": "【高危漏洞预警】Oracle PeopleSoft 零日漏洞CVE-2026-35273"
+    "https://mp.weixin.qq.com/s/UBDrk6z-pRWVwmMN7hCuBQ": "【高危漏洞预警】Oracle PeopleSoft 零日漏洞CVE-2026-35273",
+    "https://mp.weixin.qq.com/s/gLNs9uh7SR1DR70_qEsc4A": "安全审计 Agent 不能只要“报漏洞”，而要证明漏洞",
+    "https://mp.weixin.qq.com/s/X69jKHzCpTmMykqPkbnE0g": "2026上半年你需要关注的高危漏洞合集！",
+    "https://mp.weixin.qq.com/s/l2bYHN6IOwbh9PqP_q7Afg": "CNNVD | 新一批OpenClaw多个安全漏洞通报",
+    "https://mp.weixin.qq.com/s/1F_VKdktObwmbE8hlinRrA": "【漏洞通告】Splunk Enterprise 预认证远程代码执行漏洞(CVE-2026-20253)",
+    "https://mp.weixin.qq.com/s/wgnYYjGmHUnkJcV7IEafvA": "NVIDIA NeMo曝安全漏洞，系统面临命令注入攻击风险",
+    "https://mp.weixin.qq.com/s/d_K08FHmoCsLsNSJQ78nZA": "世界杯官方赛事系统曝漏洞：电视直播流未设置权限，可被任意查看篡改",
+    "https://mp.weixin.qq.com/s/JXvEPZoY0YUHeJDMIwiKOA": "一个CRLF注入漏洞，竟能够进行密码重置邮件的操作？",
+    "https://mp.weixin.qq.com/s/lfF4dYWFoKIjl9ayOWBxVA": "一键即破防：M365 Copilot \"SearchLeak\" 漏洞链全解析（CVE-2026-42824）",
+    "https://mp.weixin.qq.com/s/dz8Flgs4YnTj78ZFC3PgWQ": "2026攻防演练必修高危漏洞集合（1.0版）",
+    "https://mp.weixin.qq.com/s/kxS_P0elGBsZtXYGnf4qKQ": "Google紧急发布Chrome安全更新，修复可致任意代码执行的关键漏洞"
 }
