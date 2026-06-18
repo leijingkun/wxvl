@@ -21348,5 +21348,20 @@
     "https://mp.weixin.qq.com/s/r_n49od3-Ts09Fcn0m6Geg": "大蚂蚁 (BigAnt) 即时通讯系统 admin∕secret∕edit SQL注入漏洞",
     "https://mp.weixin.qq.com/s/zYfBVcxPBsiTW0kW3i1p-Q": "直播预约｜2026 火山引擎 Force 数据智能论坛 全新升级+核心能力抢先看",
     "https://mp.weixin.qq.com/s/rd9AN4jERTTy7Gok01YGZQ": "Kernel 新漏洞曝光！多款主流 Linux 发行版存在 Root 本地提权风险",
-    "https://mp.weixin.qq.com/s/ijLCWBvroVkvtC_X0cdspg": "Apache CXF XXE 外部实体解析漏洞 | CVE-2026-49875复现&研究"
+    "https://mp.weixin.qq.com/s/ijLCWBvroVkvtC_X0cdspg": "Apache CXF XXE 外部实体解析漏洞 | CVE-2026-49875复现&研究",
+    "https://mp.weixin.qq.com/s/YgGx-09myu2b4vQnuG_WSA": "【漏洞解析】CVE-2026-0257：PAN-OS 身份认证绕过，附最新 IoC 与排查指南",
+    "https://mp.weixin.qq.com/s/C-g4nMzVf2INSkT6BpJJhA": "FIFA世界杯流媒体后台被曝高危漏洞：公开注册账号即可访问核心直播配置",
+    "https://mp.weixin.qq.com/s/nJbwF30J-YMO10SOGBgZFw": "智跃人力资源管理系统 zyconfig.txt 敏感信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/Cag8qF35yy-xVpshAfeW6A": "【高危漏洞预警】Linux Kernel net∕sched act_pedit本地权限提升漏洞CVE-2026-46331",
+    "https://mp.weixin.qq.com/s/2Ok5UY11i2mLv1PA9xaE4g": "Anthropic海外管制关不上AI造漏洞“魔盒”，人人都需要“零日雷达”",
+    "https://mp.weixin.qq.com/s/8DRJdSmNRz_1Rn-VxF8jqQ": "存在漏洞的 PackageKit 使攻击者能够获得 root 权限",
+    "https://mp.weixin.qq.com/s/uQ28M_q4MzfmqSF9J0XcAA": "Zyxel 修复 GS1900 交换机中的栈缓冲区溢出漏洞（CVE-2026-7273）",
+    "https://mp.weixin.qq.com/s/hoQIpeIG7tGKmMWRRwUWbg": "CNNVD | 人工智能重要漏洞通报（2026年第九期）",
+    "https://mp.weixin.qq.com/s/cI8hITdDNsIsXC8Zx4H-9g": "DragonForce 潜伏在微软 Teams 内部，长达两个月无人察觉",
+    "https://mp.weixin.qq.com/s/1YfCjSq_uRz2eMBiQHq4Aw": "Jinja2 SSTI 漏洞扫描器 -- ssti-scanner",
+    "https://mp.weixin.qq.com/s/caITBmrfVxpWE3G_GjfNpA": "SSRF漏洞点",
+    "https://mp.weixin.qq.com/s/tj099pgcLF3C9rKU7bqOqQ": "人工智能重要漏洞通报（2026年第九期）",
+    "https://mp.weixin.qq.com/s/EtfYkJP6a_I7PIou7JBz5g": "微软确认存在 RoguePlanet Defender 零日漏洞，称修复补丁正在开发中",
+    "https://mp.weixin.qq.com/s/Qfro7jebi3jp4hdO3mm74A": "【已复现】漏洞通告 | Linux Kernel net∕sched act_pedit 本地权限提升漏洞(CVE-2026-46331)",
+    "https://mp.weixin.qq.com/s/Hex9ZslEKqdJJ8OBX0IwbQ": "别光查漏洞，换个思路，用 PHP 扩展留后门"
 }
