@@ -21398,5 +21398,22 @@
     "https://mp.weixin.qq.com/s/fHr-PUpAH6nuuZ0RvaribA": "漏洞分析超越Mythos还不够！微软真正厉害的是知道MDASH还差在哪",
     "https://mp.weixin.qq.com/s/CwoCkx5C-IUT4_VjhZy3ww": "【成功复现】Linux内核act_pedit本地权限提升漏洞(CVE-2026-46331)",
     "https://mp.weixin.qq.com/s/Nph5bsoQ4k1L1Et3m_2mqQ": "CVE-2026-31635 | Linux内核RxGK\"DirtyCBC\"本地权限提升漏洞",
-    "https://mp.weixin.qq.com/s/fanoyyyq0cATDulcgy247g": "行业资讯：某网络安全漏洞扫描产品采购项目中标结果显示，绿盟漏扫中标５套"
+    "https://mp.weixin.qq.com/s/fanoyyyq0cATDulcgy247g": "行业资讯：某网络安全漏洞扫描产品采购项目中标结果显示，绿盟漏扫中标５套",
+    "https://mp.weixin.qq.com/s/hKnSpfWIod-hnG4DQFm4lg": "豆包的xss漏洞复现(蹭热点版)",
+    "https://mp.weixin.qq.com/s/cqn_J1oFpsJD6NzG6Id2QA": "本周漏洞速递｜11个高危漏洞预警+漏洞复现",
+    "https://mp.weixin.qq.com/s/_oSYWilp7b4_fn1C5bN8YA": "漏洞复现 | 东胜物流管理软件 UserInfo.aspx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/p6ofAy0btEooWr8G17HTSA": "TongWeb反序列化漏洞场景的图形化检测与利用工具",
+    "https://mp.weixin.qq.com/s/CCiFESTBkXIvMEfWeiVOiQ": "[安全周报] $1000 挖出 21 个 0day + 11.6 亿次撞库破 8.6 万台防火墙——2026 年漏洞的\"发现\"和\"利用\"，同周进入量产",
+    "https://mp.weixin.qq.com/s/negrW-wvlejIt_LpjfKtkA": "NGINX Open Source 中存在两个可导致RCE的严重漏洞",
+    "https://mp.weixin.qq.com/s/FgJfXm5qaBIkTtycQ2qBUw": "usbliter8：苹果 A12∕A13 BootROM 硬件漏洞的完整利用路径",
+    "https://mp.weixin.qq.com/s/18n9iv7uMZ40-WkW63-SnA": "别一条条看了！我把Burp流量全喂给AI，自动标出越权漏洞",
+    "https://mp.weixin.qq.com/s/keT_CAUl4KZw22uhBWviGA": "phpMyFAQ 权限漏洞提醒：后台账号不是“可信内网”，权限变更也要审计",
+    "https://mp.weixin.qq.com/s/k8XNVtK4eAqIGCMe_FtkLg": "CVE-2026-48907｜Joomla JCE编辑器扩展未授权远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s/Ao7jqzuTB3iUZG-ZHTfBbQ": "【高危漏洞预警】FreeBSD KTLS本地权限提升漏洞(CVE-2026-45257)",
+    "https://mp.weixin.qq.com/s/cNFfbZJhBcgJcd2SaE8SVg": "代码执行+模型被盗！盘点谷歌云Vertex AI存储桶抢注Bug的底层前沿姿势",
+    "https://mp.weixin.qq.com/s/MqklPO57H1Ff302leFQWSg": "CVE-2026-20253｜Splunk Enterprise PostgreSQL Sidecar未授权远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s/ka0Da4Wc6ZB57tppsPZXXQ": "FortiBleed 漏洞暴露一场全球性凭证喷洒攻击行动",
+    "https://mp.weixin.qq.com/s/hsFCML3EoECqFgnhSighNw": "Chrome扩展程序存在严重漏洞，攻击者可轻松入侵数百万浏览器",
+    "https://mp.weixin.qq.com/s/NvJ2CrtzY178xBil_FEyZA": "某2026最新去水印小程序文件上传漏洞组合拳",
+    "https://mp.weixin.qq.com/s/6o6W_hlnMN9QmOs1-NcvHw": "edu某大学的小程序和学生信息系统漏洞挖掘"
 }
