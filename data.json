@@ -21430,5 +21430,12 @@
     "https://mp.weixin.qq.com/s/2t1Oe78DmA-7jYED-wdORg": "CVE-2026-42824：Copilot SearchLeak 漏洞，AI 化身数据窃密内鬼｜Damian 攻防实验室实测",
     "https://mp.weixin.qq.com/s/_qURHgV3v7L1E4H6D10NBQ": "安全预警！Fortinet连爆三大9.1分漏洞，黑客竟用AI写Exp？",
     "https://mp.weixin.qq.com/s/9Brj5DXFKOcOfWmFajbwdg": "Cloudflare 如何搭建 AI 漏洞发现流水线",
-    "https://mp.weixin.qq.com/s/WeopQ-C4xbJpXNLFr4Au-w": "OpenCode CNVD 多 Agent 插件 | 用于授权场景下的 CNVD 漏洞挖掘"
+    "https://mp.weixin.qq.com/s/WeopQ-C4xbJpXNLFr4Au-w": "OpenCode CNVD 多 Agent 插件 | 用于授权场景下的 CNVD 漏洞挖掘",
+    "https://mp.weixin.qq.com/s/QhoCqvWt4Ylg2bQsCkR_5g": "QNAP修补QuMagie漏洞，防止私人媒体文件泄露",
+    "https://mp.weixin.qq.com/s/-RRX7QoggR3Jw1lCZk3XWA": "Firefox 的 CVE-2026-8971 漏洞",
+    "https://mp.weixin.qq.com/s/zrSAKXqB1RThAVQLwOm34A": "高危预警！Exchange零日漏洞 CVE-2026-42897，深入解析其漏洞原理、入侵路径、应急处置指南，企业务必自查",
+    "https://mp.weixin.qq.com/s/Eg2fox1RnCcTs8MwCJj3OQ": "【已复现】漏洞通告 | FreeBSD KTLS 本地权限提升漏洞(CVE-2026-45257)",
+    "https://mp.weixin.qq.com/s/U8RQR5jxvXw4eFupcliKvA": "Chrome扩展程序存在严重漏洞，攻击者可轻松入侵数百万浏览器",
+    "https://mp.weixin.qq.com/s/Q2YsA-jY99BLaZ-4f9pYqw": "CNVD漏洞周报2026年第24期",
+    "https://mp.weixin.qq.com/s/Nr8aUB2yPVxu4ymnHwAqLg": "usbliter8：针对苹果 A12、A13 芯片设备推出无法修复的 BootROM 漏洞利用工具"
 }
