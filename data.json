@@ -21415,5 +21415,20 @@
     "https://mp.weixin.qq.com/s/ka0Da4Wc6ZB57tppsPZXXQ": "FortiBleed 漏洞暴露一场全球性凭证喷洒攻击行动",
     "https://mp.weixin.qq.com/s/hsFCML3EoECqFgnhSighNw": "Chrome扩展程序存在严重漏洞，攻击者可轻松入侵数百万浏览器",
     "https://mp.weixin.qq.com/s/NvJ2CrtzY178xBil_FEyZA": "某2026最新去水印小程序文件上传漏洞组合拳",
-    "https://mp.weixin.qq.com/s/6o6W_hlnMN9QmOs1-NcvHw": "edu某大学的小程序和学生信息系统漏洞挖掘"
+    "https://mp.weixin.qq.com/s/6o6W_hlnMN9QmOs1-NcvHw": "edu某大学的小程序和学生信息系统漏洞挖掘",
+    "https://mp.weixin.qq.com/s/o4DAgKKx0jbaUuvhflOYgg": "AIScan多Agent分布式协同扫描，兼顾常规漏洞扫描与AI智能分析，自动复盘校验结果，全方位覆盖红队安全评估场景",
+    "https://mp.weixin.qq.com/s/O1-5j_SbUpLEH3iN79pSzg": "【漏洞速递】Nginx Proxy Manager远程代码执行漏洞（CVE-2026-40519）",
+    "https://mp.weixin.qq.com/s/voxwOeVo9jTr0iFktBiYgg": "SameSite Cookie绕过 + Web缓存欺骗：一次价值2000美元的漏洞挖掘",
+    "https://mp.weixin.qq.com/s/8mmWv42TrdMvX3WaDGo1wA": "AnyDesk 预授权零点击远程代码执行【视频】",
+    "https://mp.weixin.qq.com/s/zxXqrsEwwSWOXeONVgaC9w": "edu某大学的小程序和学生信息系统漏洞挖掘",
+    "https://mp.weixin.qq.com/s/whv4LzJTiJt-i2zHzdG8Eg": "行之:我的大模型黑盒RCE挖掘之路",
+    "https://mp.weixin.qq.com/s/CIGuvMCrJYU4qN_lAHU2UQ": "CTF比赛入门第九期：Linux文件包含与路径遍历漏洞",
+    "https://mp.weixin.qq.com/s/tmEoOcngfWr3NfxzAtAvKA": "赏金猎人手记：CORS不是漏洞，缝歪了才是",
+    "https://mp.weixin.qq.com/s/nlzZCOD1U5oqeBn0orw6eA": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/hvYkolfT2yWRd9a77HdV6g": "LiteLLM存在远程命令执行漏洞CVE-2026-42271 附POC",
+    "https://mp.weixin.qq.com/s/JTyNHL3837hd-bvW9Ccuyg": "漏洞预警 | Google Chrome越界读写漏洞",
+    "https://mp.weixin.qq.com/s/2t1Oe78DmA-7jYED-wdORg": "CVE-2026-42824：Copilot SearchLeak 漏洞，AI 化身数据窃密内鬼｜Damian 攻防实验室实测",
+    "https://mp.weixin.qq.com/s/_qURHgV3v7L1E4H6D10NBQ": "安全预警！Fortinet连爆三大9.1分漏洞，黑客竟用AI写Exp？",
+    "https://mp.weixin.qq.com/s/9Brj5DXFKOcOfWmFajbwdg": "Cloudflare 如何搭建 AI 漏洞发现流水线",
+    "https://mp.weixin.qq.com/s/WeopQ-C4xbJpXNLFr4Au-w": "OpenCode CNVD 多 Agent 插件 | 用于授权场景下的 CNVD 漏洞挖掘"
 }
