@@ -21459,5 +21459,8 @@
     "https://mp.weixin.qq.com/s/Rk9z5dbGcsGAv1wiCpH_VA": "漏洞预警 | 大蚂蚁即时通讯系统任意文件上传漏洞",
     "https://mp.weixin.qq.com/s/R5dOY9rgc_iDddVB1vtBHA": "DifyTap：四大漏洞致使超百万个 AI 应用面临安全威胁",
     "https://mp.weixin.qq.com/s/Z-T84ceSUzTF9BoA697AZw": "漏洞预警 | Linux kernel权限提升漏洞",
-    "https://mp.weixin.qq.com/s/NL2Oa8h__B4pquR5ppN9NQ": "Webmin 2.641 修复三个漏洞，其中包括一个严重的身份验证绕过漏洞"
+    "https://mp.weixin.qq.com/s/NL2Oa8h__B4pquR5ppN9NQ": "Webmin 2.641 修复三个漏洞，其中包括一个严重的身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A": "libssh2 CVE-2026-55200 PoC 和本地 RCE",
+    "https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ": "CVE-2026-41089：Windows Netlogon 通过 CLDAP 堆栈缓冲区溢出进行远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/WFYj3seeH2_xti7RLU16vQ": "CTF比赛入门第十期：文件上传漏洞全解"
 }
