@@ -21525,5 +21525,6 @@
     "https://mp.weixin.qq.com/s/3IxDbhDRWVzFC-kE4ogi5Q": "消息模板注入漏洞",
     "https://mp.weixin.qq.com/s/bGi5a_ZLKNMmrNaIwmDAFQ": "Cisco CUCM 任意文件写入到RCE：一条被低估的攻击链",
     "https://mp.weixin.qq.com/s/y15izv7ojxCyjrZ7BsswDA": "研究员学习Hyper-V时意外挖出微软隐藏BUG：CVE-2024-21305",
-    "https://mp.weixin.qq.com/s/6J6VJ_XGoC4lk-WrdM9N7g": "不会找漏洞 试试Nuclei这款神器"
+    "https://mp.weixin.qq.com/s/6J6VJ_XGoC4lk-WrdM9N7g": "不会找漏洞 试试Nuclei这款神器",
+    "https://mp.weixin.qq.com/s/Q-Vxgm4rlcbUMSQcuMV9lw": "最新Linux的本地提权漏洞分析"
 }
