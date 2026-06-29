@@ -21572,5 +21572,7 @@
     "https://mp.weixin.qq.com/s/czp0n7Dx3n5STdj2tZQz9g": "Amazon 的AI编程助手高危漏洞可导致代码执行和敏感云环境访问",
     "https://mp.weixin.qq.com/s/voZerzkRD8Kp8JZQJKWR1g": "DirtyClone: Linux 内核新漏洞，通过克隆的数据包获得根权限",
     "https://mp.weixin.qq.com/s/gTXk4wbHnKaiLyIHH_zMCg": "【已复现】漏洞通告 | Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)",
-    "https://mp.weixin.qq.com/s/s-zmVtTIsXPSsgu973fyrg": "Github上有大哥公开多个0day PoC"
+    "https://mp.weixin.qq.com/s/s-zmVtTIsXPSsgu973fyrg": "Github上有大哥公开多个0day PoC",
+    "https://mp.weixin.qq.com/s/Z9n0BzA77wIVB7eC3ink1g": "【高危漏洞预警】Linux内核高危本地提权漏洞CVE-2026-43503（DirtyClone）",
+    "https://mp.weixin.qq.com/s/hBWz_UfaA76F5efiF0MRQA": "Firefox一个月用Mythos发现500个漏洞？真相来了"
 }
