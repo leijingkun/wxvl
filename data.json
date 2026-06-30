@@ -21589,5 +21589,14 @@
     "https://mp.weixin.qq.com/s/UvHN_ETX7QI0cJ8pXgPGXg": "FOG getfiles.php 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s/BVUDCEwV1c7XQiRbVwF-0w": "CVE-2026-43503 DirtyClone Linux提权漏洞报告",
     "https://mp.weixin.qq.com/s/Bn5UrkFqkvHZD0MaPWpa1Q": "2026攻防演练必修高危漏洞集合（2.0版）",
-    "https://mp.weixin.qq.com/s/Dyx7aksG3wNBawrAV-74jA": "2026攻防演练必修高危漏洞集合（更新）"
+    "https://mp.weixin.qq.com/s/Dyx7aksG3wNBawrAV-74jA": "2026攻防演练必修高危漏洞集合（更新）",
+    "https://mp.weixin.qq.com/s/dXlT4uDqLoDnl4G-Qgb5xQ": "国安部预警：AR 手游采集 300 亿实景数据，民用地理数据存在军事化泄密风险 ；CNVD2026 第 25 期漏洞周报：零日漏洞占比超八成 | 牛览",
+    "https://mp.weixin.qq.com/s/9YbLciU3MBURETqAd5Uc3Q": "提权验证一键搞定：全面集成的内核漏洞测试工具 RootHawkX",
+    "https://mp.weixin.qq.com/s/nxKVyCI5hAuNkq2601sC-Q": "渗透测试|从账号枚举到未授权访问，再到白盒RCE的一次渗透测试实录",
+    "https://mp.weixin.qq.com/s/-pUahaI_I_0nG3XeYVFWTQ": "微步 XGPT 发现 Apple 内核漏洞并获致谢",
+    "https://mp.weixin.qq.com/s/6dku919P2H5xjt-HGKentA": "认证为空的致命接口 AOFAX企钉前台上传漏洞",
+    "https://mp.weixin.qq.com/s/8tGezd4UbB89lPQywQeqGA": "炸场！GitHub公开海量未报送0day PoC，多款常用软件高危",
+    "https://mp.weixin.qq.com/s/ESnN73pNv9zxhGsv6hAIFw": "【CVE-2026-55200】libssh2 RCE 漏洞（PoC 已公布）",
+    "https://mp.weixin.qq.com/s/XF_KDYslbjzpdanq_jhqmQ": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/rxNHcc9vEJiJczCTSGZ21g": "7月社区投稿活动 | 漏洞挖掘∕AI渗透"
 }
