@@ -21694,5 +21694,11 @@
     "https://mp.weixin.qq.com/s/QYTY5O_RQtUKJffd14kklg": "ChocoPoC 瞄准安全研究员：假的 PoC 仓库，真的是供应链攻击",
     "https://mp.weixin.qq.com/s/yB3Z_IjRBVu9AK8dSwhvEQ": "红队实战：本地AI如何发现其他工具都漏掉的漏洞",
     "https://mp.weixin.qq.com/s/tHzQFLmLLxtKtoLxAvOGqA": "聚焦 | 2026年度基础软硬件产品漏洞生态联盟大会成功召开",
-    "https://mp.weixin.qq.com/s/CBaMgBhHbSyT2t4na0k5uw": "攻防演练必备单品竟然是它：演练前审代码，演练中验漏洞"
+    "https://mp.weixin.qq.com/s/CBaMgBhHbSyT2t4na0k5uw": "攻防演练必备单品竟然是它：演练前审代码，演练中验漏洞",
+    "https://mp.weixin.qq.com/s/0mQcoUGa_IL4s6D_eJMVww": "Adobe ColdFusion 多个漏洞细节已公开，可导致远程代码执行",
+    "https://mp.weixin.qq.com/s/6vjFIzy6jTw66xoRmcispg": "Chrome V8 沙箱逃逸漏洞",
+    "https://mp.weixin.qq.com/s/QyOBMUaiDf1TPAvoqtTMyA": "7月社区投稿活动 | 漏洞挖掘∕AI渗透",
+    "https://mp.weixin.qq.com/s/R3D8BFUVxH6ph3ZW__ZZwg": "星球更新：一条 pre-auth 0day 链，从 XSS 到终端 RCE",
+    "https://mp.weixin.qq.com/s/eQNzdFwf_TAahjeCWBzbfQ": "容器隔离的底层防线正在失效？NDSS 2026论文拆解云原生最隐蔽的同步漏洞",
+    "https://mp.weixin.qq.com/s/XtR710ZEj7TYzuEyr3y91w": "Win32k回调绕道：滥用合法的内核到用户回调分发进行代码执行"
 }
