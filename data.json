@@ -21760,5 +21760,8 @@
     "https://mp.weixin.qq.com/s/a3_WGgw7J6ZxJV9cX0mLng": "AI安全现状：AI 漏洞风险是传统软件 2.7 倍，修复差距高达 25 倍",
     "https://mp.weixin.qq.com/s/bwIbT1vwu1gCPKpMFHinVA": "存在长达 16 年的 Linux KVM 漏洞，英特尔、AMD x86 平台虚拟机可突破隔离逃逸至宿主机",
     "https://mp.weixin.qq.com/s/f2PM2yDQhOxsZChjGdwGrg": "《RCE 拾遗》 | 一篇不起眼的技术汇编",
-    "https://mp.weixin.qq.com/s/Yy_snYvM81v1Vpw81ljMVQ": "AI 大幅拉低漏洞挖掘门槛，开源安全守夜人该如何突围？"
+    "https://mp.weixin.qq.com/s/Yy_snYvM81v1Vpw81ljMVQ": "AI 大幅拉低漏洞挖掘门槛，开源安全守夜人该如何突围？",
+    "https://mp.weixin.qq.com/s/H0VcYf0mY6mgf7-C0Fuorw": "微软Edge漏洞可致攻击者远程执行任意代码",
+    "https://mp.weixin.qq.com/s/42w7SwtURg97zUnpn2mrxQ": "最新 Linux 内核提权漏洞，获得八万美金，潜伏 19 年+",
+    "https://mp.weixin.qq.com/s/fyLZ3buRopnXxKLcxV1Aag": "【已复现】漏洞通告 | phpBB认证绕过漏洞(CVE-2026-48611)"
 }
