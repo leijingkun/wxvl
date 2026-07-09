@@ -21795,5 +21795,15 @@
     "https://mp.weixin.qq.com/s/gcdNGcYMQjblLr_J2SnQyA": "PHP 代码审计进入 AI 时代：40+ Agent 协作挖洞，21 类漏洞全自动覆盖",
     "https://mp.weixin.qq.com/s/3Fdli244PQUuVpG7p5AGAg": "优倍快：注意这个CVSS满分的 UniFi OS 漏洞",
     "https://mp.weixin.qq.com/s/huX7DXc5K58FgJgjdNktIg": "GhostLock：已存在15年的内核 UAF 漏洞，影响 Linux 所有发行版",
-    "https://mp.weixin.qq.com/s/oM26QWwsbWrzaxsj8Yl7XA": "Apache Shiro 反序列化漏洞利用全解析"
+    "https://mp.weixin.qq.com/s/oM26QWwsbWrzaxsj8Yl7XA": "Apache Shiro 反序列化漏洞利用全解析",
+    "https://mp.weixin.qq.com/s/KwXtaKHC8b7PwcbUqvYjcA": "【无问AI网安模型】二进制漏洞分析挖掘能力实战测评",
+    "https://mp.weixin.qq.com/s/0W37yYHwlsnqdeK3OD85KA": "SharePoint远程代码执行漏洞PoC及技术细节公开",
+    "https://mp.weixin.qq.com/s/JpLL8uahfDwGhaTDinUS7g": "【漏洞通告】XWiki Platform Old Core 目录遍历漏洞(CVE-2026-34151)",
+    "https://mp.weixin.qq.com/s/MpebdOCePYUPgo-QBzhalA": "【漏洞通告】Linux Kernel GhostLock 权限提升漏洞(CVE-2026-43499)",
+    "https://mp.weixin.qq.com/s/0dUn1ZJEpeaOb9uKXR5uxA": "【漏洞通告】Linux Kernel rtmutex 本地权限提升漏洞(CVE-2026-43499)",
+    "https://mp.weixin.qq.com/s/pFH1fmJfTxweGR91iY3NPQ": "【AI安全】Llm-Vuln-Checker开源！金丝雀悄悄揪出LLM安全漏洞",
+    "https://mp.weixin.qq.com/s/f42pOrBBl7Ft8zmjw-OkZw": "首个一键式Android 17漏洞利用链可使攻击者完全控制手机",
+    "https://mp.weixin.qq.com/s/RH2n5i8uP_lh0JmPjKnD8A": "想靠挖漏洞赚赏金？别只会机械跑工具了！掌握这5大核心技术，进阶SRC实战",
+    "https://mp.weixin.qq.com/s/Y_XDIUcv-_zYUg9udkNqkQ": "启明星辰发布天镜AI-PTS，破解漏洞验证自动化难题",
+    "https://mp.weixin.qq.com/s/CIKNm78KOXbfkO_aXCcgIg": "【已复现】用友U8cloud XChangeServlet SQL注入漏洞(QVD-2026-38848)安全风险通告"
 }
