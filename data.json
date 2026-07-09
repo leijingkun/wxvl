@@ -21784,5 +21784,11 @@
     "https://mp.weixin.qq.com/s/bmxXGrXQYGO0Y6Z8Ff8GuQ": "得到$23000赏金的挖漏洞过程",
     "https://mp.weixin.qq.com/s/R4fpQzyEgO7e_IU7RdtUcQ": "高危预警：Linux内核“Bad Epoll”漏洞（CVE-2026-46242）允许本地用户一键提权至Root(影响Linux 6.4+与Android的本地提权漏洞)",
     "https://mp.weixin.qq.com/s/OFokLPFwqsWcVfUZHYH_RQ": "MapTilerTileserver 反射xss漏洞(CVE-2025-44136)",
-    "https://mp.weixin.qq.com/s/RxBW807IwVO2BUviAPQsWQ": "正在被恶意利用的 Gitea 容器高危漏洞，可泄露代码仓库与密钥"
+    "https://mp.weixin.qq.com/s/RxBW807IwVO2BUviAPQsWQ": "正在被恶意利用的 Gitea 容器高危漏洞，可泄露代码仓库与密钥",
+    "https://mp.weixin.qq.com/s/oSNqXiN9cS8V_2xTAPVX-g": "BeyondTrust 远程接入平台四枚高危漏洞全拆解：从认证绕过到\"零信任\"信任崩塌的完整攻击链",
+    "https://mp.weixin.qq.com/s/foMleOiYvmBA-d3hq8ks_g": "大象要一口一口吃：PHP PDO扩展中的NUL字节SQL注入与空指针解引用漏洞",
+    "https://mp.weixin.qq.com/s/bAnlw-h1kFtNhYcB3xVohg": "7月社区投稿活动 | 漏洞挖掘∕AI渗透",
+    "https://mp.weixin.qq.com/s/rxFYZyc7tNO2TYz4jQsYPg": "大模型 2025–2026 新CVE 漏洞全景∕技术详情",
+    "https://mp.weixin.qq.com/s/yudRSd2hjmEd9TxIoLHKmg": "CNVD 本周漏洞态势研判：零日漏洞占比超八成，政企漏洞事件环比大幅上涨；Microsoft加速采用自研MAI模型，降低对OpenAI依赖| 牛览",
+    "https://mp.weixin.qq.com/s/T60wZJnLEZQdEEC16bcT5A": "【已复现】隐藏15年的 Linux Kernel 提权漏洞 GhostLock（CVE-2026-43499）"
 }
