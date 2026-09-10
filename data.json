@@ -22210,5 +22210,6 @@
     "https://mp.weixin.qq.com/s/mDNYKQ2XrYoEOGdHI2xLag": "DeepSeek V4.1 Flash 内测曝光：5 美分挖出 handlebars.js 0day RCE，Pro 版都做不到",
     "https://mp.weixin.qq.com/s/kThk-yBlYsype1Tjc8kdlw": "【成功复现】KafkaUI代码执行漏洞(CVE-2026-5562)",
     "https://mp.weixin.qq.com/s/73DyuQaAbc5Ei57E3CqqoQ": "漏洞复现 | 山东启恒信息科技有限公司数智化平台 CommonHandler 存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/v0wHmfferwdEqNCyRZPAuA": "Jenkins Performance 插件反序列化 RCE（CVE-2026-84670）：一个\"假白名单\"，七年潜伏，一删了之"
+    "https://mp.weixin.qq.com/s/v0wHmfferwdEqNCyRZPAuA": "Jenkins Performance 插件反序列化 RCE（CVE-2026-84670）：一个\"假白名单\"，七年潜伏，一删了之",
+    "https://mp.weixin.qq.com/s/aWzoMnsjkG485VVaDd2v3A": "【玲珑安全】第九期漏洞挖掘培训，1元先试水，3档任你选，带你从0挖到高危"
 }
