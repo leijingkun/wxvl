@@ -22303,5 +22303,12 @@
     "https://mp.weixin.qq.com/s/rC8uFUAeDcYnhXA2a7SClg": "搜狗输入法曝一键 RCE 漏洞（CVE-2026-51990），已被在野利用投放后门",
     "https://mp.weixin.qq.com/s/TAfELBir0dA7gtKG5Znbcg": "高危预警｜CVE-2026-51990 搜狗输入法RCE漏洞！可植入灰兔后门，已被APT野利用",
     "https://mp.weixin.qq.com/s/CkhLyM5FtUgtUAmc0_sJ0Q": "vivo 通过ISO漏洞管理体系认证，漏洞治理全面接轨国际标准",
-    "https://mp.weixin.qq.com/s/Sf9ns4WBGhxVNjOpQ1IqBg": "已复现 | 搜狗输入法“1点击”远程代码执行漏洞（视频）"
+    "https://mp.weixin.qq.com/s/Sf9ns4WBGhxVNjOpQ1IqBg": "已复现 | 搜狗输入法“1点击”远程代码执行漏洞（视频）",
+    "https://mp.weixin.qq.com/s/rV5a1d74Y2545LxjTW5bEw": "收到欧盟CERT漏洞通知邮件怎么办？制造商必读的CRA合规应对指南",
+    "https://mp.weixin.qq.com/s/KdYT3GHcEEutVY-sXkTa8w": "SPIP spip.php 存在远程命令执行漏洞复现poc CVE-2026-77806",
+    "https://mp.weixin.qq.com/s/eN7zn6kvuNzWR_tDz0SwVg": "Cisco邮件网关9.8分漏洞被在野利用：一封邮件直接拿root，没有任何绕过的余地",
+    "https://mp.weixin.qq.com/s/nUkpVh3YJ7ejdG0SIAb5bA": "点开一个sgbiz链接就植入后门：搜狗输入法漏洞已被真实利用",
+    "https://mp.weixin.qq.com/s/aYNGJ8fhElqgF8NDuVDVdg": "Marimo 漏洞把云凭据交到攻击者手里：从笔记本到堡垒机只需几秒",
+    "https://mp.weixin.qq.com/s/d7RYPvYUGfUiydZJPOoslw": "防火墙不是安全终点：PAN-OS未认证漏洞可拿到PA设备root权限",
+    "https://mp.weixin.qq.com/s/qPdkwy1Y9a_M3ZQ9cICt4A": "宇树暴跌！从4400亿到1900亿，制度漏洞还是估值泡沫？"
 }
