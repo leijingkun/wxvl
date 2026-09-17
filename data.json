@@ -22351,5 +22351,12 @@
     "https://mp.weixin.qq.com/s/4qCVhYUMEBac6u4BsJbHkg": "Black Hat USA 2026：.NET类型转换RCE",
     "https://mp.weixin.qq.com/s/Ch95gbakrRl7dTZP8RsDEw": "紧急安全预警｜Linux KVM曝CVSS 9.3严重虚拟机逃逸漏洞(CVE-2026-89775)，可突破Guest与Host隔离",
     "https://mp.weixin.qq.com/s/lHDQi-ujQWNLI22YlFj8dQ": "一次简单的漏洞挖掘背后，我用了白帽集市上的这些资源",
-    "https://mp.weixin.qq.com/s/vj9ZCEnRV2wnyD7_iRnZ2A": "漏洞预警 | JumpServer Access Key越权泄露漏洞"
+    "https://mp.weixin.qq.com/s/vj9ZCEnRV2wnyD7_iRnZ2A": "漏洞预警 | JumpServer Access Key越权泄露漏洞",
+    "https://mp.weixin.qq.com/s/i4c36SjHK9nDHoUExsVwuw": "Check Point 紧急修复严重漏洞，可使远程未认证攻击者获得 root 权限",
+    "https://mp.weixin.qq.com/s/3LkqpEEXSr8egHV5571wQg": "微软打印服务漏洞重现江湖",
+    "https://mp.weixin.qq.com/s/_9thMwvmLN5U4-hubOogyw": "【附exp】GitLab CVE-2026-85706 未授权路径遍历",
+    "https://mp.weixin.qq.com/s/jF1r7_xCk-cDwvNcmF_VLg": "安全快报 | 威胁组织Red Heron利用远程代码漏洞攻击多国政府和关基单位",
+    "https://mp.weixin.qq.com/s/Gx7k_MoSkSecliz0Ws0knw": "Log4j框架：1.x-2.x全版本你必须知道的12个通用漏洞（附2个Log4Shell实战案例）",
+    "https://mp.weixin.qq.com/s/hx0EZWCymHFhQX0EGeh-bA": "【漏洞通告】Cisco ISE远程代码执行漏洞（CVE-2026-20211)",
+    "https://mp.weixin.qq.com/s/4HWdWBzvbueHgd_3EHj41w": "投毒、RCE、提权窃密：深度复盘OpenAI智能体发起的这波高阶供应链攻击"
 }
