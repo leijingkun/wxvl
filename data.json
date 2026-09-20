@@ -22449,5 +22449,7 @@
     "https://mp.weixin.qq.com/s/dYsPpa3YYDhaVa6VuKKt3w": "pgAdmin 严重认证绕过漏洞：伪造 HTTP 头即可冒充管理员登录",
     "https://mp.weixin.qq.com/s/fyY5CJwdVcUgvOb8ct6ijQ": "9月社区投稿活动 | 漏洞挖掘∕AI渗透∕面试经验∕简历编写",
     "https://mp.weixin.qq.com/s/yAkS1WJ431Zx7nW5FNmv7Q": "【已复现】WordPress Click2Shell 核心预认证远程代码执行漏洞(QVD-2026-70986)安全风险通告",
-    "https://mp.weixin.qq.com/s/Am4GMFyi-9866VOom0DZIQ": "护网出局单位的RCE"
+    "https://mp.weixin.qq.com/s/Am4GMFyi-9866VOom0DZIQ": "护网出局单位的RCE",
+    "https://mp.weixin.qq.com/s/fAylyI9RH-nJNSPd45rEog": "【已复现】Cisco ISE 认证绕过漏洞（CVE-2026-76460）",
+    "https://mp.weixin.qq.com/s/f2qsP8coahnqHnXQ-0z0nw": "(9.1分) CVE-2026-93958：D-Link R95 路由器命令注入"
 }
