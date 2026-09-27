@@ -22628,5 +22628,10 @@
     "https://mp.weixin.qq.com/s/OEziIZqE2BPwuR4BxXaRxA": "大洞速修！VMware vCenter 未授权 RCE 漏洞！",
     "https://mp.weixin.qq.com/s/EtZpbr79VkFDfH5ofXgh0Q": "扫描器永远扫不出来的那一类洞：业务逻辑漏洞怎么挖",
     "https://mp.weixin.qq.com/s/6d2_VM44LZVmDwLus-7mGA": "(9.6分) CVE-2026-100715：Froxlor 面板符号链接任意文件删除",
-    "https://mp.weixin.qq.com/s/CS57XQOTfIm840aeoW8_OQ": "Sudo高危漏洞曝光，本地用户可绕过提权时间限制"
+    "https://mp.weixin.qq.com/s/CS57XQOTfIm840aeoW8_OQ": "Sudo高危漏洞曝光，本地用户可绕过提权时间限制",
+    "https://mp.weixin.qq.com/s/czAYiTvUC3-stooDhNWzlg": "(9.9分) CVE-2026-100740：D-Link路由器越界写入可远程打崩",
+    "https://mp.weixin.qq.com/s/x_qZxqvY-VU2iweyCryS6Q": "为什么AI找出了100个漏洞，最后可能一个都交不上去？",
+    "https://mp.weixin.qq.com/s/hIH4xbX242tPCob0e0o04Q": "Mythos让我重新思考了一件事：未来网络安全，拼的不是谁的工具多，而是谁先找到漏洞",
+    "https://mp.weixin.qq.com/s/jmelVfSIhDHIFQLpmG-8pw": "从一条聊天消息到主播电脑被完全控制：漏洞连环套如何攻破OBS",
+    "https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ": "【高危漏洞预警】VMware vCenter Syslog服务未授权目录遍历远程代码执行漏洞CVE-2026-59310"
 }
