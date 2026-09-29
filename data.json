@@ -22672,5 +22672,22 @@
     "https://mp.weixin.qq.com/s/pcj3HVsp61Yw1Ap5CDIY5A": "CVE-2026-43786:macOS CoreServices 漏洞概念验证(PoC)已公开披露",
     "https://mp.weixin.qq.com/s/zzSxXyFvnSakwPYQdSZhiQ": "Roundcube 预认证 SQL 注入漏洞已遭在野活跃利用",
     "https://mp.weixin.qq.com/s/sd5rMBmeauewDfchfEl4AQ": "【代码审计】web漏洞之seacms13.6登录后文件写入缓存文件导致getshell",
-    "https://mp.weixin.qq.com/s/9fZ9iseX1RcLHnTRq5gWrg": "漏洞挖掘和红队工作技能包 - Claude-BugHunter"
+    "https://mp.weixin.qq.com/s/9fZ9iseX1RcLHnTRq5gWrg": "漏洞挖掘和红队工作技能包 - Claude-BugHunter",
+    "https://mp.weixin.qq.com/s/6L4XTDkZDHT5dEbmMjh8GA": "记某SRC阿里云存储接管&企业SRC隐私合规漏洞",
+    "https://mp.weixin.qq.com/s/HAiRmadezrvq0_N2Bh5H4A": "漏洞预警 | macOS本地提权漏洞",
+    "https://mp.weixin.qq.com/s/ubifhF9TL9huXTwQ4KX52w": "安全工具丨存储桶遍历漏洞可视化检测利器",
+    "https://mp.weixin.qq.com/s/ubOHE92IDAAGENQwf7DcHw": "CVE-2026-51990 | 搜狗输入法Windows版远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/LlTrzR8t_eqbqEFet_Qddg": "斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效",
+    "https://mp.weixin.qq.com/s/YRGV_ldHi2BqWL-50jwZdA": "漏洞挖掘案例-任意用户接管",
+    "https://mp.weixin.qq.com/s/Cz-_rkTtOPvJc1Qp0IGt2Q": "【热点安全风险】9月29日｜VMware vCenter 无需认证漏洞技术细节与利用代码公开，攻击者可执行任意代码（CVE-2026-59310）",
+    "https://mp.weixin.qq.com/s/3SieXlcxXZ5ZpWkVMARWKQ": "(9.9分) CVE-2026-101037：FAST路由器栈溢出PoC公开",
+    "https://mp.weixin.qq.com/s/cZY_T4QtpumiDBZOkdKJXw": "两高一弱专项治理与漏洞全生命周期闭环管控",
+    "https://mp.weixin.qq.com/s/mBEJA26HbbOPTjStR_Z-4Q": "漏洞预警 | Microsoft SharePoint远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/a3p9IMd5DB8HKC2KynWERQ": "自动化资产测绘 + 漏洞扫描工具 -- dddd-next（9月29日更新）",
+    "https://mp.weixin.qq.com/s/JG63jRw3KZJ9R2hJse1LEA": "CVE-2026-93485 | WordPress Comment2Shell存储型XSS可导致RCE漏洞（POC）",
+    "https://mp.weixin.qq.com/s/pw--NfjpGQqJKDbKI-_JHg": "Temu 白菜摄像头打到 root：Jooan C9TS 从 UART 到诊断模式 RCE",
+    "https://mp.weixin.qq.com/s/JsAzlQmqDKnzfASy8Sf-vQ": "已在野利用！Citrix NetScaler ADC∕Gateway RCE",
+    "https://mp.weixin.qq.com/s/IRmrk5sWM9u_a23VvfpELw": "Anthropic推出Sonnet 5.5：速度提升30%、成本下降30%；CNVD 第38期漏洞周报：本周收录516个漏洞，0day漏洞占比达85%| 牛览",
+    "https://mp.weixin.qq.com/s/_b_8WyLwcjghzCwVZlitsw": "写出 Triager 级漏洞赏金报告",
+    "https://mp.weixin.qq.com/s/TEyagESNRHj5NURru4XQHA": "王欣：漏洞进入“AI量产时代”，风险处置如何抢在黑客之前？"
 }
