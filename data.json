@@ -22728,5 +22728,6 @@
     "https://mp.weixin.qq.com/s/mdK_IcZ5LHMz6vzd_zQeiA": "【地图大师的代码审计之路 第二篇】从代码层看懂越权与未授权漏洞为何如此高发",
     "https://mp.weixin.qq.com/s/Psj1IUoiG1_oab5VgHZRNQ": "54款大模型测出873个漏洞，网安生该学什么？",
     "https://mp.weixin.qq.com/s/I1TqA3FFUz-6EKrOuJPghQ": "一条日志报文拿到 vCenter 的 root：CVE-2026-59310 复现记录",
-    "https://mp.weixin.qq.com/s/-ps4Hty70QFXHX1bRSjpeg": "路径遍历漏洞：一个下载接口引发的系统文件泄露"
+    "https://mp.weixin.qq.com/s/-ps4Hty70QFXHX1bRSjpeg": "路径遍历漏洞：一个下载接口引发的系统文件泄露",
+    "https://mp.weixin.qq.com/s/JyXkDWmGtCn2rYsY9iEoMQ": "16岁研究员发现微软身份验证漏洞，导致17.3万亿条记录泄露"
 }
