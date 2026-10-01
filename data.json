@@ -22771,5 +22771,6 @@
     "https://mp.weixin.qq.com/s/ACcihEtNAyF5AaEI2HxQgg": "AI代理挖洞：从代码到RCE的漏洞研究工作流",
     "https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA": "(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE",
     "https://mp.weixin.qq.com/s/EbnIHz5rfb8RJSuu-JmwNQ": "(9.8分) CVE-2026-76504：思科SD-WAN管理平台认证绕过",
-    "https://mp.weixin.qq.com/s/-eBKnSNJ0T7g5WB_wNAROQ": "渗透测试从业者的新武器 AI 插件主动打 payload，凭证据判定漏洞"
+    "https://mp.weixin.qq.com/s/-eBKnSNJ0T7g5WB_wNAROQ": "渗透测试从业者的新武器 AI 插件主动打 payload，凭证据判定漏洞",
+    "https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA": "CVE-2026-94545 Next.js next∕og 未经身份验证的远程代码执行"
 }
