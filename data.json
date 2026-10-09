@@ -22950,5 +22950,9 @@
     "https://mp.weixin.qq.com/s/HJ7DCKv9U-KTzZMmFFDU4Q": "「关键漏洞目录」新增「ISC BIND拒绝服务漏洞(CVE-2015-5477)」等6个漏洞",
     "https://mp.weixin.qq.com/s/_oVtbSSG8g_y3UEljSFFfg": "双冒号打穿Atlassian全家桶：预认证任意文件读取9.3分(CVE-2026-21589附PoC)",
     "https://mp.weixin.qq.com/s/sLexTQsemg2GKAeh0vPoVg": "VMware VMXNET3 严重漏洞，可导致客户机至宿主机代码执行",
-    "https://mp.weixin.qq.com/s/445-QUAsBRk8463hjJsKpw": "Citrix：这个严重的 NetScaler SAML 漏洞可导致 RCE"
+    "https://mp.weixin.qq.com/s/445-QUAsBRk8463hjJsKpw": "Citrix：这个严重的 NetScaler SAML 漏洞可导致 RCE",
+    "https://mp.weixin.qq.com/s/wU0irboXUX6n_rPzmZmCQQ": "我把一个目标丢给 AI 找洞，它给了我一个 RCE——也给了 27 个幻觉",
+    "https://mp.weixin.qq.com/s/ODQTs3jjeam9FpT1OetQPQ": "Atlassian Jira存在任意文件读取漏洞CVE-2026-21589  附POC",
+    "https://mp.weixin.qq.com/s/-ayQDomcbhlISg89MAmCfg": "LibreOffice Calc曝(CVE-2026-63277)，恶意电子表格可绕过宏提示触发Java代码执行",
+    "https://mp.weixin.qq.com/s/uKR16uxOoiT57MX9iApCNQ": "复现Atlassian系统任意文件读取漏洞(CVE-2026-21589)"
 }
