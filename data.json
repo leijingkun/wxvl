@@ -23121,5 +23121,9 @@
     "https://mp.weixin.qq.com/s/zkKFNj81YY_iQqRWsG4e9g": "Next.js next∕og 未授权 RCE（CVE-2026-94545）：一张图片换来服务器 Shell",
     "https://mp.weixin.qq.com/s/R989TwSqm9JYaewgfBiHBA": "Web漏洞挖掘实战宝典：40 个必知技巧，全是看得到赏金的漏洞实操思路！",
     "https://mp.weixin.qq.com/s/zzGpGmXSSvHCxpKpEwMHwg": "全网最全POC 可搭建漏洞库",
-    "https://mp.weixin.qq.com/s/KsSLru3cu1tJdtwUPXrctw": "AI 挖洞越来越快，为什么企业的漏洞还是修不完？"
+    "https://mp.weixin.qq.com/s/KsSLru3cu1tJdtwUPXrctw": "AI 挖洞越来越快，为什么企业的漏洞还是修不完？",
+    "https://mp.weixin.qq.com/s/peOlJ3mdLbA7Z9n-TGciEA": "【热点安全风险】10月14日｜GitLab 曝未认证满分代码执行漏洞，攻击者可接管代码托管平台（CVE-2026-97229）",
+    "https://mp.weixin.qq.com/s/LDUrsY3cJGcLLOb3TTKzbQ": "AI 赋能的漏洞播报系统，7*24 小时监控全网漏洞播报，间隔10分钟自动抓取",
+    "https://mp.weixin.qq.com/s/qL4HAhOxMCnRvAx_TYzI3A": "Cisco Nexus交换机存在严重漏洞，未经身份验证的攻击者可利用这些漏洞以root权限执行代码",
+    "https://mp.weixin.qq.com/s/-2cVW9EcwezUH6yYrJgBRA": "AI赋能漏洞挖掘案例分享1-某系统从sql到登录绕过再到后台getshell"
 }
